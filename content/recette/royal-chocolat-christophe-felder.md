@@ -122,38 +122,38 @@ https://www.encoreungateau.com/praline-maison/
 
 ### Préparation de la dacquoise
 
--    Préchauffez le four à 170° (th5/6) et recouvrez une plaque en métal perforé de papier sulfurisé.
- -   Tamisez ensemble le sucre glace, la poudre d'amandes et la poudre de noisettes Réservez.
--    Montez les blancs en neige ferme en ajoutant progressivement le sucre en poudre.
--    Versez le mélange de poudres et de sucre glace sur les blancs montés et mélangez délicatement avec une maryse sans faire retomber les blancs.
--   Mettez l'appareil à dacquoise en poche et dressez un disque sur le papier sulfurisé (à la spatule pour marieclementine.fr).
--    Enfournez pour 15 minutes de cuisson. (20-25 mn pour marieclementine.fr) La dacquoise doit être dorée et ne plus coller au doigt.
- -   À la sortie du four, laissez tiédir à température ambiante.
+- Préchauffez le four à 170° (th5/6) et recouvrez une plaque en métal perforé de papier sulfurisé.
+- Tamisez ensemble le sucre glace, la poudre d'amandes et la poudre de noisettes Réservez.
+- Montez les blancs en neige ferme en ajoutant progressivement le sucre en poudre.
+- Versez le mélange de poudres et de sucre glace sur les blancs montés et mélangez délicatement avec une maryse sans faire retomber les blancs.
+- Mettez l'appareil à dacquoise en poche et dressez un disque sur le papier sulfurisé (à la spatule pour marieclementine.fr).
+- Enfournez pour 15 minutes de cuisson. (20-25 mn pour marieclementine.fr) La dacquoise doit être dorée et ne plus coller au doigt.
+- À la sortie du four, laissez tiédir à température ambiante.
 
 
 ### Réalisation du croustillant praliné
 
--    Faites fondre le chocolat au bain marie.
- -   Mélangez ensemble les gavottes grossièrement écrasées, le praliné et la pâte de noisettes. Ajoutez le chocolat fondu et mélangez à nouveau.
- -   Réservez.
- -   Pour marieclementine.fr : Préparez une plaque couverte de papier sulfurisé sur laquelle vous poserez un cercle à pâtisserie de 22 cm environ. 
- - Versez le mélange dans le cercle. Réservez au congélateur au moins 10 mn.
+- Faites fondre le chocolat au bain marie.
+- Mélangez ensemble les gavottes grossièrement écrasées, le praliné et la pâte de noisettes. Ajoutez le chocolat fondu et mélangez à nouveau.
+- Réservez.
+- Pour marieclementine.fr : Préparez une plaque couverte de papier sulfurisé sur laquelle vous poserez un cercle à pâtisserie de 22 cm environ. 
+- Versez le mélange dans le cercle. Réservez au congélateur au moins 10 mn.
 
 
 ### Assemblage de la dacquoise et du croustillant praliné
 
--    À l'aide d'un cercle de 18cm, découpez la dacquoise et décollez la du papier sulfurisé. (cercle 22 cm pour marieclementine.fr)
--    Étalez le croustillant praliné sur la dacquoise en lissant bien la surface avec une spatule coudée.  
- -        Réservez au réfrigérateur.
+- À l'aide d'un cercle de 18cm, découpez la dacquoise et décollez la du papier sulfurisé. (cercle 22 cm pour marieclementine.fr)
+- Étalez le croustillant praliné sur la dacquoise en lissant bien la surface avec une spatule coudée.  
+- Réservez au réfrigérateur.
 
 
 ### Préparation de la chantilly au chocolat
 
- -   Faites fondre le chocolat au bain-marie ou au micro-ondes.
+- Faites fondre le chocolat au bain-marie ou au micro-ondes.
 - Faites bouillir le lait et versez le sur le chocolat fondu. Remuez vivement pour obtenir une ganache lisse et homogène.
 - Réservez.
--    Lorsque le chocolat est tiède, montez la crème liquide en chantilly souple.
- -   Versez 1/3 de la crème fouettée sur le chocolat et mélangez pour homogénéiser.
+- Lorsque le chocolat est tiède, montez la crème liquide en chantilly souple.
+- Versez 1/3 de la crème fouettée sur le chocolat et mélangez pour homogénéiser.
 - Reversez ce mélange dans le reste de crème fouettée et mélangez délicatement à la maryse. 
 - Réservez.
 ### Montage du royal chocolat
@@ -168,10 +168,10 @@ https://www.encoreungateau.com/praline-maison/
 
 - Faites fondre le chocolat au micro-ondes, attention de ne pas le brûler, et coulez le sur une bande de rhodoïd que vous aurez préalablement découpée à la mesure du contour de votre gâteau.
 - Étalez le chocolat avec une spatule et laissez le prendre à température ambiante. Il doit avoir épaissi mais pas figé.
- -   Décerclez votre royal chocolat et ôtez délicatement le rhodoïd.
+- Décerclez votre royal chocolat et ôtez délicatement le rhodoïd.
 - Placez votre ruban de chocolat tout autour du gâteau en mettant, bien sûr, le côté chocolat contre la mousse.
 - Réservez au réfrigérateur une dizaine de minutes et ôtez délicatement le rhodoïd.
--    Saupoudrez la surface du gâteau avec le cacao en poudre.
+- Saupoudrez la surface du gâteau avec le cacao en poudre.
 
 
 
@@ -190,7 +190,7 @@ https://www.encoreungateau.com/praline-maison/
 - gavottes : 100 grammes
 - chocolat au lait : 100 grammes
 - praliné : 100 grammes
--   pâte de noisette : 100 grammes
+- pâte de noisette : 100 grammes
 
 ### Chantilly :
 - crème fraîche Mascarpone : 600 ml

@@ -1,12 +1,14 @@
 {{ define "main" }}
 
 <header class="bg-mycolor-400 px-4 ">
-    <h1 class="uppercase text-center py-12">{{.Title}}</h1>
+    <h1 class="uppercase text-center pb-0">{{.Title}}</h1>
+    <p class="text-center italic pb-3 md:pb-8 lg:pb-12">une recette de {{.Params.Author}}</p>
     <div >
         {{$startPath := "/recette"}}
-        <img class="mx-auto w-3/12" src="{{path.Join $startPath .Params.Photo}}" alt="{{ .Params.Alt }}">
+        <img class="mx-auto w-5/12 md:w-4/12 lg:w-3/12" src="{{path.Join $startPath .Params.Photo}}" alt="{{ .Params.Alt }}">
     </div>
 </header>
+
 <main class="bg-mycolor-200 p-6">
     
     {{ if (isset .Params "remarque") }} 
