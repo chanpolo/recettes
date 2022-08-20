@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "NODE_ENV=development ./node_modules/tailwindcss/lib/cli.js -i ./static/css/tailwind.css -o ./static/css/main.css -w",
+    "build": "NODE_ENV=production ./node_modules/tailwindcss/lib/cli.js -i ./static/css/tailwind.css -o ./static/css/main.css --minify"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.0.5"
+  }
+}

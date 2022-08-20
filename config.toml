@@ -1,0 +1,105 @@
+baseURL = '/'
+defaultContentLanguage = 'fr'
+title = 'Chan&Polo'
+
+enableRobotsTXT = true
+paginate = 100
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    identifier = "accueil"
+    name = "Accueil"
+    url = "/"
+    weight = 1
+    
+  [[menu.main]]
+    identifier = "recette"
+    name = "Recettes"
+    url = "#"
+    weight = 10
+  [[menu.main]]
+    identifier = "recette-date"
+    name = "Par Dates"
+    url = "/recette"
+    parent = "recette"
+    weight = 10
+  [[menu.main]]
+    identifier = "recette-auteur"
+    name = "Par Auteurs"
+    url = "/recette-author"
+    parent = "recette"
+    weight = 30
+  [[menu.main]]
+    identifier = "recette-nom"
+    name = "Par Noms"
+    url = "/recette-name"
+    parent = "recette"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "auteurs"
+    name = "Auteurs"
+    url = "#"
+    weight = 60
+  [[menu.main]]
+    identifier = "recette-chan-polo"
+    name = "Chan & Polo"
+    url = "/auteur-chan-et-polo"
+    parent = "auteurs"
+    weight = 10
+  [[menu.main]]
+    identifier = "recette-jean"
+    name = "Jean"
+    url = "/auteur-jean"
+    parent = "auteurs"
+    weight = 20  
+  [[menu.main]]
+    identifier = "recette-paul"
+    name = "Paul"
+    url = "/auteur-paul"
+    parent = "auteurs"
+    weight = 70     
+  [[menu.main]]
+    identifier = "recette-foufy"
+    name = "Foufy"
+    url = "/auteur-foufy"
+    parent = "auteurs"
+    weight = 15     
+
+
+
+  [[menu.main]]
+    identifier = "type"
+    name = "Types"
+    url = "#"
+    weight = 60
+  [[menu.main]]
+    identifier = "type-entree"
+    name = "Entrées"
+    url = "/type-entree"
+    parent = "type"
+    weight = 10
+  [[menu.main]]
+    identifier = "type-plat"
+    name = "Plats"
+    url = "/type-plat"
+    parent = "type"
+    weight = 20  
+  [[menu.main]]
+    identifier = "type-dessert"
+    name = "Desserts"
+    url = "/type-dessert"
+    parent = "type"
+    weight = 30     
+  [[menu.main]]
+    identifier = "type-base"
+    name = "Bases"
+    url = "/type-base"
+    parent = "type"
+    weight = 40     
+
