@@ -1,4 +1,4 @@
-baseURL = '/'
+baseURL = 'https://chanpolo.netlify.app/'
 defaultContentLanguage = 'fr'
 title = 'Chan&Polo'
 
