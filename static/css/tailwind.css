@@ -12,7 +12,7 @@
 
   /* le body, le header*/
   body {
-    @apply bg-mycolor-200 container mx-auto text-mycolor-700 ;
+    @apply bg-mycolor-200 container mx-auto text-mycolor-700 px-1 md:px-2;
   }
   header {
     @apply bg-mycolor-300 px-4 pb-8 ;

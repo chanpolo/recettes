@@ -21,7 +21,7 @@ caption: "Royal au Chocolat"
 source: "https://www.encoreungateau.com/royal-chocolat-de-christophe-felder/"
 remarque: > 
     A faire la veille<br />
-    [Regarder les proportions en fin de recette !]({{<ref "royal-chocolat-christophe-felder.md#ma-recette--proportions-et-conseils" >}})
+    <a href = "#ma-recette--proportions-et-conseils">Regarder les proportions en fin de recette !</a>
 
 
 preparation: 
