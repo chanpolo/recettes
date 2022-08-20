@@ -1,0 +1,14 @@
+{{ define "main" }}
+<main >
+    <header>
+        {{ partial "header/header_main.html" .}}
+        {{.Content}}
+    </header>
+
+    {{ range .Site.RegularPages.ByTitle }}
+        {{ if in .Params.Categories "base" }}
+            {{ partial "body/recettes-list.html" . }}
+        {{ end }}
+    {{end}}
+{{ end }}
+

@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .btn-base {
+    @apply bg-mycolor-600 hover:bg-mycolor-400 font-bold py-2 px-4 border border-mycolor-900 hover:border-mycolor-700 rounded text-mycolor-100 uppercase;
+  }
+}
+
+@layer base {
+
+  /* le body, le header*/
+  body {
+    @apply bg-mycolor-200 container mx-auto text-mycolor-700 ;
+  }
+  header {
+    @apply bg-mycolor-300 px-4 pb-8 ;
+  }
+  /* les titres */
+  h1 {
+
+    @apply text-2xl  font-semibold py-2 ;
+    
+    @apply md:text-3xl md:py-6;
+    
+    @apply lg:text-4xl lg:py-12;
+    
+    @apply xl:text-5xl xl:py-20;
+   
+    @apply 2xl:text-6xl 2xl:py-24;
+  
+  }
+  
+  h2 {
+    @apply text-2xl font-medium pt-3 pb-1.5;
+  }
+  h3 {
+    @apply text-xl font-medium py-1.5;
+  }
+  h4 {
+    @apply text-xl font-medium py-1.5;
+  }
+  /* les puces */
+  ul {
+    @apply list-inside list-disc;
+  }
+}

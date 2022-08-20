@@ -1,0 +1,15 @@
+<li class="hidden lg:inline-grid grid grid-cols-6  gap-x-4 pt-1">
+    <img class="col-span-1 " src=" /recette/{{.Params.Photo }}"  alt="{{.Params.Alt }}">
+    <a class="col-span-2 capitalize md:tracking-wide " href="{{.Permalink}}"><span class="font-normal md:font-semibold md:text-xl md:pt-1">{{.Title}}</span><br><span class="md:text-lg">{{.Date.Format "02/01/2006"}} </span><br><span class="md:text-lg">{{.Params.Author}} </span></a>
+    <span class=" col-span-3  tracking-tighter md:tracking-wide lg:tracking-widest md:text-lg">
+    {{ .Params.Description | markdownify }}
+    </span>
+</li>
+<li class= "lg:hidden grid grid-cols-6  gap-2 text-xs pt-1">
+    <img class="col-span-1" src=" /recette/{{.Params.Photo }}"  alt="{{.Params.Alt }}">
+    <a class="col-span-2 capitalize " href="{{.Permalink}}"><span class=" ">{{.Title}}</span><br><span class="">{{.Date.Format "02/01/2006"}} </span><br><span class="">{{.Params.Author}} </span></a>
+    <span class=" col-span-3 ">
+        {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
+    </span>
+</li>
+

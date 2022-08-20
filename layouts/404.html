@@ -1,0 +1,45 @@
+
+
+    
+
+
+{{ define "main"}}
+<main id="main">
+    <style>    
+        /* Morph */
+        .morph div img {
+            width: 200px;
+            height: 150px;
+            -webkit-filter: grayscale(0) blur(0px);
+            filter: grayscale(0) blur(0px);
+            -webkit-transition: all 0.5s ease;
+            transition: all 0.5s ease;
+          }
+          .morph div:hover img {
+            width: 150px; /* on affiche l'image au carré */
+            height: 150px;
+            border-radius: 50%;  /* on arrondit l'image */
+            -webkit-transform: rotate(360deg); /* rotation de l'image */
+            transform: rotate(360deg);
+          }
+          
+          
+        </style>
+    <div class=" bg-gray-600 h-64 flex items-center justify-center text-white text-4xl text-center">
+        <h1 class="uppercase text-center" id="title"><a href="#">aïe aïe aïe ! cette page n'existe pas !</a></h1>
+    </div>
+    <div class="morph bg-gray-400  flex items-center">
+        <div class="mx-auto">
+            <img class="   " src="/media/404/404.png" alt="image du nombre 404 inscrit en rouge sur un fond rectangulaire gris ; symbolise l'erreur du même nom : la page n'existe pas ; l'image fait une rotation sur elle-même et s'inscrit dans un cercle">
+        </div>
+    </div>
+        
+    <div class="morph bg-gray-300 h-48 flex items-center justify-center">
+        <div class="mx-auto">
+            <a class="" href="/"><img src="/media/404/404-button.png" alt="bouton image ayant comme texte en rouge: click retour à l'accueil sur un fond rectangulaire gris; l'image fait une rotation de 360° lorsque l'on clique dessus et le texte s'inscrit dans un cercle"></a>
+        </div>
+    </div>
+</main>
+{{ end }}
+
+

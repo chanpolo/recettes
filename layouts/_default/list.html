@@ -1,0 +1,84 @@
+
+{{ define "main" }}
+
+<main >
+
+        <header>
+            <h1 class="uppercase text-center pt-20 pb-24">{{.Title}}</h1>
+            {{.Content}}
+            <button id="btnDate" class="btn-base" onclick="getDate()">Par Date</button>  <button id="btnTitle" class="btn-base" onclick="getTitle()">Par Titre</button>
+
+        </header>
+       
+   <div id="bydate" >        
+        <ul class="pt-2 md:pt-8 ">
+        {{ range .Pages }}
+            <li class="hidden lg:inline-grid grid grid-cols-6  gap-4 py-2">
+                <img class="col-span-1 py-1" src=" {{.Params.Photo }}"  alt="{{.Params.Alt }}">
+                <a class="col-span-2 capitalize md:tracking-wide " href="{{.Permalink}}"><span class="font-normal md:font-semibold md:text-xl md:pt-1">{{.Title}}</span><br><span class="md:text-lg">{{.Date.Format "02/01/2006"}} </span><br><span class="md:text-lg">{{.Params.Author}} </span></a>
+                <span class=" col-span-3  tracking-tighter md:tracking-wide md:pt-1 lg:tracking-widest md:text-lg">
+                {{ .Params.Description | markdownify }}
+                </span>
+            </li>
+            <li class= "lg:hidden grid grid-cols-6  gap-2 py-2">
+                <img class="col-span-1 py-1" src=" {{.Params.Photo }}"  alt="{{.Params.Alt }}">
+                <a class="col-span-2 capitalize " href="{{.Permalink}}"><span class="tracking-tight ">{{.Title}}</span><br><span class="tracking-tight">{{.Date.Format "02/01/2006"}} </span><br><span class="md:text-lg">{{.Params.Author}} </span></a>
+                <span class=" col-span-3 tracking-tight">
+                    {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
+                </span>
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+    </div>
+    
+    <div id="bytitle" >
+        <ul class="pt-2 md:pt-8 ">
+        {{ range .Pages.ByTitle }}
+        <li class="hidden lg:inline-grid grid grid-cols-6  gap-4 py-2">
+            <img class="col-span-1 py-1" src=" {{.Params.Photo }}"  alt="{{.Params.Alt }}">
+            <a class="col-span-2 capitalize md:tracking-wide " href="{{.Permalink}}"><span class="font-normal md:font-semibold md:text-xl md:pt-1">{{.Title}}</span><br><span class="md:text-lg">{{.Date.Format "02/01/2006"}} </span><br><span class="md:text-lg">{{.Params.Author}} </span></a>
+            <span class=" col-span-3  tracking-tighter md:tracking-wide md:pt-1 lg:tracking-widest md:text-lg">
+            {{ .Params.Description | markdownify }}
+            </span>
+        </li>
+        <li class= "lg:hidden grid grid-cols-6  gap-2 py-2">
+            <img class="col-span-1 py-1" src=" {{.Params.Photo }}"  alt="{{.Params.Alt }}">
+            <a class="col-span-2 capitalize " href="{{.Permalink}}"><span class="tracking-tight ">{{.Title}}</span><br><span class="tracking-tight">{{.Date.Format "02/01/2006"}} </span><br><span class="md:text-lg">{{.Params.Author}} </span></a>
+            <span class=" col-span-3 tracking-tight">
+                {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
+            </span>
+        </li>
+        {{end}}
+        </ul>
+    </div>
+</main>
+
+<!-- Script qui permet de cacher/dévoiler la liste et le bouton de tri par date ou par nom 
+    et qui charge la page avec le tri par date !-->
+<script type="text/javascript">
+    function getDate() {
+        var divT = document.getElementById("bytitle");
+        divT.style.display = "none";
+        var divD = document.getElementById("bydate");
+        divD.style.display = "block";
+        var btnT = document.getElementById("btnTitle");
+        btnT.style.display = "block";
+        var btnD = document.getElementById("btnDate");
+        btnD.style.display = "none";
+    }
+    function getTitle() {
+        var divT = document.getElementById("bytitle");
+        divT.style.display = "block";
+        var divD = document.getElementById("bydate");
+        divD.style.display = "none";
+        var btnT = document.getElementById("btnTitle");
+        btnT.style.display = "none";
+        var btnD= document.getElementById("btnDate");
+        btnD.style.display = "block";
+    }
+    window.onload = getDate();
+</script>
+
+{{ end }}
+

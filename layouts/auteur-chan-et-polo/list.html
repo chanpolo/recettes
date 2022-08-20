@@ -1,0 +1,15 @@
+{{ define "main" }}
+<main >
+    <header>
+        {{ partial "header/header_main.html" .}}
+
+        {{.Content}}
+    </header>
+
+    <ul class="pt-2 md:pt-8 ">
+        {{ range where .Site.RegularPages.ByTitle "Params.author" "Chan & Polo"}}
+            {{ partial "body/recettes-list.html" . }}
+        {{ end }}
+    </ul>
+
+{{ end }}

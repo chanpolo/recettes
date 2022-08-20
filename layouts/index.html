@@ -1,0 +1,30 @@
+
+<!DOCTYPE html>
+<html>
+  {{ block "head" .}}
+    {{ partial "head/head_main.html" }}
+  {{ end }}
+  <body>
+    {{ partial "nav/nav.html" .}}
+    <div class="bg-mycolor-400">
+    {{ block "header" .}}
+      {{ partial "header/header_main.html" .}}
+    {{ end }}
+    </div>
+    {{ block "main" . }}
+      {{ .Content }}
+    {{ end }}
+    <br>
+    <h2>Nos 5 dernières recettes</h2>
+    {{ range first 5 .Site.RegularPages }}
+      {{ partial "body/recettes-list.html" . }}
+    {{ end }}
+    <h2>2 entrées, 2 plat et 1 dessert</h2>
+    {{ block "footer" . }}
+     {{ partial "footer/footer_main.html" . }}  
+    {{ end }}
+  </body>
+</html>
+
+  
+
