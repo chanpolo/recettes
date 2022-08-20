@@ -32,21 +32,21 @@ cuisson:
 
 ## Ingrédients
 ### Recette de base
-- 340 g de farine : 220 g de T65 + 120 g de T40 ou de farine italienne 00
+- 340 g de farine : 220 g de T65 + 120 g de T45 ou de farine italienne 00
 - 1 c à café de sucre
 - 1 c à café de sel
 - 1 c à café de levure
 - 1,5 c à soupe d’huile
 - 205 g d’eau tiède
 ### Recette pour une plaque de four
-- 255 g de farine : 165 g de T65 + 90 g de T40
+- 255 g de farine : 165 g de T65 + 90 g de T45
 - 3/4 c à café  de sucre
 - 1 sachet de levure du boulanger
 - 3/4 c à café de sel
 - 1,2 c à soupe d’huile
 - 154 g d’eau tiède
 ### Recette pour deux plaques de four
-- 510 g de farine : 330 + 180 ; farine T65
+- 510 g de farine : 330 + 180 (T65 / T45)
 - 1 c à café et demi de sucre
 - 2 sachet de levure du boulanger (un sachet pour 250 g de farine)
 - 1 c à café et demi de sel

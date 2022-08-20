@@ -1,3 +1,25 @@
-<div class="h-32 bg-mycolor-900 text-white  mb-4">
-    <p class="pt-12 italic text-base text-center lg:text-lg ">La Cuisine de Chan & Polo !</p>
+<div class="relative h-16 md:h-32 bg-mycolor-900 text-white  mb-1 md:mb-4">
+    <p class=" pt-1 md:pt-8 italic text-base text-center lg:text-lg ">La Cuisine de Chan & Polo !</p>
+   
+    <div class="hidden md:inline absolute left-6 pt-6">
+        {{ with .PrevInSection }}
+            <a  href="{{ .Permalink }}"><<  {{ .Title }}</a>
+        {{ end }}
+    </div>
+    <div class="hidden md:inline absolute right-6 pt-6">
+        {{ with .NextInSection }}
+            <a href="{{ .Permalink }}">{{ .Title }} >></a>
+        {{ end }}
+    </div>
+    <div class=" md:hidden absolute left-4 pt-2">
+        {{ with .PrevInSection }}
+            <a  href="{{ .Permalink }}"><<  Précédent</a>
+        {{ end }}
+    </div>
+    <div class="md:hidden absolute right-2 pt-2">
+        {{ with .NextInSection }}
+            <a href="{{ .Permalink }}">Suivant >></a>
+        {{ end }}
+    </div>
+
 </div>
