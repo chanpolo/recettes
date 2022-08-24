@@ -19,11 +19,65 @@
     {{ range first 5 .Site.RegularPages }}
       {{ partial "body/recettes-list.html" . }}
     {{ end }}
-    <h2>2 entrées, 2 plat et 1 dessert</h2>
+    <h2>Les 5 propositions du jour</h2>
+
+    <!-- création des variables entrée,plat, dessert  !-->
+    {{ $e := slice "entrée" }}
+    {{ $p := slice "plat" }}
+    {{ $d := slice "dessert" }}
+
+    <!-- création de trois arrays contenant respectivement entrées, plats et desserts !-->
+    {{ $arrayE := where .Site.RegularPages.ByTitle "Params.categories" "intersect" $e}}
+    {{ $arrayP := where .Site.RegularPages.ByTitle "Params.categories" "intersect" $p}}
+    {{ $arrayD := where .Site.RegularPages.ByTitle "Params.categories" "intersect" $d}}
+   
+    <!-- création des length de ces trois arrays !-->
+    {{ $lenP := len $arrayP}}
+    {{ $lenE := len $arrayE}}
+    {{ $lenD := len $arrayD}}
+
+    <!-- A partir de la date du jour, isoler le jour, le mois, l'année, les transformer de string en integer, créer un nombre qui dépend de la date (number) et qui changera chaque jour ; créer deux index pour les entrées, deux indexs pour les plats et un pour les desserts à partir de ce nombre faussement aléatoire !-->
+    {{ $jour := now}}    
+    {{ $dayS := $jour.Format "2"}}<br>
+    {{ $monthS := $jour.Format "1"}}
+    {{ $yearS := $jour.Format "2006" }}
+    {{ $dayI := int $dayS}}
+    {{ $monthI := int $monthS}}
+    {{ $yearI := int $yearS}}
+    {{ $yearN := math.Pow (sub $yearI 2000) 3}}
+    {{ $monthN := math.Pow (add $monthI 10) 2}}
+    {{ $dayN := math.Pow (add $dayI 10) 3}}
+    
+    {{ $number := add (add $yearN  $monthN) $dayN}}
+    {{ $indexP1 := mod $number $lenP }}
+    {{ $indexP2 := mod (add $indexP1 (int (math.Ceil (div $lenP 2)))) $lenP}}
+    {{ $indexE1 := mod $number $lenE}}
+    {{ $indexE2 := mod (add $indexE1 (int (math.Ceil (div $lenE 2)))) $lenE}}
+    {{ $indexD1 := mod $number $lenD}}
+
+    <!-- création de cinq pages : deux entrées, deux plats, un dessert qui changeront donc tous les jours !-->
+
+    {{ $Plat1 := index $arrayP $indexP1}}
+    {{ $Plat2 := index $arrayP $indexP2}}
+
+    {{ $Entree1 := index $arrayE $indexE1}}
+    {{ $Entree2 := index $arrayE $indexE2}}
+
+    {{ $Dessert1 := index $arrayD $indexD1}}
+    <!-- création d'un array qui va contenir ces cinq pages !-->
+    {{ $arr := slice }}
+    {{ $arr = $arr | append $Entree1 $Entree2 $Plat1 $Plat2 $Dessert1}}
+
+     <!-- Itération sur cet array pour afficher les propositions 2 entrées, 2 plats et 1 dessert !-->
+    {{ range $arr }}
+      {{ partial "body/recettes-list.html" . }}
+    {{ end }}
+
     {{ block "footer" . }}
      {{ partial "footer/footer_main.html" . }}  
     {{ end }}
   </body>
+  
 </html>
 
   

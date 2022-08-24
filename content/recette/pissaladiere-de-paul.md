@@ -17,7 +17,7 @@ tags: []
 titre: "Pissaladière de Paul"
 photo: "images/pissaladiere-de-paul.jpg"
 alt: "photo d'une tarte à l'oignon et aux anchois (pissaladière)"
-caption: ""
+caption: "Pissaladière"
 source: ""
 
 preparation: 
@@ -26,16 +26,12 @@ cuisson:
 
 
 ## Ingrédients
-- Pâte brisée:
-    - 125 g de beurre
-    - un oeuf
-    - 200 g de farine (80 et T45, 80 de T55, 40 de maizena)
-## Test
-- Pâte brisée :  
-    * 125 g de beurre
-   - 125 g de beurre
-   - un œuf
-   - 200 g de farine (80 de T45, 80 de T55, 40 de maïzena)
+### Pâte brisée:
+- 125 g de beurre
+- un oeuf
+- 200 g de farine (80 de T45, 80 de T55, 40 de maizena)
+### Garniture
+
 - 2 kilos d’oignons doux
 - anchois marinés du commerce, nature si possible
 - quelques filets d’anchois à l’huile et quelques olives noires

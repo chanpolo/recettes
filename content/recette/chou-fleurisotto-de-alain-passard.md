@@ -11,7 +11,7 @@ short: >
     Un chou-fleur façon risotto : une recette de *[Alain Passard](https://www.alain-passard.com/)*.
 keywords: ""
 
-categories: ["entrée", "plat"]
+categories: ["entrée"]
 tags: ["chou", "fleur", "chou-fleur", "risotto", "légume"]
 menu: "entrée"
 titre: ""
