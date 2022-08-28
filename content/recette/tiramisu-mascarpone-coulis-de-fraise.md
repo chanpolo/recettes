@@ -17,7 +17,7 @@ keywords: ""
 categories: ["dessert"]
 tags: ["tiramisu", "mascarpone", "crème", "fraise", "coulis"]
 
-photo: "tiramisu-mascarpone-coulis-de-fraise.jpeg"
+photo: "tiramisu-mascarpone-coulis-de-fraise.jpg"
 alt: "une assiette avec un morceau de tiramisu recouvert de poudre de cacao ; sur la table, on aperçoit une tasse à thé et un autre morceau de tiramisu"
 caption: ""
 source: ""
