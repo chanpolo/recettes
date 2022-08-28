@@ -988,6 +988,11 @@ ul {
   background-color: rgb(107 114 128 / var(--tw-bg-opacity));
 }
 
+.bg-red-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(220 38 38 / var(--tw-bg-opacity));
+}
+
 .p-12 {
   padding: 3rem;
 }
@@ -1276,20 +1281,8 @@ ul {
     display: block;
   }
 
-  .lg\:inline-block {
-    display: inline-block;
-  }
-
-  .lg\:inline-flex {
-    display: inline-flex;
-  }
-
   .lg\:inline-grid {
     display: inline-grid;
-  }
-
-  .lg\:contents {
-    display: contents;
   }
 
   .lg\:hidden {
