@@ -15,7 +15,7 @@ categories: ["entrée, plat"]
 tags: []
 
 titre: "Pissaladière de Paul"
-photo: "images/pissaladiere-de-paul.jpg"
+photo: "pissaladiere-de-paul.jpg"
 alt: "photo d'une tarte à l'oignon et aux anchois (pissaladière)"
 caption: "Pissaladière"
 source: ""

@@ -15,7 +15,7 @@ keywords: ""
 categories: ["plat"]
 tags: ["blanquette", "veau","viande", "riz", "champignons", "sauce"]
 
-photo: "images/blanquette-de-veau.jpg"
+photo: "blanquette-de-veau.jpg"
 alt: "Une cocotte en fonte emplie d'une blanquette de veau "
 caption: ""
 source: ""

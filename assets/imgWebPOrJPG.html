@@ -1,0 +1,63 @@
+<!-- short code pour afficher image Webp ou JPG (ou PNG ?) 
+L'image de base doit être avec extension de type jpg ou png ou autre
+Dans le répertoire, donner le même nom à l'image webp qu'à l'image initiale 
+On crée une deuxième source srcset pour les images redimensionées en jpg ou png-->
+
+
+<!-- extraction du nom de l'image sans l'extension -->
+{{ $src := .Get "src" }}
+{{ $image := resources.Get $src }}
+{{ $alt := .Get "alt" }}
+{{ $caption := .Get "caption" }}
+{{ $type_arr := split $image "." }}
+{{ $srcbase := index $type_arr 0 }}
+
+<!-- Redimensionnement -->
+<!-- variables breakpoints -->
+{{ $tiny := "320" }}
+{{ $small := "640" }}
+{{ $medium := "768" }}
+{{ $large := "1024" }}
+{{ $Xlarge := "1280" }}
+{{ $2Xlarge := "1536" }}
+
+<!-- créations des strings 320x et 320w et équivalents pour chaque breakpoint -->
+{{ $tinyx := printf "%s%s" $tiny "x" }}
+{{ $smallx := printf "%s%s" $small "x" }}
+{{ $mediumx := printf "%s%s" $medium "x" }}
+{{ $largex := printf "%s%s" $large "x" }}
+{{ $Xlargex := printf "%s%s" $Xlarge "x" }}
+{{ $2Xlargex := printf "%s%s" $2Xlarge "x" }}
+
+{{ $tinyw := printf "%s%s" $tiny "w" }}
+{{ $smallw := printf "%s%s" $small "w" }}
+{{ $mediumw := printf "%s%s" $medium "w" }}
+{{ $largew := printf "%s%s" $large "w" }}
+{{ $Xlargew := printf "%s%s" $Xlarge "w" }}
+{{ $2Xlargew := printf "%s%s" $2Xlarge "w" }}
+
+<!-- set d'images redimensionnées -->
+{{ $tinyR := $image.Resize $tinyx }}
+{{ $smallR := $image.Resize $smallx }}
+{{ $mediumR := $image.Resize $mediumx }}
+{{ $largeR := $image.Resize $largex }}
+{{ $XlargeR := $image.Resize $Xlargex }}
+{{ $2XlargeR := $image.Resize $2Xlargex }}
+
+<figure>
+    <picture>
+        <source srcset="{{$srcbase}}.webp" type="image/webp">
+        <source srcset='
+        {{ $tinyR.Permalink }} {{ $tinyw }},
+        {{ $smallR.Permalink }} {{ $smallw }},
+        {{ $mediumR.Permalink }} {{ $mediumw }},
+        {{ $largeR.Permalink }} {{ $largew }},
+        {{ $XlargeR.Permalink }} {{ $Xlargew }},
+        {{ $2XlargeR.Permalink }} {{ $2Xlargew }}'
+        sizes="100vw" >  
+        <img src="{{ $mediumR.Permalink }}" alt="{{ $alt }}" defer>
+    </picture>
+    <figcaption>{{ $caption }}</figcaption>
+</figure>
+<p class="bg-mycolor-500">{{$srcbase}}.webp</p>
+

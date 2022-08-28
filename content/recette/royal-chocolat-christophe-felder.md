@@ -15,7 +15,7 @@ categories: []
 tags: []
 
 titre: "Royal au Chocolat"
-photo: "images/royal-chocolat-christophe-felder.jpg"
+photo: "royal-chocolat-christophe-felder.jpg"
 alt: "image de royal au chocolat, saupoudré de cacao amer"
 caption: "Royal au Chocolat"
 source: "https://www.encoreungateau.com/royal-chocolat-de-christophe-felder/"

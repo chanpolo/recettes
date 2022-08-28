@@ -1,12 +1,70 @@
+
 {{ define "main" }}
+
+
+{{$image := resources.Get (print "images/" .Params.Photo)}}
+
+<!-- créations des tailles d'images selon les breakpoints !-->
+
+{{ $tinyBP := "320" }}
+{{ $smallBP := "640" }}
+{{ $mediumBP := "768" }}
+{{ $largeBP := "1024" }}
+{{ $XlargeBP := "1280" }}
+{{ $2XlargeBP := "1536" }}
+{{ $webpBP := "600"}}
+
+
+{{ $tinyx := print $tinyBP "x" }}
+{{ $smallx := print $smallBP "x" }}
+{{ $mediumx := print $mediumBP "x" }}
+{{ $largex := print $largeBP "x" }}
+{{ $Xlargex := print $XlargeBP "x" }}
+{{ $2Xlargex := print $2XlargeBP "x" }}
+{{ $webpx := print $webpBP "x webp"}}
+
+{{ $tinyw := print $tinyBP "w" }}
+{{ $smallw := print $smallBP "w" }}
+{{ $mediumw := print $mediumBP "w" }}
+{{ $largew := print $largeBP "w" }}
+{{ $Xlargew := print $XlargeBP "w" }}
+{{ $2Xlargew := print $2XlargeBP "w" }}
+{{ $webpw := print $webpBP "w webp"}}
+
+
+<!-- redimensionnement des images -->
+
+{{ $tiny := $image.Resize $tinyx }}
+{{ $small := $image.Resize $smallx }}
+{{ $medium := $image.Resize $mediumx }}
+{{ $large := $image.Resize $largex }}
+{{ $Xlarge := $image.Resize $Xlargex }}
+{{ $2Xlarge := $image.Resize $2Xlargex }}
+{{ $webp := $image.Resize $webpx }}
+
 
 <header class="bg-mycolor-400 px-4 ">
     <h1 class="uppercase text-center pb-0">{{.Title}}</h1>
     <p class="text-center italic pb-3 md:pb-8 lg:pb-12">une recette de {{.Params.Author}}</p>
     <div >
-        {{$startPath := "/recette"}}
-        <img class="mx-auto w-5/12 md:w-4/12 lg:w-3/12" src="{{path.Join $startPath .Params.Photo}}" alt="{{ .Params.Alt }}">
+        <figure>
+            <picture>
+                <source srcset="{{$webp.Permalink}}" type="image/webp">
+                <source srcset='
+                    {{$tiny.Permalink}} {{$tinyw}},
+                    {{$small.Permalink}} {{$smallw}},
+                    {{$medium.Permalink}} {{$mediumw}},
+                    {{$large.Permalink}} {{$largew}},
+                    {{$Xlarge.Permalink}} {{$Xlargew}},
+                    {{$2Xlarge.Permalink}} {{$2Xlargew}}'
+                    sizes="70vw"
+                >
+                <img class="mx-auto w-5/12 md:w-4/12 lg:w-3/12" src="{{ $medium.Permalink}}" alt="{{.Params.Alt}}">
+            </picture>
+        </figure> 
     </div>
+    
+    
 </header>
 
 <main class="bg-mycolor-200 p-6">
@@ -22,7 +80,6 @@
 
 {{ .Content | markdownify }}
 </main>
-
 
 
 {{ end }}

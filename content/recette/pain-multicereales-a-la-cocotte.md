@@ -15,7 +15,7 @@ categories: ["base"]
 tags: ["céréale", "farine", "pain"]
 
 alt: "une image de pain aux céréales"
-photo: "images/pain-aux-cereales.jpg"
+photo: "pain-aux-cereales.jpg"
 ---
 
 # PAIN MULTICEREALES A LA COCOTTE

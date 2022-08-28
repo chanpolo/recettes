@@ -15,7 +15,7 @@ keywords: ""
 categories: ["dessert"]
 tags: ["clafoutis", "fruit", "cerise", "pêche"]
 
-photo: "images/clafoutis-aux-cerises-jean.jpg"
+photo: "clafoutis-aux-cerises-jean.jpg"
 alt: "photo de deux clafoutis aux cerises posés sur une table en bois, avec un bol contenant quelques cerises."
 caption: "Clafoutis aux cerises"
 source: ""

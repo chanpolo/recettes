@@ -15,7 +15,7 @@ keywords: ""
 categories: [ "dessert"]
 tags: [clafoutis, abricots, fruit, conticini]
 
-photo: "images/clafoutis-aux-abricots.jpg"
+photo: "clafoutis-aux-abricots.jpg"
 alt: "image d'un clafoutis aux abricots, encore dans son plat de cuisson, avec une portion déjà coupée."
 caption: "Clafoutis aux abricots"
 source: ""

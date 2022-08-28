@@ -14,7 +14,7 @@ keywords: ""
 categories: ["plat"]
 tags: ["gratin, courgette, brocoli, cantal, crème"]
 
-photo: "images/gratin-brocolis-courgettes.jpg"
+photo: "gratin-brocolis-courgettes.jpg"
 alt: "image d'un plat sortant du four avec un gratin de brocolis et de courgettes"
 caption: ""
 source: ""

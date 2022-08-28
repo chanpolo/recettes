@@ -1,6 +1,7 @@
 ---
 author: "Chan & Polo"
 title: "Couscous De Chanchan"
+titleshort: "Couscous"
 date: 2021-10-15
 draft: false
 
@@ -16,7 +17,7 @@ categories: ["plat"]
 tags: ["couscous", "merguez", "semoule"]
 
 
-photo: "images/couscous-de-chanchan.jpg"
+photo: "couscous-de-chanchan.jpg"
 alt: "un plat avec du couscous"
 remarque: >
     Peut se préparer à l'avance<br />

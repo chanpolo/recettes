@@ -1,6 +1,7 @@
 ---
 author: "Chan & Polo"
 title: ""
+titleshort:
 date: {{ .Date }}
 draft: false
 

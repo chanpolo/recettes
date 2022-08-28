@@ -16,7 +16,7 @@ keywords: ""
 categories: ["base"]
 tags: ["pizza", "pâte", "garniture"]
 
-photo: "images/pate-a-pizza.jpg"
+photo: "pate-a-pizza.jpg"
 alt: "photo d'une boule de pâte à pizza posée sur une planche et farinée."
 caption: "Pâte à pizza"
 source: ""

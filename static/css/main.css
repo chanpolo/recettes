@@ -763,6 +763,10 @@ ul {
   grid-column: span 3 / span 3;
 }
 
+.col-start-2 {
+  grid-column-start: 2;
+}
+
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -794,10 +798,6 @@ ul {
 
 .flex {
   display: flex;
-}
-
-.table {
-  display: table;
 }
 
 .grid {

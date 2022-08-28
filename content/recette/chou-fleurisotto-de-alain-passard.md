@@ -15,7 +15,7 @@ categories: ["entrée"]
 tags: ["chou", "fleur", "chou-fleur", "risotto", "légume"]
 menu: "entrée"
 titre: ""
-photo: "images/chou-fleurisotto-de-alain-passard.jpg"
+photo: "chou-fleurisotto-de-alain-passard.jpg"
 alt: "une image de chou fleur coupé en carapccio"
 caption: ""
 

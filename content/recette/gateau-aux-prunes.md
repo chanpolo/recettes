@@ -15,7 +15,7 @@ keywords: ""
 categories: ["dessert"]
 tags: ["gâteau", "prune", "fruit"]
 
-photo: "images/gateau-aux-prunes.jpg"
+photo: "gateau-aux-prunes.jpg"
 alt: "une gâteau aux prunes parsemé de sucre glace, avec des parts déjà coupées"
 caption: ""
 

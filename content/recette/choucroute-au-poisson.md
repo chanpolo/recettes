@@ -15,7 +15,7 @@ keywords: ""
 categories: ["plat"]
 tags: ["chou", "choucroute", "poisson", "haddock", "saumon", "flétan", "moules", "sauce"]
 
-photo: "images/choucroute-au-poisson.jpg"
+photo: "choucroute-au-poisson.jpg"
 alt: "une assiette avec de la choucroute et de la sauce au fond ; par dessus, trois morceaux de poissons, une pomme de terre"
 caption: ""
 source: ""

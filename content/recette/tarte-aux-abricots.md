@@ -16,7 +16,7 @@ keywords: ""
 categories: ["dessert"]
 tags: []
 
-photo: "images/tarte-abricot.jpg"
+photo: "tarte-abricot.jpg"
 alt: "image d'une tarte à l'abricot posée sur une table en bois, avec quelques abricots de part et d'autre"
 caption: "Tarte à l'abricot"
 source: ""

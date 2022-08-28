@@ -15,7 +15,7 @@ keywords: ""
 categories: ["plat"]
 tags: ["chili", "viande", "piment", "haricot", "rouge", "riz", "pilaf"]
 
-photo: "images/chili-con-carne.jpg"
+photo: "chili-con-carne.jpg"
 alt: "Une assiette creuse remplie de chili con carne pour moitié et de riz pilav pour le restant"
 caption: "Chili con Carne"
 source: ""
