@@ -828,6 +828,10 @@ ul {
   height: 2rem;
 }
 
+.h-32 {
+  height: 8rem;
+}
+
 .w-5\/12 {
   width: 41.666667%;
 }
