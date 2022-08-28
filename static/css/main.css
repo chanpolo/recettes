@@ -763,10 +763,6 @@ ul {
   grid-column: span 3 / span 3;
 }
 
-.col-start-2 {
-  grid-column-start: 2;
-}
-
 .mx-auto {
   margin-left: auto;
   margin-right: auto;
@@ -798,6 +794,10 @@ ul {
 
 .flex {
   display: flex;
+}
+
+.table {
+  display: table;
 }
 
 .grid {
@@ -1272,8 +1272,24 @@ ul {
 }
 
 @media (min-width: 1024px) {
+  .lg\:block {
+    display: block;
+  }
+
+  .lg\:inline-block {
+    display: inline-block;
+  }
+
+  .lg\:inline-flex {
+    display: inline-flex;
+  }
+
   .lg\:inline-grid {
     display: inline-grid;
+  }
+
+  .lg\:contents {
+    display: contents;
   }
 
   .lg\:hidden {

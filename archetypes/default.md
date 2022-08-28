@@ -14,7 +14,7 @@ keywords: ""
 categories: ["entrée", "plat", "dessert", "base"]
 tags: []
 
-photo: "images/"
+photo: ""
 alt: ""
 caption: ""
 source: ""
@@ -23,6 +23,7 @@ remarque: >
 
 preparation: 
 cuisson: 
+difficulte:
 ---
 
 

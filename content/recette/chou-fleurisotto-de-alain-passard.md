@@ -1,6 +1,7 @@
 ---
 author: "Chan & Polo"
 title: "Chou Fleurisotto De Alain Passard"
+titleshort: "Chou Fleurisotto"
 date: 2021-09-27
 draft: false
 
