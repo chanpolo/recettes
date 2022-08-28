@@ -1,21 +1,6 @@
 
 {{ define "main" }}
 
-<div id="search" class="h-32 "></div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-<script type="text/javascript">
-  algoliasearchNetlify({
-    appId: 'G1CLP4891G',
-    apiKey: 'b3d1c7384fb619edcb7fc5adaefdabe2',
-    siteId: 'c441371c-c790-4a40-993c-bdf9cd973932',
-    branch: 'main',
-    selector: 'div#search',
-  });
-</script>
-<div id="search" class="h-32 ">
-
-
 {{$image := resources.Get (print "images/" .Params.Photo)}}
 
 <!-- créations des tailles d'images selon les breakpoints !-->
