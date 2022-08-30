@@ -16,7 +16,7 @@ categories: ["plat"]
 tags: ["manti", "ravioli", "Arménie", "farce", "pâte", "boeuf", "agneau","hachis", "haché", "oignon", "persil"]
 
 photo: "manti-armenien.jpg"
-alt: ""
+alt: "dans un bol, des petits raviolis arméniens fourrés à la viande dans une sauce à la tomate. Le tout est parsemé d'herbes coupées."
 caption: ""
 source: ""
 
