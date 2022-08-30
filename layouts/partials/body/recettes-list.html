@@ -36,7 +36,7 @@
 {{ $2Xlarge := $image.Resize $2Xlargex }}
 {{ $webp := $image.Resize $webpx }}
 
-
+<ul>
 <li class="hidden lg:inline-grid grid grid-cols-6  gap-x-4 pt-1">
     <a href="{{.Permalink}}" >
         <figure>
@@ -87,4 +87,4 @@
         {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
     </span>
 </li>
-
+</ul>
