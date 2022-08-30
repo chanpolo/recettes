@@ -51,7 +51,7 @@
                     {{$2Xlarge.Permalink}} {{$2Xlargew}}'
                     sizes="70vw"
                 >
-                <img class="col-span-1" src="{{ $medium.Permalink}}" alt="{{.Params.Alt}}" loading="lazy">
+                <img class="col-span-1" src="{{ $medium.Permalink}}" alt="{{.Params.Alt}}" loading="lazy"  width="{{$medium.Width}}" height="{{$medium.Height}}">
             </picture>
         </figure> 
     </a>
@@ -76,7 +76,7 @@
                 {{$2Xlarge.Permalink}} {{$2Xlargew}}'
                 sizes="70vw"
             >
-            <img class="col-span-1" src="{{ $small.Permalink}}" alt="{{.Params.Alt}}" loading="lazy">
+            <img class="col-span-1" src="{{ $small.Permalink}}" alt="{{.Params.Alt}}" loading="lazy" width="{{$small.Width}}" height="{{$small.Height}}">
         </picture>
     </figure> 
     </a>
