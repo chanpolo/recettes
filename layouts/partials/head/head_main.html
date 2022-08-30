@@ -3,7 +3,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <title>{{ if not .IsHome }}{{ with .Title }}{{ . }} | {{ end }}{{ end }}{{ .Site.Title }}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} ">
-    <meta name="keywords" content="{{ range .Params.Keywords }}{{ . }},{{ end }}">
+    <meta name="keywords" content="{{ range .Params.Tags }}{{ . }},{{ end }}">
     <meta name="categories" content="{{ range .Params.Categories }}{{ . }},{{ end }}">
 
     <link rel="canonical" href="{{ .Permalink }}" />  

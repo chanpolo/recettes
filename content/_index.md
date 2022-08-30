@@ -1,9 +1,10 @@
 ---
 author: "C&P"
 title: "Les recettes de Chan & Polo"
-description : ""
-categories: []
+description : "Les recettes de famille de Chantal et de Paul-Henri. Simples ou complexes, elles sont toujours savoureuses et a goût prononcé"
+categories: ["cuisine", "gastronomie", "recette"]
 keywords: []
+tags: ["recettes", "famille", "goût", "cuisine", "gastronomie", "plaisir", "table"]
 
 
 date: 2022-08-02T22:17:00+02:00

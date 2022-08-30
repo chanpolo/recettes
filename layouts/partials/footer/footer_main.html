@@ -3,12 +3,13 @@
    
     <div class="hidden md:inline absolute left-6 pt-6">
         {{ with .Site.RegularPages.ByTitle.Next . }}
-            <a  href="{{ .Permalink }}"><<  {{ .Title }}</a>
+            <a  href="{{ .Permalink }}" aria-label="précédent"><<  {{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}}</a>
         {{ end }}
     </div>
     <div class="hidden md:inline absolute right-6 pt-6">
         {{ with .Site.RegularPages.ByTitle.Prev . }}
-            <a href="{{ .Permalink }}">{{ .Title }} >></a>
+            <a href="{{ .Permalink }}" aria-label="suivant">{{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}} 
+                >></a>
         {{ end }}
     </div>
     <div class=" md:hidden absolute left-4 pt-2">

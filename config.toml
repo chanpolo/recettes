@@ -1,6 +1,7 @@
 baseURL = 'https://chanpolo.netlify.app/'
 defaultContentLanguage = 'fr'
-title = 'Chan&Polo'
+languageCode = "fr-fr"
+title = "Les Recettes de Chan et Polo"
 
 enableRobotsTXT = true
 paginate = 100
