@@ -5,10 +5,11 @@
         {{.Content}}
     </header>
 
-    {{ range .Site.RegularPages.ByTitle }}
-        {{ if in .Params.Categories "entrée" }}
-            {{ partial "body/recettes-list.html" . }}
-        {{ end }}
-    {{end}}
-
+    <ul class="pt-2 md:pt-8 ">
+        {{ range .Site.RegularPages.ByTitle }}
+            {{ if in .Params.Categories "entrée" }}
+                {{ partial "body/recettes-list.html" . }}
+            {{ end }}
+        {{end}}
+    </ul>
 {{ end }}

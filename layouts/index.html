@@ -19,9 +19,11 @@
     {{ end }}
     <br>
     <h2>Nos 5 dernières recettes</h2>
+    <u>
     {{ range first 5 .Site.RegularPages }}
       {{ partial "body/recettes-list.html" . }}
     {{ end }}
+    </u>
     <h2>Les 5 propositions du jour</h2>
 
     <!-- création des variables entrée,plat, dessert  !-->
