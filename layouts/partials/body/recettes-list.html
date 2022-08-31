@@ -71,11 +71,7 @@
             <source srcset="{{$webp.Permalink}}" type="image/webp">
             <source srcset='
                 {{$tiny.Permalink}} {{$tinyw}},
-                {{$small.Permalink}} {{$smallw}},
-                {{$medium.Permalink}} {{$mediumw}},
-                {{$large.Permalink}} {{$largew}},
-                {{$Xlarge.Permalink}} {{$Xlargew}},
-                {{$2Xlarge.Permalink}} {{$2Xlargew}}'
+                {{$small.Permalink}} {{$smallw}},'
                 sizes="70vw"
             >
             <img class="col-span-1" src="{{ $small.Permalink}}" alt="{{.Params.Alt}}" loading="lazy" width="{{$small.Width}}" height="{{$small.Height}}">

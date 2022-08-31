@@ -12,7 +12,7 @@ short: >
 keywords: ""
 
 categories: []
-tags: []
+tags: ["royal", "chocolat", "praslin", "dacquoise", "amandes", "noisette", "mousse", "felder"]
 
 titre: "Royal au Chocolat"
 photo: "royal-chocolat-christophe-felder.jpg"
