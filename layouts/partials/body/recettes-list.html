@@ -1,5 +1,7 @@
 {{$image := resources.Get (print "images/" .Params.Photo)}}
 
+
+
 {{ $tinyBP := "320" }}
 {{ $smallBP := "640" }}
 {{ $mediumBP := "768" }}
@@ -15,7 +17,7 @@
 {{ $largex := print $largeBP "x" }}
 {{ $Xlargex := print $XlargeBP "x" }}
 {{ $2Xlargex := print $2XlargeBP "x" }}
-{{ $webpx := print $webpBP "x webp"}}
+{{ $webpx := print $webpBP "x webp q50"}}
 
 {{ $tinyw := print $tinyBP "w" }}
 {{ $smallw := print $smallBP "w" }}
