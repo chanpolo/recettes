@@ -2,10 +2,12 @@
 {{ $params := .Page.Scratch }}
 {{ $concat := print "Params." ($params.Get "params")}}
 
+
+
 {{ $paginator := .Paginate (where .Site.RegularPages.ByTitle $concat ($value.Get "value")) }}
 
 {{ range $paginator.Pages }}
-<div class="pt-2 md:pt-8">
+<div class="">
     {{ partial "body/recettes-list.html" . }}
   </div>
 {{ end }}
@@ -25,8 +27,8 @@
 
 <!-- If there's more than one page. -->
 {{ if gt $paginator.TotalPages 1 }}
-<div class="flex h-32 items-center justify-center bg-zinc-800">
-  <div class="flex select-none space-x-1 text-gray-700">
+<div class="flex h-auto py-2 md:py-6 items-center justify-center bg-zinc-800">
+  <div class="flex select-none space-x-0.5 md:space-x-1 text-gray-700 text-xs md:text-base">
   
     
     <!-- First page. -->
