@@ -13,7 +13,7 @@ short: >
     
 keywords: ""
 
-categories: ["dessert"]
+categories: "dessert"
 tags: []
 
 photo: "tarte-abricot.jpg"

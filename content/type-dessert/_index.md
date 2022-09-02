@@ -11,7 +11,7 @@ short: >
     
 keywords: ""
 
-categories: ["dessert"]
+categories: "dessert"
 tags: ["dessert", "crème", "tarte", "fruit", "clafoutis", "génoise", "entremet", "chocolat", "café", "mousse"]
 
 photo: "images/"

@@ -1,7 +1,7 @@
 ---
 author: "C&P"
 title: "Les recettes de Chan & Polo"
-description : "Les recettes de famille de Chantal et de Paul-Henri. Simples ou complexes, elles sont toujours savoureuses et a goût prononcé"
+description : "Les recettes de famille de Chantal et de Paul-Henri. Simples ou complexes, elles sont toujours savoureuses et au goût prononcé"
 categories: ["cuisine", "gastronomie", "recette"]
 keywords: []
 tags: ["recettes", "famille", "goût", "cuisine", "gastronomie", "plaisir", "table"]

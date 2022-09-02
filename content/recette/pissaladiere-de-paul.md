@@ -11,7 +11,7 @@ short: >
     Une pissaladière (tarte aux oignons et aux anchois) idéale pour les repas d'été.
 keywords: "tarte, oignon, anchois, olive, tapenade, pissaladière"
 
-categories: ["entrée, plat"]
+categories: "entrée"
 tags: []
 
 titre: "Pissaladière de Paul"

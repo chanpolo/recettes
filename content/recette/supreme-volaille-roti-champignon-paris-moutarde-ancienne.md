@@ -12,7 +12,7 @@ short: >
     Suprêmes de volailles cuits en 2 temps, sauce aux champignons
 keywords: ""
 
-categories: ["plat"]
+categories: "plat"
 tags: []
 
 photo: "supreme-volaille-roti-champignon-paris-moutarde-ancienne.jpg"

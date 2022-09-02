@@ -12,7 +12,7 @@ short: >
     Les raviolis à l'agneau d'Asie Centrale.
 keywords: ""
 
-categories: ["plat"]
+categories: "plat"
 tags: ["manti", "ravioli", "Arménie", "farce", "pâte", "boeuf", "agneau","hachis", "haché", "oignon", "persil"]
 
 photo: "manti-armenien.jpg"

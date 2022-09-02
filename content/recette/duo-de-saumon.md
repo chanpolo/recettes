@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: ["entrée"]
+categories: "entrée"
 tags: ["saumon", "fumé", "frais", "poisson", "marinade","aneth", "coriandre", "tartare"]
 
 photo: "duo-de-saumon.jpg"

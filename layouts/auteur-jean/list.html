@@ -5,10 +5,22 @@
         {{.Content}}
     </header>
 
-    <ul class="pt-2 md:pt-8 ">
-        {{ range where .Site.RegularPages.ByTitle "Params.author" "Jean"}}
-            {{ partial "body/recettes-list.html" . }}
-        {{ end }}
-    </ul>
+    {{$value := .Page.Scratch}}
+    {{$value.Set "value" .Params.Author}}
 
-{{ end }}
+    {{$params := .Page.Scratch}}
+    {{$params.Set "params" "author"}}
+
+
+    
+    {{ partial "body/pagination.html" . }}
+  {{ end }} 
+
+
+
+
+
+
+
+
+

@@ -13,7 +13,7 @@ short: >
     Une pizza à base de pâte à pain, garnie de viande hachée
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base"]
+categories: "entrée"
 tags: ["pizza", "pâte à pain", "steack", "haché", "tomate", "oignon", "poivron"]
 
 photo: "pizza-armenienne-a-la-viande.jpg"

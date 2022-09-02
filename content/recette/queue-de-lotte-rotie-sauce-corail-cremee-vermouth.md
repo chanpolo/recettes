@@ -15,7 +15,7 @@ short: >
     
 keywords: ""
 
-categories: ["plat"]
+categories: "plat"
 tags: ["lotte", "poisson", "saint-jacques", "noix", "roti", "vermouth", "sauce", "corail"]
 
 photo: "queue-de-lotte-rotie-vermouth.jpg"

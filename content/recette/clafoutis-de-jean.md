@@ -12,7 +12,7 @@ short: >
     
 keywords: ""
 
-categories: ["dessert"]
+categories: "dessert"
 tags: ["clafoutis", "fruit", "cerise", "pêche"]
 
 photo: "clafoutis-aux-cerises-jean.jpg"

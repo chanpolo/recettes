@@ -5,9 +5,5 @@
         {{.Content}}
     </header>
 
-    <ul class="pt-2 md:pt-8 ">
-        {{ range .Site.RegularPages.ByTitle }}
-            {{ partial "body/recettes-list.html" . }}
-        {{ end }}
-    </ul>
+    {{ partial "body/paginationByName.html" . }}
 {{ end }}

@@ -11,7 +11,7 @@ short: >
     
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base"]
+categories: "plat"
 tags: ["plat", "viande", "poisson", "légume", "sauce", "féculent", "pâtes", "riz"]
 
 photo: "images/"

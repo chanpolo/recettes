@@ -2,18 +2,9 @@
 <!DOCTYPE html>
 <html lang = "{{.Site.LanguageCode}}">
   {{ block "head" .}}
-    {{ partial "head/head_home.html" }}
-    <style>
-      @font-face {
-          font-family: "Open Sans";
-          src: url("/fonts/OpenSans-Regular-webfont.woff2") format("woff2");
-      }
-  
-      body {
-          font-family: "Open Sans";
-  
-      }
-    </style>
+    {{ partial "head/head_main.html" .}}
+    <title>{{.Site.Title}}</title>
+
   
   {{ end }}
   <body>
@@ -52,9 +43,22 @@
     {{ $lenD := len $arrayD}}
 
 
-    {{ block "footer" . }}
+    {{ $data := newScratch }}
+    {{ $data.Set "greeting" "hola" }}
+    data : {{$data}}
+    get : {{$data.Get "greeting"}}
+    {{$author := .Title}}
+    {{ $data.Set "greeting" $author}}
+    get : {{$data.Get "greeting" }}
+
+
+
+  {{ block "footer" . }}
      {{ partial "footer/footer_main.html" . }}  
     {{ end }}
+
+
+
   </body>
   
 </html>

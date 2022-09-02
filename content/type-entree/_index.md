@@ -10,7 +10,7 @@ short: >
     
 keywords: ""
 
-categories: ["entrée"]
+categories: "entrée"
 tags: ["entrée", "chaud", "froid", "salé", "apéritif", "goût", "épice"]
 
 photo: "images/"

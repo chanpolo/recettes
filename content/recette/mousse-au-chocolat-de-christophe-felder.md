@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: ["dessert"]
+categories: "dessert"
 tags: ["mousse", "chocolat", "oeuf en neige", "crème fraĉhe", "verrine"]
 
 photo: "mousse-au-chocolat-de-christophe-felder.jpg"

@@ -13,7 +13,7 @@ short: >
     Une tarte aux poireaux, à la ricotta et à la moutarde
 keywords: ""
 
-categories: ["entrée", "plat"]
+categories: "entrée"
 tags: ["tarte", "poireaux", "ricotta", "moutarde", "pâte feuilletée", "fondue", "vin blanc", "gruyère", "comté", "cantal", "fromage râpé", "quiche"]
 
 photo: "tarte-aux-poireaux-et-ricotta.jpg"

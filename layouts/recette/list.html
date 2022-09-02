@@ -7,10 +7,6 @@
         {{.Content}}
     </header>
          
-    <ul class="pt-2 md:pt-8 ">
-        {{ range .Pages }}
-            {{ partial "body/recettes-list.html" . }}
-        {{ end }}
-    </ul>
+    {{ partial "body/paginationByDate.html" . }}
 
 {{ end }}

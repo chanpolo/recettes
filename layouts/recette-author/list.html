@@ -5,10 +5,6 @@
         {{.Content}}
     </header>
 
-    <ul class="pt-2 md:pt-8 ">
-        {{ range sort .Site.RegularPages.ByTitle "Params.author" "!=" nil }}
-            {{ partial "body/recettes-list.html" . }}
-        {{ end }}
-    </ul>
+    {{ partial "body/paginationByAuthor.html" . }}
 
 {{ end }}

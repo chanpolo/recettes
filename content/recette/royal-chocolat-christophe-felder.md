@@ -11,7 +11,7 @@ short: >
     Le classique Royal Chocolat : une recette de *[Christophe Felder](http://www.christophe-felder.com/)*.
 keywords: ""
 
-categories: []
+categories: "dessert"
 tags: ["royal", "chocolat", "praslin", "dacquoise", "amandes", "noisette", "mousse", "felder"]
 
 titre: "Royal au Chocolat"

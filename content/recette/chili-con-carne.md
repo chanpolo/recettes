@@ -12,7 +12,7 @@ short: >
     Un chili con carne goûteux et piquant.
 keywords: ""
 
-categories: ["plat"]
+categories: "plat"
 tags: ["chili", "viande", "piment", "haricot", "rouge", "riz", "pilaf"]
 
 photo: "chili-con-carne.jpg"
