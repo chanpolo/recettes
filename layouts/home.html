@@ -9,6 +9,8 @@
   {{ end }}
   <body>
     {{ partial "nav/nav.html" .}}
+
+    <div id="search"></div>
    
     <div class="bg-mycolor-400">
     {{ block "header" .}}
@@ -42,14 +44,6 @@
     {{ $lenE := len $arrayE}}
     {{ $lenD := len $arrayD}}
 
-
-    {{ $data := newScratch }}
-    {{ $data.Set "greeting" "hola" }}
-    data : {{$data}}
-    get : {{$data.Get "greeting"}}
-    {{$author := .Title}}
-    {{ $data.Set "greeting" $author}}
-    get : {{$data.Get "greeting" }}
 
 
 
