@@ -7,7 +7,7 @@
 {{ $paginator := .Paginate (where .Site.RegularPages.ByTitle $concat ($value.Get "value")) }}
 
 {{ range $paginator.Pages }}
-<div class="">
+<div class="pb-1">
     {{ partial "body/recettes-list.html" . }}
   </div>
 {{ end }}

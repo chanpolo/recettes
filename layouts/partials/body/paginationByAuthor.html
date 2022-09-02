@@ -2,7 +2,7 @@
 {{ $paginator := .Paginate (sort .Site.RegularPages.ByTitle "Params.author" "!=" nil)}}
 
 {{ range $paginator.Pages }}
-<div class="">
+<div class="pb-1">
     {{ partial "body/recettes-list.html" . }}
   </div>
 {{ end }}
