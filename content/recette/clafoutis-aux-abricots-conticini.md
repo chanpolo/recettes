@@ -12,7 +12,7 @@ short: >
     Une recette de clafoutis aux abricots, inspirée par *[Philippe Conticini](https://philippeconticini.fr/)*
 keywords: ""
 
-categories: "dessert"
+categories: ["dessert"]
 tags: [clafoutis, abricots, fruit, conticini]
 
 photo: "clafoutis-aux-abricots.jpg"

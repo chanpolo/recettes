@@ -13,7 +13,7 @@ short: >
     Une tourte ronde avec sa garniture de poulpe
 keywords: ""
 
-categories: ["entrée", "plat"]
+categories: ["plat"]
 tags: ["poulpe", "tielle", "Sète", "muscat", "levure", "boulanger", "huile", "olive", "pâte", "levain"]
 
 photo: "tielle-setoise-la-vraie-poulpe.jpg"

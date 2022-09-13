@@ -11,7 +11,7 @@ short: >
     Un pain facile à réaliser, tout simplement en cocotte.
 keywords: ""
 
-categories: "base"
+categories: ["base"]
 tags: ["céréale", "farine", "pain"]
 
 alt: "une image de pain aux céréales"

@@ -5,10 +5,10 @@
         {{.Content}}
     </header>
 
-    {{$value := .Page.Scratch}}
-    {{$value.Set "value" .Params.Categories}}
+    {{$type := .Page.Scratch}}
+    
+    {{$type.Set "type" "plat"}}
 
-    {{$params := .Page.Scratch}}
-    {{$params.Set "params" "categories"}}
     {{ partial "body/pagination.html" . }}
+
   {{ end }} 

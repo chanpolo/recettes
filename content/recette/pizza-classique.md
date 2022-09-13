@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: "entrée"
+categories: ["entrée"]
 tags: ["pizza", "tomate", "coulis", "pulpe", "mozzarella", "fromage", "anchois", "jambon", "olives", "capres", "herbe", "origan"]
 
 photo: "pizza-classique.jpg"

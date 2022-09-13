@@ -13,7 +13,7 @@ short: >
     À déguster impérativement!
 keywords: "couscous, merguez, semoule"
 
-categories: "plat"
+categories: ["plat"]
 tags: ["couscous", "merguez", "semoule"]
 
 

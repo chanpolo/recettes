@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: "dessert"
+categories: ["dessert"]
 tags: ["tiramisu", "mascarpone", "crème", "fraise", "coulis"]
 
 photo: "tiramisu-mascarpone-coulis-de-fraise.jpg"

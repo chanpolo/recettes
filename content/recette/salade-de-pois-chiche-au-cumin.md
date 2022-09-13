@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: "entrée"
+categories: ["entrée"]
 tags: ["salade", "pois chiche", "cumin", "herbe", "persil", "menthe", "coriandre"]
 
 

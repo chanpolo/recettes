@@ -12,7 +12,7 @@ short: >
     Un gâteau de grand-mère aux prunes, simple et délicieux.
 keywords: ""
 
-categories: "dessert"
+categories: ["dessert"]
 tags: ["gâteau", "prune", "fruit"]
 
 photo: "gateau-aux-prunes.jpg"

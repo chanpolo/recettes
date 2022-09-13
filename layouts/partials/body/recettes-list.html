@@ -57,8 +57,8 @@
             </picture>
         </figure> 
     </a>
-    <a class="col-span-2 capitalize md:tracking-wide " href="{{.Permalink}}">
-        <span class="font-normal md:font-semibold md:text-xl md:pt-1">{{.Title}}</span><br><span class="md:text-lg">{{.Date.Format "02/01/2006"}} </span><br><span class="md:text-lg">{{.Params.Author}} </span>
+    <a class="col-span-2 capitalize md:tracking-wide no-underline " href="{{.Permalink}}">
+        <span class="font-normal md:font-semibold md:text-xl md:pt-1 hover:underline">{{.Title}}</span><br><span class="md:text-lg">{{.Date.Format "02/01/2006"}} </span><br><span class="md:text-lg">{{.Params.Author}} </span>
     </a>
     <span class=" col-span-3  tracking-tighter md:tracking-wide lg:tracking-widest md:text-lg">
         {{ .Params.Description | markdownify }}
@@ -78,7 +78,7 @@
         </picture>
     </figure> 
     </a>
-    <a class="col-span-2 capitalize " href="{{.Permalink}}">
+    <a class="col-span-2 capitalize no-underline" href="{{.Permalink}}">
         <span class=" ">{{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}</span><br><span class="">{{.Date.Format "02/01/2006"}} </span><br><span class="">{{.Params.Author}} </span>
     </a>
     <span class=" col-span-3 ">

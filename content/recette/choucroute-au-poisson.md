@@ -12,7 +12,7 @@ short: >
     Une choucroute digne d'un grand restaurant.
 keywords: ""
 
-categories: "plat"
+categories: ["plat"]
 tags: ["chou", "choucroute", "poisson", "haddock", "saumon", "flétan", "moules", "sauce"]
 
 photo: "choucroute-au-poisson.jpg"

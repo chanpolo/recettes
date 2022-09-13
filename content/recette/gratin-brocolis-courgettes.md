@@ -11,7 +11,7 @@ short: >
     
 keywords: ""
 
-categories: "plat"
+categories: ["plat"]
 tags: ["gratin, courgette, brocoli, cantal, crème"]
 
 photo: "gratin-brocolis-courgettes.jpg"

@@ -1,5 +1,5 @@
 
-{{ $paginator := .Paginate .Site.RegularPages.ByDate.Reverse }}
+{{ $paginator := .Paginate (where .Site.RegularPages.ByDate.Reverse "Section" "recette")}}
 
 {{ range $paginator.Pages }}
 <div class="pb-1">

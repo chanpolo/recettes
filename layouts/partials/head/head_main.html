@@ -5,7 +5,7 @@
     <title>{{ if .Page.Title}}{{ .Page.Title }}{{else}}{{ .Site.Title}}{{end}}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} ">
     <meta name="keywords" content="{{ range .Params.Tags }}{{ . }},{{ end }}">
-    <meta name="categories" content="{{ if .Params.Categories }}{{ . }}{{else}}entrée, plat, dessert, base{{end}}">
+    <meta name="categories" content="{{ if .Params.Categories }}{{ delimit .Params.Categories ", "}}{{else}}entrée, plat, dessert, base{{end}}">
 
     <link rel="canonical" href="{{ .Permalink }}" />  
     <link rel="stylesheet" href="{{ .Site.BaseURL}}/css/main.css">

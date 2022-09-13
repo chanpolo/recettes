@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: "entrée"
+categories: ["entrée"]
 tags: ["salade", "poulet", "romaine", "parmesan", "filet", "worcestershire", "moutarde", "oeuf", "pain", croûton", "cacahuète", "noix de cajou"]
 
 photo: "salade-cesar-comme-a-new-york.jpg"

@@ -11,10 +11,10 @@ short: >
     
 keywords: ""
 
-categories: "entrée", "plat", "dessert", "base"
+categories: ["entrée", "plat", "dessert", "base"]
 tags: []
 
-photo: ""
+photo: "_default_image.jpg"
 alt: ""
 caption: ""
 source: ""

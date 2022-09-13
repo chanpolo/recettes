@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: "plat"
+categories: ["plat"]
 tags: ["blanquette", "veau","viande", "riz", "champignons", "sauce", "tradition", "chardonnay", "bouillon"]
 
 photo: "blanquette-de-veau-a-l-ancienne.jpg"

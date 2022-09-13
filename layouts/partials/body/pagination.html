@@ -1,10 +1,6 @@
-{{ $value := .Page.Scratch }}
-{{ $params := .Page.Scratch }}
-{{ $concat := print "Params." ($params.Get "params")}}
+{{ $type := .Page.Scratch }}
 
-
-
-{{ $paginator := .Paginate (where .Site.RegularPages.ByTitle $concat ($value.Get "value")) }}
+{{ $paginator := .Paginate (where .Site.RegularPages.ByTitle "Params.categories" "intersect" (slice ($type.Get "type"))) }}
 
 {{ range $paginator.Pages }}
 <div class="pb-1">
@@ -12,6 +8,7 @@
   </div>
 {{ end }}
 {{ $paginator := .Paginator }}
+
 
 <!-- Number of links either side of the current page. -->
 {{ $adjacent_links := 2 }}

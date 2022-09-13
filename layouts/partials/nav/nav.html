@@ -2,21 +2,21 @@
 <nav class="hidden md:flex sticky top-0 z-50" >
   <div class="group pl-1 md:pl-4 py-4 w-1/4 lg:w-1/5 bg-gray-700 text-white text-base md:text-md lg:text-xl font-semibold uppercase  hover:text-gray-900 hover:bg-gray-300 ">
     <div class="flex items-center">
-    <a href="/">Chan&Polo</a>
+    <a class="no-underline" href="/">Chan&Polo</a>
       </div>
   
   </div>
   <div class="px-4 py-4 w-3/4 lg:w-4/5 grid grid-cols-5  bg-gray-300 text-xs lg:text-sm  xl:text-lg 2xl:text-xl align-middle h-16 text-center" >
     {{ range .Site.Menus.main }}
     <div x-data="{ open: false }"  @mouseleave="open = false">
-    <a  @mouseover="open = true" class="font-semibold bg-transparent text-gray-900 hover:text-gray-100  " href="{{ .URL }}" title="{{ .Title }}">
+    <a  @mouseover="open = true" class="font-semibold bg-transparent text-gray-900 hover:text-gray-100  no-underline" href="{{ .URL }}" title="{{ .Title }}">
       {{- .Name -}}
       {{- if .HasChildren -}}
       <svg fill="currentColor" viewBox="0 0 20 20" :class="{'rotate-180': open, 'rotate-0': !open}" class="inline w-4 h-4 mt-1 ml-1 transition-transform duration-75 transform md:-mt-1"><path fill-rule="evenodd" d="M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z" clip-rule="evenodd"></path></svg>
       <div x-show="open" class="pt-5 pb-3  bg-gray-400 "  >
         <ul class="bg-transparent  border-t border-white pr-2 pl-2 text-white  text-left">
           {{ range .Children }}
-          <a class="bg-transparent hover:text-gray-800 hover:italic" href="{{ .URL }}">
+          <a class="bg-transparent hover:text-gray-800 hover:italic no-underline" href="{{ .URL }}">
             <li class="pt-2" >
               <span>{{ .Name }}</span>
             </li>   
@@ -34,7 +34,7 @@
 <!-- pour les portables et sm -->
 <div class=" bg-gray-500  md:hidden">
   <div x-data="{ open: false }" class="flex flex-col max-w-screen-xl px-4 mx-auto" >
-    <div class="group flex flex-row items-center justify-between text-white text-base font-semibold uppercase  hover:text-gray-900  "><a href="/">Chan & Polo</a>
+    <div class="group flex flex-row items-center justify-between text-white text-base font-semibold uppercase  hover:text-gray-900  "><a class="no-underline" href="/">Chan & Polo</a>
     
       <button class=" h-16" @click="open = !open" aria-label="bouton menu">
         <svg fill="white" viewBox="0 0 20 20" class="h-8">
@@ -46,7 +46,7 @@
     <nav :class="{'flex': open, 'hidden': !open}" class="flex-col">
       {{ range .Site.Menus.main }}
       <div x-data="{ open: false }"  @mouseleave="open = false" class="pb-2">
-        <a   class=" font-semibold bg-transparent text-gray-700 hover:text-gray-100  " href="{{ .URL }}" title="{{ .Title }}">
+        <a   class=" font-semibold bg-transparent text-gray-700 hover:text-gray-100 no-underline " href="{{ .URL }}" title="{{ .Title }}">
           {{- .Name -}}
         </a>
         {{- if .HasChildren -}}
@@ -55,7 +55,7 @@
           <ul  class="bg-transparent -ml-2 border-t border-white pl-2">
             {{ range .Children }}
               <li class="   pt-2  text-white  " >
-                <a class="  bg-transparent text-white  hover:text-gray-800 hover:italic" href="{{ .URL }}">
+                <a class="  bg-transparent text-white  hover:text-gray-800 hover:italic no-underline" href="{{ .URL }}">
                  <span>{{ .Name }}</span>
                 </a>
               </li>

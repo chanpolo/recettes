@@ -13,7 +13,7 @@ short: >
     
 keywords: ""
 
-categories: "base"
+categories: ["base"]
 tags: ["pizza", "pâte", "garniture"]
 
 photo: "pate-a-pizza.jpg"

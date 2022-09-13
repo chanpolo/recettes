@@ -1,5 +1,5 @@
 
-{{ $paginator := .Paginate (sort .Site.RegularPages.ByTitle "Params.author" "!=" nil)}}
+{{ $paginator := .Paginate (sort (where .Site.RegularPages.ByTitle "Section" "recette") "Params.author")}}
 
 {{ range $paginator.Pages }}
 <div class="pb-1">

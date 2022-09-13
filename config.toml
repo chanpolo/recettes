@@ -11,6 +11,11 @@ paginate = 6
     [markup.goldmark.renderer]
       unsafe = true
 
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+
+
 [menu]
   [[menu.main]]
     identifier = "accueil"

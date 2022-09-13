@@ -1,0 +1,14 @@
+{{ $data := slice  }}
+
+{{ $slice := slice "entrée" }}
+{{ range (where .Site.RegularPages.ByTitle "Params.categories" "intersect" $slice) }}
+  {{ $this := . }}
+  {{ $page := .GetPage (printf "/%s" (replace (replace .File "\\" "/") ".md" "" ) ) }}
+  {{ with $page.Params }}
+  <!--{{$image := print $this.Params.Photo}} !-->
+  {{$image := resources.Get (print "images/" $this.Params.Photo)}}
+  {{ $data = $data | append (slice (dict  "Title" ($this.Title) "url" ($this.Permalink) "image " ($image.Permalink) "description" ($this.Params.Description | markdownify) "short" ($this.Params.Short | markdownify) ) ) }}
+  {{ end }}
+{{ end }}
+
+{{ $data | jsonify }}

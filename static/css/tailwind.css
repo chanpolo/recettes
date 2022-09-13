@@ -45,4 +45,9 @@
   ul {
     @apply list-inside list-disc;
   }
+  
+  /* les ancres souligner */
+  a {
+    @apply underline;
+    }
 }

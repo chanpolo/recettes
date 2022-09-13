@@ -20,14 +20,16 @@
     {{ block "main" . }}
       {{ .Content }}
     {{ end }}
-    <br>
+    
     <h2>Nos 5 dernières recettes</h2>
     <ul class="pt-2 md:pt-8 ">
-      {{ range first 5 .Site.RegularPages }}
+      {{ $selection := slice "entrée" "plat" "dessert" "base"}}
+      {{ range first 5 (where .Site.RegularPages  "Params.categories" "intersect" $selection)}}
         {{ partial "body/recettes-list.html" . }}
       {{ end }}
     </ul>
     <h2>Les 5 propositions du jour</h2>
+
 
     <!-- création des variables entrée,plat, dessert  !-->
     {{ $e := slice "entrée" }}

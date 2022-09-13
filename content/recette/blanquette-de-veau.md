@@ -12,7 +12,7 @@ short: >
     Une blanquette de veau savoureuse aux parfums subtils.
 keywords: ""
 
-categories: "plat"
+categories: ["plat"]
 tags: ["blanquette", "veau","viande", "riz", "champignons", "sauce"]
 
 photo: "blanquette-de-veau.jpg"
