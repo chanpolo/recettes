@@ -6,16 +6,18 @@ date: 2022-09-13T19:59:55+02:00
 draft: false
 
 description: >
+    Une recette complexe, avec la réalisation d'une rouille, d'une farce pour moules et encornets.<br>
+    Le plat est servi avec des penne rigate et accompagné d'un vin gras en bouche.
 
 short: >
-    
+    Encornets et moules farcies avec une sauce rouille
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base"]
-tags: []
+categories: [ "plat"]
+tags: ["macaronade", "sète", "sétoise", "pâtes", "penne", "aïoli", "rouille", "seiche", "poisson", "muscat", "encornet", "moule", "chair à saucisse", "piment", "farce"]
 
-photo: "_default_image.jpg"
-alt: ""
+photo: "macaronade-setoise-au-poisson-et-fruits-de-mer.jpg"
+alt: "une assiette blanche remplie de pâtes type penne et par dessus des encornets farcis et une sauce rouille"
 caption: ""
 source: ""
 
