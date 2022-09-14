@@ -1,11 +1,10 @@
 {{ $type := .Page.Scratch }}
 
-{{ $paginator := .Paginate (where .Site.RegularPages.ByTitle "Params.author" ($type.Get "type")) }}
+{{ $paginator := .Paginate (where .Site.RegularPages.ByTitle "Params.categories" "intersect" (slice ($type.Get "type"))) }}
 
 {{ range $paginator.Pages }}
 <div class="pb-1">
     {{ partial "body/recettes-list.html" . }}
   </div>
 {{ end }}
- 
 {{ partial "body/paginationCommonPart" .}}

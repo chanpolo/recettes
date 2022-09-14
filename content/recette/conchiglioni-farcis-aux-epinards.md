@@ -20,7 +20,7 @@ tags: ["pâtes", "conchiglioni", "épinards", "al dente", "petit billy", "pignon
 photo: "conchiglioni-farcis-aux-epinards.jpg"
 alt: "une assiette avec des pâtes conchiglioni farcies aux épinards et des pignons de pin"
 caption: ""
-source: "http://pechedegourmand.canalblog.com"
+source: <a href="http://pechedegourmand.canalblog.com">Péché de Gourmandise</a>
 
 remarque: >
     Les épinards surgelés peuvent être remplacés par des épinards frais<br>

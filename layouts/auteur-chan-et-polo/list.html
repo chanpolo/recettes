@@ -7,9 +7,6 @@
 
     {{$type := .Page.Scratch}}
     {{$type.Set "type" "Chan & Polo"}}
-
-    {{$params := .Page.Scratch}}
-    {{$params.Set "params" "author"}}
     
     {{ partial "body/paginationAuteurs.html" . }}
   {{ end }} 

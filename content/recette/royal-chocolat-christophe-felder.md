@@ -18,7 +18,8 @@ titre: "Royal au Chocolat"
 photo: "royal-chocolat-christophe-felder.jpg"
 alt: "image de royal au chocolat, saupoudré de cacao amer"
 caption: "Royal au Chocolat"
-source: "https://www.encoreungateau.com/royal-chocolat-de-christophe-felder/"
+source: >
+    [Le royal chocolat de Christophe Felder](https://www.encoreungateau.com/royal-chocolat-de-christophe-felder/)
 remarque: > 
     A faire la veille<br />
     <a href = "#ma-recette--proportions-et-conseils">Regarder les proportions en fin de recette !</a>
@@ -31,8 +32,8 @@ cuisson:
 ## Ingrédients
 ### Pour la dacquoise
 
-*https://www.encoreungateau.com/royal-chocolat-de-christophe-felder/*    
-*http://marieclementine.fr/recette/trianon-ou-royal-chocolat-de-christophe-felder/*  
+*[Le royal chocolat de Christophe Felder](https://www.encoreungateau.com/royal-chocolat-de-christophe-felder/)*    
+*[Trianon ou “Royal chocolat” de Christophe FELDER](http://marieclementine.fr/recette/trianon-ou-royal-chocolat-de-christophe-felder/)*  
 <br>
   
   
@@ -76,7 +77,7 @@ cuisson:
 
 ## Praliné maison Recette
 
-https://www.encoreungateau.com/praline-maison/
+*[Praliné Maison](https://www.encoreungateau.com/praline-maison/)*
 ### Ingrédients
 
 -    125 g de noisettes décortiquées non salées

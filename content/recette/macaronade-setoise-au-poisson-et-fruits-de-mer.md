@@ -114,7 +114,7 @@ Si vous ne finissez pas tout, vous pouvez garder la macaronade fraîche ou la co
 #### Concernant l’organisation
 Je vous conseille de vous y prendre la veille en procédant comme suit : 
 - Seiches et encornets sont plus tendres après avoir été congelés une nuit
-- La veille je fais mon marché. Personnellement c’est toujours aux *[halles de Sète]*(https://www.halles-sete.fr/), que j’adore
+- La veille je fais mon marché. Personnellement c’est toujours aux *[Halles de Sète](https://www.halles-sete.fr/)*, que j’adore
 - Au retour des courses, je mets tout de suite mes lamelles de seiche au congélateur
 - Je commence par farcir les encornets et je les mets, crus, au congélateur
 - Jour J : je réalise toutes les préparations, et je cuis mes encornets sans les décongeler
