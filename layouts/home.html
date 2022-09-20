@@ -29,26 +29,11 @@
       {{ end }}
     </ul>
     <h2>Les 5 propositions du jour</h2>
+    <ul class="pt-2 md:pt-8" id="suggestions"></ul>
+    <script type="text/javascript" src="js/suggestions.js"></script>
 
 
-    <!-- création des variables entrée,plat, dessert  !-->
-    {{ $e := slice "entrée" }}
-    {{ $p := slice "plat" }}
-    {{ $d := slice "dessert" }}
-
-    <!-- création de trois arrays contenant respectivement entrées, plats et desserts !-->
-    {{ $arrayE := where .Site.RegularPages.ByTitle "Params.categories" "intersect" $e}}
-    {{ $arrayP := where .Site.RegularPages.ByTitle "Params.categories" "intersect" $p}}
-    {{ $arrayD := where .Site.RegularPages.ByTitle "Params.categories" "intersect" $d}}
    
-    <!-- création des length de ces trois arrays !-->
-    {{ $lenP := len $arrayP}}
-    {{ $lenE := len $arrayE}}
-    {{ $lenD := len $arrayD}}
-
-
-
-
   {{ block "footer" . }}
      {{ partial "footer/footer_main.html" . }}  
     {{ end }}

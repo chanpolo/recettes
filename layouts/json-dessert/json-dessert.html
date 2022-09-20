@@ -3,11 +3,17 @@
 {{ $slice := slice "dessert" }}
 {{ range (where .Site.RegularPages.ByTitle "Params.categories" "intersect" $slice) }}
   {{ $this := . }}
+  {{ $titleshort := cond ( and (ne .Params.titleshort nil) (ne .Params.title "")) .Params.titleshort .Title}}
+  {{ $alt := cond (ne .Params.alt "") .Params.alt  "pas de alt"  }}
+  {{ $description := cond (ne .Params.description nil) ( .Params.Description | markdownify ) ""}}
+  {{ $short := cond ( and (ne .Params.short nil) (ne .Params.short "")) .Params.short $description }}
+  {{ $date := .Date.Format "02/01/2006"}}
+  {{ $author := .Params.Author}}
   {{ $page := .GetPage (printf "/%s" (replace (replace .File "\\" "/") ".md" "" ) ) }}
+
   {{ with $page.Params }}
-  <!--{{$image := print $this.Params.Photo}} !-->
-  {{$image := resources.Get (print "images/" $this.Params.Photo)}}
-  {{ $data = $data | append (slice (dict  "Title" ($this.Title) "url" ($this.Permalink) "image " ($image.Permalink) "description" ($this.Params.Description | markdownify) "short" ($this.Params.Short | markdownify) ) ) }}
+    {{$image := resources.Get (print "images/" $this.Params.Photo)}}
+    {{ $data = $data | append (slice (dict  "Title" (.Title) "url" ($this.Permalink) "image" ($image.Permalink) "alt" ($alt) "description" ($description) "short" ($short) "author" ($author) "date" ($date) "titleshort" ($titleshort) )) }}
   {{ end }}
 {{ end }}
 
