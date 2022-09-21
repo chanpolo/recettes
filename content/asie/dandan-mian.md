@@ -22,7 +22,8 @@ caption: ""
 source: ""
 
 remarque: >
-    Pour 4 personnes
+    Pour 4 personnes<br>
+    Ce plat constitue un repas complet et fait partie des *[xiǎochī](https://en.wikipedia.org/wiki/Xiaochi)*, ou petit-manger
 
 preparation: 
 cuisson: 
