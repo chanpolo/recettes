@@ -77,4 +77,4 @@
     }
 
   
-  renderSuggestions()
+  //renderSuggestions()
