@@ -13,7 +13,7 @@
 
   {{ with $page.Params }}
     {{$image := resources.Get (print "images/" $this.Params.Photo)}}
-    {{ $data = $data | append (slice (dict  "Title" (.Title) "url" ($this.Permalink) "image" ($image.Permalink) "alt" ($alt) "description" ($description) "short" ($short) "author" ($author) "date" ($date) "titleshort" ($titleshort) )) }}
+    {{ $data = $data | append (slice (dict  "Title" (.Title) "url" ($this.RelPermalink) "image" ($image.RelPermalink) "alt" ($alt) "description" ($description) "short" ($short) "author" ($author) "date" ($date) "titleshort" ($titleshort) )) }}
   {{ end }}
 {{ end }}
 
