@@ -1,7 +1,6 @@
-
   const date = new Date();
   const month = date.getUTCMonth()+1;
-  let day = date.getUTCDate();
+  const day = date.getUTCDate();
   
   const year = date.getUTCFullYear();
   const number = day + month + year;
@@ -32,14 +31,16 @@
     const index_plat = number % plats.length
     const index_dessert = number % desserts.length;
 
-    const index_entree2 = (index_entree + Math.floor(index_entree / 2)) % index_entree;
-    const index_plat2 = (index_plat + Math.floor(index_plat / 2)) % index_plat;
+    const index_entree2 = (index_entree + Math.floor(index_entree / 2) + 1) % entrees.length;
+    const index_plat2 = (index_plat + Math.floor(index_plat / 2) + 1) % plats.length;
 
     const entree = entrees[index_entree];
     const entree2 = entrees[index_entree2];
     const plat = plats[index_plat];
     const plat2 = plats[index_plat2];
     const dessert = desserts[index_dessert];
+
+
 
     const suggestions = [entree, entree2, plat, plat2, dessert]
 
