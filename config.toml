@@ -107,7 +107,13 @@ paginate = 6
     name = "Bases"
     url = "/type-base"
     parent = "type"
-    weight = 40     
+    weight = 40   
+
+  [[menu.main]]
+    identifier = "asie"
+    name = "Asie"
+    url = "/asie"
+    weight = 70      
 
 [outputFormats.Algolia]
 baseName = "algolia"

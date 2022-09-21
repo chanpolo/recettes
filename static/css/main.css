@@ -932,6 +932,10 @@ a {
   margin-left: calc(0px * calc(1 - var(--tw-space-x-reverse)));
 }
 
+.rounded-full {
+  border-radius: 9999px;
+}
+
 .rounded-md {
   border-radius: 0.375rem;
 }
@@ -960,6 +964,11 @@ a {
 .border-gray-800 {
   --tw-border-opacity: 1;
   border-color: rgb(31 41 55 / var(--tw-border-opacity));
+}
+
+.border-asiacolor-800 {
+  --tw-border-opacity: 1;
+  border-color: rgb(100 6 21 / var(--tw-border-opacity));
 }
 
 .border-red-500 {
@@ -1007,6 +1016,21 @@ a {
   background-color: rgb(243 244 246 / var(--tw-bg-opacity));
 }
 
+.bg-asiacolor-400 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(155 33 52 / var(--tw-bg-opacity));
+}
+
+.bg-asiacolor-25 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(251 246 247 / var(--tw-bg-opacity));
+}
+
+.bg-asiacolor-200 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(199 132 142 / var(--tw-bg-opacity));
+}
+
 .bg-mycolor-900 {
   --tw-bg-opacity: 1;
   background-color: rgb(17 24 39 / var(--tw-bg-opacity));
@@ -1029,6 +1053,11 @@ a {
 .bg-gray-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(107 114 128 / var(--tw-bg-opacity));
+}
+
+.bg-asiacolor-900 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(72 4 15 / var(--tw-bg-opacity));
 }
 
 .p-12 {
@@ -1196,6 +1225,11 @@ a {
 .text-mycolor-900 {
   --tw-text-opacity: 1;
   color: rgb(17 24 39 / var(--tw-text-opacity));
+}
+
+.text-mycolor-800 {
+  --tw-text-opacity: 1;
+  color: rgb(31 41 55 / var(--tw-text-opacity));
 }
 
 .text-gray-700 {

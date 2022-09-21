@@ -9,7 +9,8 @@ description: >
     Pour un délicieux dessert ou goûter.
 
 short: >
-    Une recette de clafoutis aux abricots, inspirée par *[Philippe Conticini](https://philippeconticini.fr/)*
+    Un clafoutis aux abricots, inspiré par *[Philippe Conticini](https://philippeconticini.fr/)*
+
 keywords: ""
 
 categories: ["dessert"]

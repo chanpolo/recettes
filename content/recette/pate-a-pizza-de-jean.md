@@ -23,7 +23,8 @@ source: ""
 
 remarque: >
     Le mélange de deux farines différentes donne une meilleure texture, avec plus de facilité pour étaler la pâte.<br />
-    Sinon utiliser de la T65. Tamiser la farine.
+    Sinon utiliser de la T65. Tamiser la farine.<br>
+    Pour une pâte à pizza plus croustillante, il est conseillé si on utilise de la pulpe de tomate de laisser égoutter celle-ci suffisamment longtemps, en fait dès le moment où on prépare la pâte.
 
 preparation: 
 cuisson: 

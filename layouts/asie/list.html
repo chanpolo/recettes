@@ -1,0 +1,17 @@
+
+{{ define "main" }}
+
+<main >
+    
+    <header class="bg-asiacolor-400 text-mycolor-900">
+        {{ partial "header/header_asie.html" .}}
+        {{.Content}}
+    </header>
+     
+    {{ partial "body/paginationByDateAsie.html" . }}
+
+   
+
+{{ end }}
+
+

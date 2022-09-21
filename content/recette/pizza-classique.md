@@ -24,7 +24,7 @@ source: ""
 
 remarque: >
     La recette est donnée pour une pizza aux dimensions d'une plaque de four<br>
-    Égoutter la pulpe de tomates est un plus pour éviter une pâte trop molle<br>
+    Égoutter la pulpe de tomates est un plus pour éviter une pâte trop molle. Ne pas hésiter à la faire égoutter dès le moment où on prépare la pâte<br>
     La recette de la pâte est celle de <a href =" /recette/pate-a-pizza-de-jean">Jean</a>
 
 preparation: 

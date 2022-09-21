@@ -1,0 +1,26 @@
+
+
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+  {{ block "head" .}}
+ 
+  {{ partial "head/head_main.html" .}}
+  {{ end }}
+  <body>
+    
+    {{- partial "nav/nav.html" . -}}
+
+    <div id="search"></div>
+
+  
+
+    {{ block "main" . }}
+
+    {{ end }}
+    
+    {{ block "footer" . }}
+  
+   {{ partial "footer/footer_asie.html" . }}
+    {{ end }}
+  </body>
+</html>
