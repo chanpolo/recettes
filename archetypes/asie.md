@@ -11,7 +11,7 @@ short: >
     
 keywords: ""
 
-categories: ["nouille_riz", "poisson", "viande"]
+categories: ["divers", "légumes", "nouille_riz", "poisson", "viande"]
 tags: []
 
 photo: "_default_image.jpg"

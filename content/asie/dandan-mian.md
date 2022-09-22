@@ -14,7 +14,7 @@ short: >
 keywords: ""
 
 categories: ["nouille_riz"]
-tags: []
+tags: ["nouille", "porc", "viande", "haché", "moutarde", "racine", "vin", "Shaoxing", "oignon", "sésame", "piment", "Sechuan", "Sichuan", "sauce", "soja"]
 
 photo: "dandan-mian.jpg"
 alt: "une assiette de nouilles chinoises, couverte de viande hachée et de sauce pimentée, avec deux baguettes sur le bord"
@@ -23,7 +23,7 @@ source: ""
 
 remarque: >
     Pour 4 personnes<br>
-    Ce plat constitue un repas complet et fait partie des *[xiǎochī](https://en.wikipedia.org/wiki/Xiaochi)*, ou petit-manger
+    Cette recette constitue un plat complet et fait partie des *[xiǎochī](https://en.wikipedia.org/wiki/Xiaochi)*, ou petit-manger
 
 preparation: 
 cuisson: 

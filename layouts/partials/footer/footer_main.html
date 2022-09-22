@@ -1,24 +1,26 @@
 <div class="relative h-16 md:h-32 bg-mycolor-900 text-white  mb-1 md:mb-4">
     <p class=" pt-1 md:pt-8 italic text-base text-center lg:text-lg ">La Cuisine de Chan & Polo !</p>
    
+    {{ $Section := where .Site.RegularPages  "Section" "recette"}} 
+
     <div class="hidden md:inline absolute left-6 pt-6">
-        {{ with .Site.RegularPages.ByTitle.Next . }}
+        {{ with $Section.ByTitle.Next . }}
             <a  href="{{ .Permalink }}" aria-label="précédent"><<  {{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}}</a>
         {{ end }}
     </div>
     <div class="hidden md:inline absolute right-6 pt-6">
-        {{ with .Site.RegularPages.ByTitle.Prev . }}
+        {{ with $Section.ByTitle.Prev . }}
             <a href="{{ .Permalink }}" aria-label="suivant">{{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}} 
                 >></a>
         {{ end }}
     </div>
     <div class=" md:hidden absolute left-4 pt-2">
-        {{ with .Site.RegularPages.ByTitle.Next . }}
+        {{ with $Section.ByTitle.Next . }}
             <a  href="{{ .Permalink }}"><<  Précédent</a>
         {{ end }}
     </div>
     <div class="md:hidden absolute right-2 pt-2">
-        {{ with .Site.RegularPages.ByTitle.Prev . }}
+        {{ with $Section.ByTitle.Prev . }}
             <a href="{{ .Permalink }}">Suivant >></a>
         {{ end }}
     </div>
