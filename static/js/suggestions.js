@@ -3,7 +3,7 @@
   const day = date.getUTCDate();
   
   const year = date.getUTCFullYear();
-  const number = day + month + year;
+  const number = 5*day + month + year;
 
   async function getEntrees() {
     let url = "json/entree.json"

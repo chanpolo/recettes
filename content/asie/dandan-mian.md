@@ -7,7 +7,7 @@ draft: false
 
 description: >
     Spécialité du Sichuan, à base de nouilles assaisonnées avec de l'huile de piment rouge.<br>
-    Avec sa garniture de viande, ce plat constitue un repas complet et fait partie des *[xiǎochī](https://en.wikipedia.org/wiki/Xiaochi)*, ou petit-manger. 
+    Avec sa garniture de viande, cete recette constitue un plat complet et fait partie des *[xiǎochī](https://en.wikipedia.org/wiki/Xiaochi)*, ou petit-manger. 
 
 short: >
     Une spécialité à base de nouilles, venue du Sichuan... donc pimentée!
