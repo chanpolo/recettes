@@ -1,6 +1,6 @@
 ---
 author: "Chan & Polo"
-title: ""
+title: "Cocas de Nini"
 titleshort:
 date: 2022-09-22T23:54:50+02:00
 draft: false
