@@ -11,7 +11,7 @@ short: >
     
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base"]
+categories: ["entrée", "plat", "dessert", "base", "apéritif"]
 tags: []
 
 photo: "_default_image.jpg"

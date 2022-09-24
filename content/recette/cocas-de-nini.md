@@ -15,7 +15,7 @@ short: >
 keywords: ""
 
 categories: ["entrée", "plat", "dessert", "base"]
-tags: ["coca", "chausson", "pate", "brisé", "feuilleté", "pendelotte", "tomate", "poivron", "piment", "espelette", "nice", "oignon", "anchois"]
+tags: ["coca", "chausson", "pate", "brisé", "feuilleté", "pendelotte", "tomate", "poivron", "piment", "espelette", "nice", "oignon", "anchois", "saindoux"]
 
 photo: "cocas-de-nini.jpg"
 alt: "sur une assiette en faïence, 7 cocas niçois (petits chaussons de pâte fourrés à la ratatouille)"

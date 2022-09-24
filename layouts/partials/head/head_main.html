@@ -5,7 +5,7 @@
     <title>{{ if .Page.Title}}{{ .Page.Title }}{{else}}{{ .Site.Title}}{{end}}</title>
     <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Summary }}{{ . }}{{ else }}{{ .Site.Params.description }}{{end }}{{ end }} ">
     <meta name="keywords" content="{{ range .Params.Tags }}{{ . }},{{ end }}">
-    <meta name="categories" content="{{ if .Params.Categories }}{{ delimit .Params.Categories ", "}}{{else}}entrée, plat, dessert, base{{end}}">
+    <meta name="categories" content="{{ if .Params.Categories }}{{ delimit .Params.Categories ", "}} {{else}} entrée, plat, dessert, base{{end}}">
 
     <link rel="canonical" href="{{ .Permalink }}" />  
     <link rel="stylesheet" href="{{ .Site.BaseURL}}/css/main.css">
@@ -14,16 +14,7 @@
 
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css"/>
     <script src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-  <script>
-    algoliasearchNetlify({
-    appId: 'G1CLP4891G',
-    apiKey: '6786f5d4d6ec0f3ddc9fa6683d4bc2c4',
-    siteId: 'c441371c-c790-4a40-993c-bdf9cd973932',
-    branch: 'main',
-    selector: 'div#search',
-    })
-  </script>
-
-
+    <script src="{{ .Site.BaseURL}}/js/algoliaSearch.js"></script>
+    {{/*  <script src="{{ .Site.BaseURL}}/js/algoliaSearch_tmp.js"></script>  */}}
 
   </head>
