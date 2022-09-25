@@ -15,7 +15,7 @@ short: >
     
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base", "apéritif"]
+categories: [ "plat"]
 tags: ["daube", "provence", "boeuf", "gite", "noix", "joue", "marinade", "vin", "rouge", "bouquet", "garni", "huile", "farine", "carotte", "oignon", "céleri", "girofle", "aix"]
 
 photo: "daube-provencale.jpg"

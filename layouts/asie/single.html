@@ -43,11 +43,11 @@
 {{ $webp := $image.Resize $webpx }}
 
 
-<header class="bg-asiacolor-400 px-4 text-mycolor-900">
+<header class="bg-asiacolor-400 px-4 text-black">
     <h1 class="hidden lg:block uppercase text-center  pb-0">{{.Title}}</h1>
     <h1 class="lg:hidden uppercase text-center pb-0">{{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}</h1>
 
-    <p class="text-center italic pb-3 md:pb-8 lg:pb-12 text-mycolor-900 text-lg">une recette de {{.Params.Author}}</p>
+    <p class="text-center italic pb-3 md:pb-8 lg:pb-12 text-white text-lg">une recette de {{.Params.Author}}</p>
     <div >
         <figure>
             <picture>

@@ -24,7 +24,7 @@ source: ""
 
 remarque: >
     Il s'agit d'une recette simple, sans produits de type glucose anhydre ou stabilisant<br>
-    La texture onctueuse de la banane suffit, à elle seule, à donner à cette glace un crémeux suffisant
+    La texture onctueuse de la banane suffit, à elle seule, à donner à cette glace un crémeux satisfaisant
 
 preparation: 
 cuisson: 

@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base"]
+categories: [ "plat"]
 tags: []
 
 photo: "poulet-roti.jpg"

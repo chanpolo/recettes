@@ -14,7 +14,7 @@ short: >
     Une farce de légumes dans un chausson en pâte brisée ou feuilletée
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base"]
+categories: ["entrée"]
 tags: ["coca", "chausson", "pate", "brisé", "feuilleté", "pendelotte", "tomate", "poivron", "piment", "espelette", "nice", "oignon", "anchois", "saindoux"]
 
 photo: "cocas-de-nini.jpg"

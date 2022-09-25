@@ -1,4 +1,4 @@
-
+ 
 {{ $paginator := .Paginate (sort (where .Site.RegularPages.ByTitle "Section" "recette") "Params.author")}}
 
 {{ range $paginator.Pages }}
