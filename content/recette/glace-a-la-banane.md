@@ -24,7 +24,8 @@ source: ""
 
 remarque: >
     Il s'agit d'une recette simple, sans produits de type glucose anhydre ou stabilisant<br>
-    La texture onctueuse de la banane suffit, à elle seule, à donner à cette glace un crémeux satisfaisant
+    La texture onctueuse de la banane suffit, à elle seule, à donner à cette glace un crémeux satisfaisant<br>
+    Ne pas hésiter à faire des boules de glaces enveloppées dans du cellofrais avant mise au congélateur
 
 preparation: 
 cuisson: 
@@ -45,4 +46,8 @@ difficulte:
 - Goûter pour savoir si la quantité de jus de citron est suffisante. Au besoin, en rajouter
 - Mettre dans le réfrigérateur pour se la jouer écologique et ne pas turbiner un produit à température ambiante
 - Une fois l'appareil refroidi, turbiner et mettre au congélateur
-- Déguster nature ou accompagnée de chocolat chaud ou de crème Chantilly
+- Déguster rapidement nature ou accompagnée de chocolat chaud ou de crème Chantilly
+### Note
+- Si on souhaite conserver la glace longtemps au congélateur, faire des boules enveloppées de cellofrais avant que la glace ne soit trop dure
+- Sortir les boules de glace environ 15 minutes avant dégustation
+- Effectivement, l'absence d'adjuvants et la présence de crème rendront la glace très dure à -18°C

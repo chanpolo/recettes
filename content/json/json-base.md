@@ -13,6 +13,7 @@ keywords: ""
 
 categories: ["json"]
 photo: "_default_image.jpg"
+layout: json-base
 ---
 
 

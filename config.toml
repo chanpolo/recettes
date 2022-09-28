@@ -126,4 +126,4 @@ vars = ["title", "titleshort", "summary", "date", "permalink"]
 params = ["categories", "tags", "description"]
 
 [outputs]
-home = ["HTML", "RSS", "JSON", "Algolia"]
+home = ["HTML", "RSS", "Algolia"]

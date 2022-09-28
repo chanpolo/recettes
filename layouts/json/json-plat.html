@@ -1,6 +1,6 @@
 {{ $data := slice  }}
 
-{{ $slice := slice "dessert" }}
+{{ $slice := slice "plat" }}
 {{ range (where .Site.RegularPages.ByTitle "Params.categories" "intersect" $slice) }}
   {{ $this := . }}
   {{ $titleshort := cond ( and (ne .Params.titleshort nil) (ne .Params.title "")) .Params.titleshort .Title}}
@@ -9,12 +9,12 @@
   {{ $short := cond ( and (ne .Params.short nil) (ne .Params.short "")) (.Params.short | markdownify) $description }}
   {{ $date := .Date.Format "02/01/2006"}}
   {{ $author := .Params.Author}}
-  {{ $page := .GetPage (printf "/%s" (replace (replace .File "\\" "/") ".md" "" ) ) }}
 
-  {{ with $page.Params }}
+  {{ with .Params }}
     {{$image := resources.Get (print "images/" $this.Params.Photo)}}
     {{ $data = $data | append (slice (dict  "Title" (.Title) "url" ($this.RelPermalink) "image" ($image.RelPermalink) "alt" ($alt) "description" ($description) "short" ($short) "author" ($author) "date" ($date) "titleshort" ($titleshort) )) }}
   {{ end }}
+  
 {{ end }}
 
 {{ $data | jsonify }}

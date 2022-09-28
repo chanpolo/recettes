@@ -34,7 +34,7 @@ difficulte:
 
 
 ## Ingrédients
-- 1 pâte feuilletée (celle de la boulangerie Méric est parfaite)
+- 1 pâte feuilletée (celle de la *[boulangerie Méric](https://caylus.info/meric-dominique-jerome/)* est parfaite)
 - 800 grammes de blancs de poireaux (grosso modo un kilo de poireaux avec le vert)
 - 2 échalotes
 - 15 g de beurre
@@ -42,7 +42,7 @@ difficulte:
 - 375 grammes de ricotta
 - 3 œufs
 - 3 grosses cuiller à soupe de moutarde
-- 150 grammes de gruyère râpé (Comté de chez Ludo)
+- 150 grammes de gruyère râpé (*[Comté de chez Ludo](https://www.facebook.com/Fromagerie-Chez-Ludo-235961390213087)*)
 ## Préparation
 ### La fondue de poireaux
 - Lavez les poireaux et taillez-les en rondelles
