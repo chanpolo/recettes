@@ -51,7 +51,7 @@
                               </a>
                               <a class="col-span-2 capitalize md:tracking-wide no-underline" href="${suggestion.url}">
                               <span class="font-normal md:font-semibold md:text-xl md:pt-1">${suggestion.Title}</span>
-                              <br><span class="md:text-lg">${suggestion.date}</span>
+                              <br><span class="md:text-lg capitalize">${suggestion.categorie}</span>
                               <br><span class="md:text-lg">${suggestion.author}</span>
                               </a>
                               <span class="col-span-3 tracking-tighter md:tracking-wide lg:tracking-widest md:text-lg">${suggestion.description}</span>
@@ -62,7 +62,7 @@
                               </a>
                               <a class="col-span-2 capitalize no-underline" href="${suggestion.url}">
                               <span class="">${suggestion.titleshort}</span>
-                              <br><span class="">${suggestion.date}</span>
+                              <br><span class="capitalize">${suggestion.categorie}</span>
                               <br><span class="">${suggestion.author}</span>
                               </a>
                               <span class="col-span-3 ">${suggestion.short}</span>

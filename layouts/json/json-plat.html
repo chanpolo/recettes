@@ -9,10 +9,11 @@
   {{ $short := cond ( and (ne .Params.short nil) (ne .Params.short "")) (.Params.short | markdownify) $description }}
   {{ $date := .Date.Format "02/01/2006"}}
   {{ $author := .Params.Author}}
+  {{ $categorie := "plat"}}
 
   {{ with .Params }}
     {{$image := resources.Get (print "images/" $this.Params.Photo)}}
-    {{ $data = $data | append (slice (dict  "Title" (.Title) "url" ($this.RelPermalink) "image" ($image.RelPermalink) "alt" ($alt) "description" ($description) "short" ($short) "author" ($author) "date" ($date) "titleshort" ($titleshort) )) }}
+    {{ $data = $data | append (slice (dict  "Title" (.Title) "url" ($this.RelPermalink) "image" ($image.RelPermalink) "alt" ($alt) "description" ($description) "short" ($short) "author" ($author) "date" ($date) "titleshort" ($titleshort) "categorie" ($categorie))) }}
   {{ end }}
   
 {{ end }}
