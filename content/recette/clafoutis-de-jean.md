@@ -1,6 +1,7 @@
 ---
 author: "Jean"
 title: "Clafoutis de Jean : le vrai !"
+titleshort: "Clafoutis de Jean"
 date: 2021-07-12
 draft: false
 

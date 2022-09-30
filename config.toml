@@ -126,4 +126,23 @@ vars = ["title", "titleshort", "summary", "date", "permalink"]
 params = ["categories", "tags", "description"]
 
 [outputs]
-home = ["HTML", "RSS", "Algolia"]
+home = ["HTML", "RSS", "Algolia", "dessert", "entree", "plat"]
+
+[mediaTypes."application/json"]
+  suffixes = ["json"]
+
+[outputFormats]  
+  [outputFormats.Entree]
+    mediaType = "application/json"
+    baseName = "json/entree" 
+    isPlainText = true
+  
+  [outputFormats.Plat]
+    mediaType = "application/json"
+    baseName = "json/plat" 
+    isPlainText = true
+
+  [outputFormats.Dessert]
+    mediaType = "application/json"
+    baseName = "json/dessert" 
+    isPlainText = true

@@ -1,7 +1,7 @@
 ---
 author: "Chan & Polo"
 title: "Caponata sicilienne"
-titleshort: "caponata"
+titleshort: "Caponata"
 date: 2020-05-28
 draft: false
 

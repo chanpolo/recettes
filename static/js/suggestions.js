@@ -8,19 +8,14 @@
       // create async function to call json files
       async function getSuggestions(url) {
         let response = await fetch(url);
-        let text = await response.text();
-        let split = await text.split('<script')[0];
-        let replace = await split.replace(/(\r\n|\n|\r)/gm,"");
-        let json = await JSON.parse(replace);
-        console.log(json)
-        return await json;
+        return await response.json();
       }
 
       // create async function to render HTML
       async function renderSuggestions() {
-        const entrees = await getSuggestions("json/json-entree");
-        const plats = await getSuggestions("json/json-plat");
-        const desserts = await getSuggestions("json/json-dessert");
+        const entrees = await getSuggestions("json/entree.json");
+        const plats = await getSuggestions("json/plat.json");
+        const desserts = await getSuggestions("json/dessert.json");
 
         // create index from number in each json, 2 for entree, 2 for plat, 1 for dessert according to number
 
