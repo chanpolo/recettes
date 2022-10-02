@@ -70,7 +70,7 @@
 </header>
 
 <main class="bg-mycolor-200 p-6">
-    
+ <div id="divCon">   
     {{ if (isset .Params "remarque") }} 
         {{ if gt
              (len .Params.Remarque) 0 }}
@@ -81,6 +81,39 @@
     {{ end }}
 
 {{ .Content | markdownify }}
+</div>
+<br>
+
+<button onclick="printDivContent()">
+    <figure >
+        <img  src="/images/imprimante.png" class=" mx-auto">
+        <figcaption class="opacity-0 hover:opacity-100">Print</figcaption>
+    </figure>
+</button>
+<button>
+    <a href="#" class="no-underline">
+        <figure >
+            <img  src="/images/haut-de-page.jpg" class=" mx-auto">
+            <figcaption class="opacity-0 hover:opacity-100 no-underline">Haut</figcaption>
+        </figure>
+    </a>
+</button>
+
+
+<script>
+    function printDivContent() {
+        var contentOfDiv = document.getElementById("divCon").innerHTML;
+        var newWin = window.open('', '', 'height=650, width=650');
+        newWin.document.write('');
+        newWin.document.write('<title>{{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}</title>');
+        newWin.document.write(' <center><h1>{{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}</h1></center> ');
+        newWin.document.write(contentOfDiv);
+        newWin.document.write('');
+        newWin.document.close();
+        newWin.print();
+}
+</script>
+
 </main>
 
 

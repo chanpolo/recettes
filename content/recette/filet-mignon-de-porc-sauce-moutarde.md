@@ -56,6 +56,7 @@ difficulte:
 - Bien mélanger le tout
 - Ajouter les gousses d'ail, non pelées, préalablement écrasées avec la paume de la main
 - Remettre les filets mignons dans la cocotte
+- Couvrir
 - Cuire à feu doux pendant 45 à 60 minutes ; la température à coeur doit atteindre 80/85°C
 ### La sauce
 - Une fois les filets cuits, les sortir de la cocotte, les disposer dans un papier aluminium pour qu'ils se gardent au chaud et réserver
