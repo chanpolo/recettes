@@ -84,22 +84,6 @@
 </div>
 <br>
 
-<button onclick="printDivContent()">
-    <figure >
-        <img  src="/images/imprimante.png" class=" mx-auto">
-        <figcaption class="opacity-0 hover:opacity-100">Print</figcaption>
-    </figure>
-</button>
-<button>
-    <a href="#" class="no-underline">
-        <figure >
-            <img  src="/images/haut-de-page.jpg" class=" mx-auto">
-            <figcaption class="opacity-0 hover:opacity-100 no-underline">Haut</figcaption>
-        </figure>
-    </a>
-</button>
-
-
 <script>
     function printDivContent() {
         var contentOfDiv = document.getElementById("divCon").innerHTML;
@@ -113,6 +97,19 @@
         newWin.print();
 }
 </script>
+
+
+<button onclick="printDivContent()" >
+    <figure >
+        <img  src="/images/imprimante.png" class=" mx-auto w-4 md:w-6">
+        <figcaption class="opacity-0 hover:opacity-100 text-sm : md:text-base">Print</figcaption>
+    </figure>
+</button>
+<button><a href="#" class="no-underline"><figure >
+    <img  src="/images/haut-page.png" class=" mx-auto w-4 md:w-6">
+    <figcaption class="opacity-0 hover:opacity-100 no-underline text-sm : md:text-base">Haut</figcaption>
+</figure>
+</a></button>
 
 </main>
 
