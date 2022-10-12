@@ -70,17 +70,45 @@
 </header>
 
 <main class="bg-asiacolor-25 p-6">
-    
-    {{ if (isset .Params "remarque") }} 
-        {{ if gt
-             (len .Params.Remarque) 0 }}
-        <div class="block border border-asiacolor-800  p-2 bg-asiacolor-200 text-center text-mycolor-800 italic">
-            {{ .Params.remarque | markdownify }}
-        </div>
-        {{ end }}
-    {{ end }}
+    <div id="divCon">
+            {{ if (isset .Params "remarque") }} 
+                {{ if gt
+                    (len .Params.Remarque) 0 }}
+                <div class="block border border-asiacolor-800  p-2 bg-asiacolor-200 text-center text-mycolor-800 italic">
+                    {{ .Params.remarque | markdownify }}
+                </div>
+                {{ end }}
+            {{ end }}
 
 {{ .Content | markdownify }}
+    </div>
+<br>
+<script>
+    function printDivContent() {
+        var contentOfDiv = document.getElementById("divCon").innerHTML;
+        var newWin = window.open('', '', 'height=650, width=650');
+        newWin.document.write('');
+        newWin.document.write('<title>{{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}</title>');
+        newWin.document.write(' <center><h1>{{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}</h1></center> ');
+        newWin.document.write(contentOfDiv);
+        newWin.document.write('');
+        newWin.document.close();
+        newWin.print();
+}
+</script>
+
+<button onclick="printDivContent()" >
+    <figure >
+        <img  src="/images/imprimante.png" class=" mx-auto w-4 md:w-6">
+        <figcaption class="opacity-0 hover:opacity-100 text-sm : md:text-base">Print</figcaption>
+    </figure>
+</button>
+<button><a href="#" class="no-underline"><figure >
+    <img  src="/images/haut-page.png" class=" mx-auto w-4 md:w-6">
+    <figcaption class="opacity-0 hover:opacity-100 no-underline text-sm : md:text-base">Haut</figcaption>
+</figure>
+</a></button>
+
 </main>
 
 
