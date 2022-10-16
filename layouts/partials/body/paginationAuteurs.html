@@ -1,6 +1,6 @@
 {{ $type := .Page.Scratch }}
 
-{{ $paginator := .Paginate (where .Site.RegularPages.ByTitle "Params.author" ($type.Get "type")) }}
+{{ $paginator := .Paginate (where (where .Site.RegularPages.ByTitle "Section" "recette") "Params.author" ($type.Get "type")) }}
 
 {{ range $paginator.Pages }}
 <div class="pb-1">
