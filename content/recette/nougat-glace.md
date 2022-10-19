@@ -51,4 +51,4 @@ difficulte:
 - Ajouter la crème fouettée fermement,les fruits confits,les fruits caramélisés et la ½ cuillère à café d'amande amère et mélanger
 - Tapisser un moule à cake de cellofrais, déposer la préparation et mettre au congélateur 12 heures
 - Le sortir 1 heure avant de le déguster
-- Servir avec un couli de fruits rouges
+- Servir avec un coulis de fruits rouges

@@ -13,7 +13,7 @@ short: >
     Une moussaka fondante et savoureuse, comme en Grèce
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base", "apéritif"]
+categories: ["plat"]
 tags: ["moussaka", "aubergines", "viande hachée", "boeuf", "pulpe", "concentré", "tomate", "oignon", "ail", "cumin", "citron", "four", "gratin"]
 
 photo: "moussaka.jpg"
