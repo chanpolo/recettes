@@ -1,7 +1,7 @@
 ---
 author: "Chan & Polo"
-title: ""
-titleshort:
+title: "Accras de morue, sauce lime et rougail"
+titleshort: "accras de morue"
 date: 2022-11-06T16:47:41+01:00
 draft: false
 
