@@ -16,7 +16,7 @@ short: >
 keywords: ""
 
 categories: [ "dessert"]
-tags: ["nougat", "glace", "fruit confit", "orange", "citron", "gingembre", "cédrat", "angélique", "cerise", "amande", "pistache", "miel", "crème", "amande amère"]
+tags: ["nougat", "glace", "fruit confit", "orange", "citron", "gingembre", "cédrat", "angélique", "cerise", "amande", "pistache", "miel", "crème", "amande amère", "plombière"]
 
 photo: "nougat-glace.jpg"
 alt: "sur un plat en faïence blanceh, trois tranches de nougat glacé et à côté le restant du nougat, recouvert de brisures de pistaches et d'amandes. Les teintes de la photo sont dans le blanc, le vert, le jaune."
@@ -25,7 +25,8 @@ source: ""
 
 remarque: >
     Pour 6 personnes<br>
-    La qualité des fruits confits est une clé du succès de la recette
+    La qualité des fruits confits est une clé du succès de la recette<br>
+    L'aspect et la texture dépendent de la manière dont sont préparées noisettes et pistaches
 
 preparation: 
 cuisson: 
@@ -46,6 +47,7 @@ difficulte:
 ## Préparation
 - Faire dorer les pistaches et les amandes sur feux doux puis ajouter 50 g de sucre en poudre et mélanger jusqu'à ce que les fruits caramélisent
 - Laisser refroidir puis hacher grossièrement au robot, au pilon ou au couteau
+- Si amandes et pistaches sont mixées dans le blender, le nougat glacé ressemblera plus à une glace plombière
 - Fouetter les blanc d’œufs en neige ferme puis verser le miel chaud en mince filet sans cesser de fouetter jusqu'à ce que les blancs soient froids et lisses
 - Fouetter les jaunes avec le reste de sucre en poudre puis incorporer les blancs sans cesser de fouetter
 - Ajouter la crème fouettée fermement, les fruits confits, les fruits caramélisés et la ½ cuillère à café d'amande amère et mélanger
