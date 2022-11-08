@@ -24,7 +24,7 @@ source: ""
 
 remarque: >
     Le moule utilisé ici fait 23 cm de diamètre et 7 cm de hauteur<br>
-    Ceci explique que la quantité de pâte réalisée est plus importante que ce qui est indiqué dans la recette originale<br>
+    Ceci explique que la quantité de pâte réalisée est plus importante que ce qui est indiqué dans la recette originale, par exemple celle de *[Mercotte](https://www.mercotte.fr/2017/03/15/tarte-au-citron-cuite-au-four-a-la-maniere-de-christophe-adam/#:~:text=La%20p%C3%A2te%20sucr%C3%A9e%20%3A%20180g%20de,%2C%2050g%20d'oeuf%20entier.)*<br>
     L'appareil indiqué ici est moins sucré que dans la recette de *[Christophe Adam](https://www.leclairdegenieshop.com/notre-histoire)*<br>
     La préparation et la cuisson sont longues : ne pas hésiter à faire la tarte la veille et à la laisser mûrir au frigidaire
 
@@ -62,10 +62,11 @@ difficulte:
 - Ajouter l'oeuf, la poudre de noisette et la farine tamisée
 - Étaler finement entre deux feuilles de *[Silpat](https://fr.silpat.com/)* ou, à défaut, de papier cuisson
 - Réserver quelques heures au frais
-- Pour disposer la pâte dans le moule, le mieux est de procéder par étapes, en remettant la pâte au froid entre chaque étape. Plus la température ambiante sera élevée, plus le [fonçage](https://conseils-cap-patisserie.fr/foncage-pates-tarte/) sera difficile
+- Pour disposer la pâte dans le moule, le mieux est de procéder par étapes, en remettant la pâte au froid entre chaque étape. Plus la température ambiante sera élevée, plus le *[fonçage](https://conseils-cap-patisserie.fr/foncage-pates-tarte/)* sera difficile
 - Découper un cercle de pâte de la dimension du moule et le poser sur le fond du moule 
 - Découper des bandes dont la largeur est un peu supérieure à la hauteur du moule (environ 8 cm dans notre cas)
 - Appliquer ces bandes sur le bord du moule, éventuellement en plusieurs fois
+- Rabattre la pâte sur le haut du moule, de manière à ce que la pâte ne s'affaisse pas à la cuisson
 - Sceller délicatement les bandes avec le cercle du fond de tarte
 - Utiliser, si besoin, les restants de pâte pour combler les manques
 - Garder un peu de pâte en réserve : elle servira en fin de cuisson
@@ -86,7 +87,7 @@ difficulte:
 - Enfourner 20 min et si la pâte n’est pas assez colorée cuire 10min de plus, elle doit être légèrement brune
 - Retirer délicatement le papier cuisson et les billes
 - Baisser la température du four à 130°
-- Remettre la tarte au four jusqu’à ce que la pâte soit sèche et dorée, en laissant la porte ouvert
+- Remettre la tarte au four jusqu’à ce que la pâte soit sèche et dorée, en laissant la porte ouverte
 - Si il y a des fissures sur le pourtour du fond de tarte au moment du démoulage utiliser les restes de pâte sucrée pour boucher les trous tant que la pâte est encore chaude
 - ***Bien la cuire, car si elle est molle quand on met l’appareil, cela n’ira pas***
 ### L'appareil
