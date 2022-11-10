@@ -13,7 +13,7 @@ short: >
     Un cake d'apéritif au thon et aux olives
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base", "apéritif"]
+categories: ["apéritif"]
 tags: []
 
 photo: "cake-au-thon-et-aux-olives.jpg"
