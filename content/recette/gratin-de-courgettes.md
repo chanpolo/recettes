@@ -6,7 +6,7 @@ date: 2023-03-17T17:22:25+01:00
 draft: false
 
 description: >
-    Des courgettes finement tranchées et préuites gratinées au four avec du Cantal râpé.<br>
+    Des courgettes finement tranchées et précuites gratinées au four avec du Cantal râpé.<br>
     Un plat toutes saisons, qui réchauffe en hiver mais qui reste léger pour un repas d'été.<br>
     Une manière simple de sublimer les courgettes et de les rendre savoureuses.
 
