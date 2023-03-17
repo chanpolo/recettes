@@ -48,6 +48,6 @@ difficulte:
 - Battre vigoureusement les deux oeufs, les deux jaunes d'oeuf et la crème. Ne pas surdoser en crème afin que le gratin ne soit pas trop liquide
 - Dans un plat allant au four, de taille adaptée, disposer une couche de courgettes cuites et essorées, napper du mélange oeuf-crème, recouvrir de cantal
 - Disposer une deuxième couche identique à la première. Éventuellement, charger en cantal râpé pour que le plat gratine plus
-- Enfourner à four préchauffé à 170/180°
+- Enfourner à four préchauffé à 170/180° pendant une vingtaine de minutes
 ## Conseil
 - Plus le gratin sera réchauffé, plus il perdra de son humidité. Donc ne pas hésiter à le préparer à l'avance et à le réchauffer
