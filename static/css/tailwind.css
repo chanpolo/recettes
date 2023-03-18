@@ -39,7 +39,7 @@
     @apply text-xl font-medium py-1.5;
   }
   h4 {
-    @apply text-xl font-medium py-1.5;
+    @apply text-base font-medium italic py-1.5;
   }
   /* les puces */
   ul {

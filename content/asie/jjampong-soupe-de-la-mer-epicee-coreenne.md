@@ -31,7 +31,7 @@ difficulte:
 
 
 ## Ingrédients
-- 1 paquet de nouilles chinoises d'oeufs (longues) ou [nouilles udon](https://chefsimon.com/recettes/tag/udon)
+- 1 paquet de nouilles chinoises aux oeufs (longues) ou de [nouilles udon](https://chefsimon.com/recettes/tag/udon)
 - <sup>1</sup>&frasl;<sub>3</sub> [tasse](https://www.papillesetpupilles.fr/2020/05/a-propos-des-tasses-mesure-et-des-cuilleres-mesure.html/) de porc, tranché finement, soit 80 ml
 - 6 crevettes moyennes, décortiquées et déveinées
 - <sup>1</sup>&frasl;<sub>2</sub> tasse de calmar (120 ml environ), nettoyés et émincés
@@ -52,7 +52,7 @@ difficulte:
 - 1 cuillère à café de sauce de poisson (en option)
 ## Préparation
 ### Les nouilles
-- Dans une grande casserole, faire cuire les nouilles aux oeufs (ou nouilles udon ) selon les instructions du paquet. - S'assur de ne pas trop cuire les nouilles qui doivent garder une certaine texture
+- Dans une grande casserole, faire cuire les nouilles aux oeufs (ou nouilles udon ) selon les instructions du paquet. - S'assurer de ne pas trop cuire les nouilles qui doivent garder une certaine texture
 - Égoutter et réserver
 ### Les palourdes (ou les moules)
 - Dans une casserole, mettre environ <sup>1</sup>&frasl;<sub>2</sub> litre d'eau
