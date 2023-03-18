@@ -72,3 +72,6 @@ difficulte:
 - Écraser légèrement le burger
 - Laisser éventuellement chauffer encore quelques instants mais en veillant à ce que les pains ne brûlent pas
 - Servir et déguster rapidement
+## Conseils
+- Pour faire fondre le fromage sur les pains, disposer ceux-ci sur une plaque de four et passer brièvement sous le grill, jusqu'à ce que le cheddar fonde
+- Remplacer le ketchup et/ou la tomate par un mélange coulis de tomate et pulpe de tomate en boîte égouttée
