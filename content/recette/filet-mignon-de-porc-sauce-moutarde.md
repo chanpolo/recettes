@@ -7,7 +7,7 @@ draft: false
 
 description: >
     Un filet mignon de porc, cuit dans une sauce au vin blanc, à la crème et à la moutarde.<br>
-    Dréssé dans l'assiette avec un accompagnement de purée et nappé de sauce, c'est un régal pour les convives.
+    Dressé dans l'assiette avec un accompagnement de purée et nappé de sauce, c'est un régal pour les convives.
 
 short: >
     Un filet mignon de porc avec sa sauce crémeuse à la moutarde

@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: ["divers", "légumes", "nouille_riz", "poisson", "viande", "soupe"]
+categories: [ "viande"]
 tags: ["porc", "couenne", "poitrine", "laque", "canard", "marinade", "cinq épices", "miel", "huile", "fécule", "croustillant", "Miss Tam"]
 
 photo: "porc-laque-croustillant-miss-tam.jpg"
