@@ -35,7 +35,7 @@ difficulte:
 - 175 g de sucre 
 - 120 g de beurre fondu
 - le zeste d'un citron
-- 3 œufs
+- 3 œufs (165 grammes)
 - 150 g de farine
 - 80 g de jus de citron (2 petits citrons)
 - 1 demie cuillerée à café de levure chimique
