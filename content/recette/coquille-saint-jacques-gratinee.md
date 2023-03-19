@@ -23,6 +23,7 @@ caption: ""
 source: ""
 
 remarque: >
+
     Pour 6 Saint-Jacques
 
 preparation: 
@@ -49,7 +50,7 @@ difficulte:
 - [Ouvrir et décoquiller](https://chefsimon.com/gourmets/chef-simon/recettes/ouvrir-et-decoquiller-une-coquille-saint-jacques) les Saint-Jacques
 - Garder les parures des Saint-Jacques
 ### Cuire les moules
-- [Préparer les moules](https://chefsimon.com/gourmets/chef-simon/recettes/preparer-les-moules#:~:text=Le%20byssus%20enlev%C3%A9%20on%20v%C3%A9rifie,on%20enl%C3%A8ve%20les%20parasites%20calcaires.&text=Laver%20les%20moules%20en%20les,qui%20flottent)%20et%20les%20cass%C3%A9es.)
+- [Préparer les moules](https://chefsimon.com/gourmets/chef-simon/recettes/preparer-les-moules#:~:text=Le%20byssus%20enlev%C3%A9%20on%20v%C3%A9rifie,on%20enl%C3%A8ve%20les%20parasites%20calcaires.&text=Laver%20les%20moules%20en%20les,qui%20flottent)
 - Les [cuire à la Marinière](https://chefsimon.com/gourmets/chef-simon/recettes/moules-mariniere--3)
 ### Fumet de poisson
 - Faire revenir une échalote émincée dans du beurre
