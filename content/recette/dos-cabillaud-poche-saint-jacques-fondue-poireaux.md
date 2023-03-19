@@ -32,7 +32,7 @@ difficulte:
 
 
 ## Ingrédients
-- 4 dos de cabillaud de 150gr
+- 4 dos de cabillaud de 150 gr
 - 12 noix de Saint-Jacques
 - 2 poireaux
 - 1 oignon
