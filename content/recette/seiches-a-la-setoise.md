@@ -40,7 +40,7 @@ difficulte:
 - 1 ou 2 sachets de [Spigol](https://www.cepasco.com/melange-epices/spigol) (ou quelques filaments de safran)
 - Thym, Laurier
 - Huile d'olive, sel et poivre
-### [Pour la rouille]({{< ref "/recette/macaronade-setoise-au-poisson-et-fruits-de-mer" >}})
+### [Pour la rouille]({{< relref "/recette/macaronade-setoise-au-poisson-et-fruits-de-mer#ingrédients" >}})
 - Oeuf
 - Moutarde
 - Huile
@@ -60,7 +60,7 @@ difficulte:
 - Ajouter les seiches
 - Faire cuire doucement à couvert 45 minutes à 1 h environ en surveillant la cuisson
 - *Il devrait normalement y avoir suffisamment de liquide pour parfaire la cuisson des seiches*
-- Préparer pendant ce temps votre [rouille]({{< ref "/recette/macaronade-setoise-au-poisson-et-fruits-de-mer#laïoli" >}}) provençale
+- Préparer pendant ce temps votre [rouille]({{< relref "/recette/macaronade-setoise-au-poisson-et-fruits-de-mer#laïoli" >}}) provençale
 - Quand la rouille de seiche est cuite et suffisamment réduite, coupez le feu et laissez tiédir un peu
 - Ajoutez votre rouille aux seiches et mélanger
 - **Les seiches ne doivent pas être trop chaudes pour éviter que la rouille "tourne" et reparte en huile à cause du surcroît de chaleur**
