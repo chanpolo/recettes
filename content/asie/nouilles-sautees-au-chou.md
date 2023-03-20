@@ -1,21 +1,23 @@
 ---
 author: "Chan & Polo"
-title: ""
-titleshort:
+title: "Nouilles sautées au chou"
+titleshort: "Nouilles au chou"
 date: 2023-03-20T18:47:22+01:00
 draft: false
 
 description: >
+    Un plat simple en apparence, mais tout est toujours complexe avec la cuisine asiatique, à base de nouilles chinoises et de chou.<br>
+    Le chou, les champignons Shiitaké, la sauce de soja vont exhausser les nouilles et faire de ce plat un délice.
 
 short: >
-    
+    Des nouilles chinoises accompagnées de chou et de Shiitaké
 keywords: ""
 
-categories: ["divers", "légumes", "nouille_riz", "poisson", "viande", "soupe"]
-tags: []
+categories: ["nouille_riz"]
+tags: ["nouille", "chou blanc", "champignon", "shiitaké", "sauce", "soja clair", "vinaigre de riz", "ail"]
 
-photo: "_default_image.jpg"
-alt: ""
+photo: "nouilles-sautees-au-chou.jpg"
+alt: "un bol de nouilles chinoises sautées avec du chou et des champignons shiitaké"
 caption: ""
 source: ""
 
