@@ -39,7 +39,7 @@ difficulte:
 - 1 càc de poivre
 - 1 càc de sel
 - Huile
-- fécule de maîs liquide
+- fécule de maïs liquide
 ### Sauce
 - 2 càs de fécule de maïs
 - 1 càc de poivre du Sichuan
