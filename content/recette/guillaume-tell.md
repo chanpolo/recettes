@@ -7,7 +7,7 @@ draft: false
 
 description: >
     Un gâteau mélangeant pommes marinées et raisins macérés, surmonté d'une crème cuite.<br>
-    Pour un 4 heures, un en-cas ou terminer un bon repas.
+    Pour un 4 heures, un en-cas ou terminer un repas léger.
 
 short: >
     Gâteau aux pommes et aux raisins secs
