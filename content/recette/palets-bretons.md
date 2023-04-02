@@ -44,11 +44,12 @@ difficulte:
 ## Préparation
 - Écraser le beurre en pommade à l'aide d'une fouchette ou bien le ramollir au micro-onde
 - Battre les 2 jaunes d'oeufs, la pincée de sel avec le sucre jusqu'à ce que le mélange blanchisse
-- Incorporer le beurre pommade puis la farine mélangée à la levure
+- Incorporer le beurre pommade
+- Incorporer, en la tamisant, la farine mélangée à la levure
 - Former un ou deux boudins de la taille des cercles ou des moules [Flexipan](https://flexipan.fr/) avec la pâte obtenue
 - Enrouler le(s) boudin(s) dans du film transparent 
 - Réserver au réfrigérateur environ 2 heures
-- Découper le(s) boudin(s) de pâte en tranche de 7 à 8 mm d'épaisseur (au four la pâte va gonfler) et les placer dans des cercles (les nôtres font 55mm de diamètre sur 12mm de hauteur) ou
+- Découper le(s) boudin(s) de pâte en tranches de 7 à 8 mm d'épaisseur (au four la pâte va gonfler) et les placer dans des cercles (les nôtres font 55mm de diamètre sur 12mm de hauteur) ou
 dans des moules à mini tartelettes ou à muffins ou dans le Flexipan, pour qu'elles ne s'étalent pas
 ## Cuisson
 - Préchauffer le four à 180°
