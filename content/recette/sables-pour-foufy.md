@@ -1,7 +1,7 @@
 ---
 author: "Paul"
-title: "sablés"
-titleshort:
+title: "sablés pour foufy"
+titleshort: "sablés"
 date: 2023-04-07T17:14:47+02:00
 draft: false
 
@@ -18,7 +18,7 @@ keywords: ""
 categories: ["dessert", "base"]
 tags: ["sablés", "pâte", "poudre amande", "poudre noisette", "farine", "maïzena", "beurre", "oeuf", "levure chimique", "sucre glace"]
 
-photo: "sables.jpg"
+photo: "sables-pour-foufy.jpg"
 alt: "Des sablés disposés sur une assiette blanche"
 caption: ""
 source: ""
