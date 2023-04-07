@@ -55,5 +55,13 @@ dans des moules à mini tartelettes ou à muffins ou dans le Flexipan, pour qu'e
 - Préchauffer le four à 180°
 - Cuire pendant 20 à 25 mn en surveillant régulièrement 
 - *Avec des moules en silicone la cuisson est un peu plus longue*
+- *En chaleur tournante, le temps de cuisson peut être diminué : commencer à surveiller à partir de 15 minutes*
 - Laisser les biscuits refroidir sur une grille
 - Les conserver dans une boite métallique hermétique
+## En absence de beurre demi-sel
+- Il est possible de remplacer le beurre demi-sel par un mélange beurre/sel
+- La teneur de sel dans un beurre demi-sel est comprise entre 0,5 et 3% de sel
+- Dans cette recette, peser 1,6 g de sel (fleur de sel de préférence)
+- Les ajouter aux 80 g de beurre
+- Mélanger : on obtient un beurre demi-sel à 2%
+

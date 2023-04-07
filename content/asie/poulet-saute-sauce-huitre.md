@@ -1,6 +1,6 @@
 ---
 author: "Chan & Polo"
-title: "Poulet sauté à la sauce d'huître"
+title: "Poulet sauté à la sauce d'Huître"
 titleshort: "poulet, sauce huître"
 date: 2023-03-31T22:27:43+02:00
 draft: false
