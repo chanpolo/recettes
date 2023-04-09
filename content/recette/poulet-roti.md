@@ -6,7 +6,7 @@ date: 2022-09-18T08:16:11+02:00
 draft: false
 
 description: >
-    Une recette simple de poulet rôti. Mais délicieuse, avec une volaille à la peau croustillante sans être brûlée.
+    Une recette simple de poulet rôti. Mais délicieuse, avec une volaille à la peau croustillante sans être brûlée.<br>
     C'est une recette de *[Chef Simon](https://chefsimon.com/gourmets/chef-simon/recettes/poulet-roti-la-bonne-cuisson)*, dont les conseils sont toujours précieux.
 
 short: >
@@ -15,7 +15,7 @@ short: >
 keywords: ""
 
 categories: [ "plat"]
-tags: []
+tags: ["poulet", "four", "herbes aromatiques", "huile neutre", "badigeon", "sauce", "déglaçage", "jus"]
 
 photo: "poulet-roti.jpg"
 alt: "sur une planche à découper, un beau poulet fermier rôti, doré à point ; sur le devant de la photo, un couteau à découper"
