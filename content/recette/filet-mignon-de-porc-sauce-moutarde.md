@@ -24,7 +24,8 @@ source: ""
 
 remarque: >
     Pour 3 à 4 personnes selon la taille des filets mignons<br>
-    Les filets ont tendance à réduire à la cuisson, aussi prévoir plutôt large
+    Les filets ont tendance à réduire à la cuisson, aussi prévoir plutôt large<br>
+    La moutarde au raifort peut remplacer la moutarde wasabi !
 
 preparation: 
 cuisson: 
@@ -34,7 +35,7 @@ difficulte:
 
 ## Ingrédients
 - 2 filets mignons de porc
-- Moutarde wasabi
+- Moutarde [wasabi](https://fr.wikipedia.org/wiki/Wasabi)
 - Moutarde forte de Dijon
 - Une demi-douzaine de gousses d'ail
 - Crème Mascarpone : environ 30 cl (crème fluide ou fleurette à défaut)
@@ -61,9 +62,9 @@ difficulte:
 ### La sauce
 - Une fois les filets cuits, les sortir de la cocotte, les disposer dans un papier aluminium pour qu'ils se gardent au chaud et réserver
 - Passer le contenu de la cocotte au chinois
-- La cocotte étant débarassée de ses impuretés, remettre la sauce et la réduire à feu vif en la remuant, de manière à ce qu'elle n'accroche pas et ne bouillonne pas
+- La cocotte étant débarassée de ses impuretés, remettre la sauce filtrée et la réduire à feu vif en la remuant, de manière à ce qu'elle n'accroche pas et ne bouillonne pas
 - Goûter et rectifier l'assaisonement ; éventuellement, rajouter de la moutarde, des épices, sel et poivre
-- Quand la sauce à la consistance souhaitée, stopper le feu
+- Quand la sauce a la consistance souhaitée, stopper le feu
 - À ce stade-là, passer au dressage ou bien remettre les filets mignons dans la cocotte si le plat doit être consommé plus tard. Il conviendra alors de le réchauffer doucement, sans que la sauce ne bouillonne
 ### Dressage
 - Sur une planche, découper les filets en médaillons de 2 à 3 cm d'épaisseur
