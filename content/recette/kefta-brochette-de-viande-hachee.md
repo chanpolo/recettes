@@ -13,7 +13,7 @@ short: >
     Brochettes de viande, façon kefta
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base", "apéritif"]
+categories: ["plat", "apéritif"]
 tags: ["kefta", "brochette", "viande hachée", "agneau", "mouton", "gingembre", "cumin", "paprika", "piment oiseau", "sumac", "oignon", "barbecue"]
 
 photo: "kefta-brochette-de-viande-hachee.jpg"
