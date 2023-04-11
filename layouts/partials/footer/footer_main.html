@@ -5,7 +5,7 @@
 
     <div class="hidden md:inline absolute left-6 pt-6 md:capitalize-first">
         {{ with $Section.ByTitle.Next . }}
-            <a  href="{{ .Permalink }}" aria-label="précédent"><<  {{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}}</a>
+            <a  href="{{ .Permalink }}" aria-label="précédent"><<  <span class="capitalize-first inline-block underline">{{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}}</span></a>
         {{ end }}
     </div>
     <div class="hidden md:inline absolute right-6 pt-6 md:capitalize-first">
