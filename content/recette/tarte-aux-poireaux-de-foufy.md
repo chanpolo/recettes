@@ -1,7 +1,7 @@
 ---
 author: "Paul"
-title: "Tarte aux poireaux de Foufy"
-titleshort: "Tarte aux poireaux"
+title: "tarte aux poireaux de Foufy"
+titleshort: "tarte aux poireaux"
 date: 2023-04-11T19:50:50+02:00
 draft: false
 

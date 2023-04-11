@@ -3,14 +3,14 @@
    
     {{ $Section := where .Site.RegularPages  "Section" "recette"}} 
 
-    <div class="hidden md:inline absolute left-6 pt-6">
+    <div class="hidden md:inline absolute left-6 pt-6 md:capitalize-first">
         {{ with $Section.ByTitle.Next . }}
             <a  href="{{ .Permalink }}" aria-label="précédent"><<  {{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}}</a>
         {{ end }}
     </div>
-    <div class="hidden md:inline absolute right-6 pt-6">
+    <div class="hidden md:inline absolute right-6 pt-6 md:capitalize-first">
         {{ with $Section.ByTitle.Prev . }}
-            <a href="{{ .Permalink }}" aria-label="suivant">{{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}} 
+            <a  href="{{ .Permalink }}" aria-label="suivant" >{{if .Params.Titleshort }}{{.Params.Titleshort}}{{else}}{{ .Title }}{{end}} 
                 >></a>
         {{ end }}
     </div>

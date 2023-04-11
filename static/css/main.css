@@ -1382,6 +1382,15 @@ a {
   .md\:tracking-wide {
     letter-spacing: 0.025em;
   }
+
+  .md\:text-red-500 {
+    --tw-text-opacity: 1;
+    color: rgb(239 68 68 / var(--tw-text-opacity));
+  }
+
+  .md\:capitalize-first:first-letter {
+    text-transform: uppercase;
+  }
 }
 
 @media (min-width: 1024px) {
