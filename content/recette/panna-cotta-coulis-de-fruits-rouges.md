@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base", "apéritif"]
+categories: ["dessert"]
 tags: ["panna cotta", "crème", "lait entier", "fruit rouge", "vanille", "coulis"]
 
 photo: "panna-cotta-coulis-de-fruits-rouges.jpg"

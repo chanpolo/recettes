@@ -47,14 +47,15 @@ difficulte:
 - Mélanger avec les doigts jusqu'à ce que la masse forme un ensemble qui se tient, une boule
 - Ajouter l'oeuf
 - Continuer à mélanger
-## [Fonçage](https://chefsimon.com/gourmets/chef-simon/recettes/foncer-un-cercle-a-patisserie) du moule
+## [Abaisse](https://chefsimon.com/gourmets/chef-simon/recettes/abaisser-une-pate)
 - Étaler de suite la pâte au rouleau entre deux feuilles de Silpat
 - *Ne pas hésiter à l'étaler finement, pour obtenir une tarte plus agréable au goût*
 - Réserver au frigidaire quelques heures, voire une nuit
 - *On peut rouler la pâte autour du rouleau si on souhaite qu'elle prenne moins de place dans le frigidaire*
+## [Fonçage](https://chefsimon.com/gourmets/chef-simon/recettes/foncer-un-cercle-a-patisserie) du moule
 - Beurrer un moule de dimension ad hoc
 - Si le moule est à fond amovible, on peut commencer par découper un disque de pâte de même diamètre que le fond et poser le disque sur le moule
 - Ensuite, créer des bandes de pâte à disposer sur le bord du moule pour monter les bords
 - Avec le doigt, faire les soudures entre bord et fond
 - Toujours avec le doigt, éventuellement en rajoutant un peu de pâte, combler les fissures au niveau de la pâte
-- *Le moule ainsi froncé peut être utilisé de suite ou bien conservé au congélateur pour une utilisation ultérieure*
+- *Le moule ainsi foncé peut être utilisé de suite ou bien conservé au congélateur pour une utilisation ultérieure*
