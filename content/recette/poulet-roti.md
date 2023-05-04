@@ -42,10 +42,10 @@ difficulte:
 ## Préparation
 ### Avant Cuisson
 - Vérifier la volaille : éliminer si nécessaire les duvets subsistants
-- Possiblement vous pourrez saler et poivrer de l’intérieur et y ajouter quelques branches de thym
+- Possiblement vous pourrez saler et poivrer de l’intérieur et y ajouter quelques branches de thym, de l'ail ou toute herbe à votre convenance
 - *[Brider le poulet](https://chefsimon.com/articles/lexique-brider)*
 - Placer le poulet prêt à cuire dans un plat à four de taille adaptée ou une plaque à rôtir ; éventuellement le placer sur un panier à rôtir
-- Badigeonner la peau avec un peu d'huile neutre (arachide, tournesol..) ou de beurre fondu
+- Badigeonner la peau avec un peu d'huile neutre (arachide, tournesol..) ou de beurre fondu après y avoir ajouté sel et poivre moulu
 
 ### Cuisson
 - Placer au four froid ou préchauffé à 170°C pendant environ 1h30 (le temps de cuisson dépend de la qualité de la volaille)
