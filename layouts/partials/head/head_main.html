@@ -7,6 +7,11 @@
     <meta name="keywords" content="{{ range .Params.Tags }}{{ . }},{{ end }}">
     <meta name="categories" content="{{ if .Params.Categories }}{{ delimit .Params.Categories ", "}} {{else}} entrée, plat, dessert, base{{end}}">
 
+    <!-- pour valider la propriété auprès de google et indexer 
+    balise mise le 2023 05 22 en remplacement de précédente -->
+    <meta name="google-site-verification" content="gd6Ok9GgyoJt9uB7hdKebbyfiWmIiWHkK1diOyewbkQ" />
+
+
     <link rel="canonical" href="{{ .Permalink }}" />  
     <link rel="stylesheet" href="{{ .Site.BaseURL}}/css/main.css">
 
@@ -17,8 +22,5 @@
     <script src="{{ .Site.BaseURL}}/js/algoliaSearch.js"></script>
     {{/*  <script src="{{ .Site.BaseURL}}/js/algoliaSearch_tmp.js"></script>  */}}
 
-    <!-- pour valider la propriété auprès de google et indexer 
-    balise mise le 2023 05 22 en remplacement de précédente -->
-    <meta name="google-site-verification" content="gd6Ok9GgyoJt9uB7hdKebbyfiWmIiWHkK1diOyewbkQ" />
-
+   
   </head>
