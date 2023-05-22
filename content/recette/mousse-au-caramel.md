@@ -46,14 +46,15 @@ difficulte:
 ### La sauce caramel
 - *La sauce peut être préparée plusieurs heures ou plusieurs jours à l'avance*
 - Verser le sucre dans une casserole à fond épais en une couche d'épaisseur uniforme
-- Mettre à feu moyen *(puissance 5<sup>1</sup>/<sub>2</sub> pour une plaque induction allant de 1 à 9)*
+- Mettre à feu moyen *(puissance 5½ pour une plaque induction allant de 1 à 9)*
 - Attendre sans remuer que le sucre se liquéfie et devienne un caramel de couleur brunâtre
 - *Cette opération est relativement longue, pouvant prendre une vingtaine de minutes*
 - *Surveiller et éventuellement baisser ou augmenter le feu en fonction de la coloration*
 - Une fois le caramel prêt, ajouter progressivement la crème tout en remuant au fouet ou à la spatue en bois
 - Mettre à feu plus fort pour obtenir une petite ébullition tout en continuant à fouetter
 - Poursuivre jusqu'à ce que la masse se liquéfie et s'homogénise
-- Ajouter le beurre demi-sel et continuer à fouetter
+- Retirer du feu
+- Ajouter le beurre demi-sel et continuer à fouetter jusqu'à incorporation totale du beurre
 - *Cette préparation peut se garder quelques jours au réfrigérateur*
 ### La mousse
 - [Fouetter](https://chefsimon.com/gourmets/chef-simon/recettes/creme-chantilly--6) la crème au mascarpone juste sortie du réfrigérateur
