@@ -68,7 +68,7 @@
 <a href="{{.Permalink}}" class="no-underline" >
     
     <div class="lg:hidden grid grid-cols-6 gap-2 text-sm pt-1">
-        <div class="col-span-2">
+        <div class="col-span-1">
             <figure>
                 <picture>
                     <source srcset="{{$webp.Permalink}}" type="image/webp">
@@ -81,7 +81,7 @@
                 </picture>
             </figure> 
         </div>
-            <div class="col-span-1 capitalize no-underline" href="{{.Permalink}}">
+            <div class="col-span-2 capitalize no-underline" href="{{.Permalink}}">
                 {{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}
             </div>
  
