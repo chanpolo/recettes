@@ -63,32 +63,25 @@
         {{ .Params.Description | markdownify }}
     </span>
 </li>
-
-
-<a href="{{.Permalink}}" class="no-underline" >
-    
-    <div class="lg:hidden grid grid-cols-6 gap-2 text-sm pt-1">
-        <div class="col-span-2">
-            <figure>
-                <picture>
-                    <source srcset="{{$webp.Permalink}}" type="image/webp">
-                    <source srcset='
-                        {{$tiny.Permalink}} {{$tinyw}},
-                        {{$small.Permalink}} {{$smallw}},'
-                        sizes="70vw"
-                    >
-                    <img class="" src="{{ $small.Permalink}}" alt="{{.Params.Alt}}" loading="lazy" width="{{$small.Width}}" height="{{$small.Height}}">
-                </picture>
-            </figure> 
-        </div>
-            <div class="col-span-1 capitalize no-underline" href="{{.Permalink}}">
-                {{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}
-            </div>
- 
-        <div class=" col-span-3 ">
-            {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
-        </div>
-    </div>
-</a>
-
+<li class= "lg:hidden grid grid-cols-6  gap-2 text-xs pt-1">
+   <a href="{{.Permalink}}" >
+    <figure>
+        <picture>
+            <source srcset="{{$webp.Permalink}}" type="image/webp">
+            <source srcset='
+                {{$tiny.Permalink}} {{$tinyw}},
+                {{$small.Permalink}} {{$smallw}},'
+                sizes="70vw"
+            >
+            <img class="col-span-1" src="{{ $small.Permalink}}" alt="{{.Params.Alt}}" loading="lazy" width="{{$small.Width}}" height="{{$small.Height}}">
+        </picture>
+    </figure> 
+    </a>
+    <a class="col-span-2 capitalize no-underline" href="{{.Permalink}}">
+        <span class=" ">{{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}</span><br><span class="">{{.Date.Format "02/01/2006"}} </span><br><span class="">{{.Params.Author}} </span>
+    </a>
+    <span class=" col-span-3 ">
+        {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
+    </span>
+</li>
 
