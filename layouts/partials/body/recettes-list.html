@@ -81,8 +81,9 @@
                 </picture>
             </figure> 
         </div>
-            <div class="col-span-2 capitalize no-underline" href="{{.Permalink}}">
+            <div class="col-span-2 capitalize no-underline" >
                 {{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}
+                <br><span class="">{{.Params.Author}} </span>
             </div>
  
         <div class=" col-span-3 ">
