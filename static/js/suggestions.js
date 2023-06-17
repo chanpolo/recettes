@@ -39,30 +39,36 @@
         let html = '';
 
           suggestions.forEach(suggestion => {
-            let htmlSegment = `
-                              <li class="hidden lg:inline-grid grid grid-cols-6  gap-x-4 pt-1">
-                              <a class="col-span-1" href="${suggestion.url}">
-                                <img src="${suggestion.image}" alt="${suggestion.alt}">
-                              </a>
-                              <a class="col-span-2 capitalize md:tracking-wide no-underline" href="${suggestion.url}">
-                              <span class="font-normal md:font-semibold md:text-xl md:pt-1">${suggestion.Title}</span>
-                              <br><span class="md:text-lg capitalize">${suggestion.categorie}</span>
-                              <br><span class="md:text-lg">${suggestion.author}</span>
-                              </a>
-                              <span class="col-span-3 tracking-tighter md:tracking-wide lg:tracking-widest md:text-lg">${suggestion.description}</span>
-                              </li>
-                              <li class="lg:hidden grid grid-cols-6  gap-2 text-xs pt-1">
-                              <a class="col-span-1" href="${suggestion.url}">
-                                <img src="${suggestion.image}" alt="${suggestion.alt}">
-                              </a>
-                              <a class="col-span-2 capitalize no-underline" href="${suggestion.url}">
-                              <span class="">${suggestion.titleshort}</span>
-                              <br><span class="capitalize">${suggestion.categorie}</span>
-                              <br><span class="">${suggestion.author}</span>
-                              </a>
-                              <span class="col-span-3 ">${suggestion.short}</span>
-                              </li>
-                              `;
+            let htmlSegment = 
+            `<a href="${suggestion.url}" class=" md:hidden no-underline">
+            <div class="grid grid-cols-6 gap-2 text-sm pt-1">
+              <div class="col-span-1">
+                <img src="${suggestion.image}" alt="${suggestion.alt}">
+              </div>
+              <div class="col-span-2 capitalize no-underline" >
+                <span>${suggestion.titleshort}</span><br>
+                <span>${suggestion.author}</span>
+              </div>
+              <div class=" col-span-3 ">
+                ${suggestion.short}
+              </div>
+            </div>
+            </a>
+            <a href="${suggestion.url}" class="hidden md:block no-underline">
+            <div class="grid grid-cols-6 gap-x-4  text-lg pt-1">
+              <div class="col-span-1">
+                <img src="${suggestion.image}" alt="${suggestion.alt}">
+              </div>
+              <div class="col-span-2 capitalize no-underline" >
+                <span class="font-normal md:font-semibold md:text-lg md:pt-1 hover:underline">${suggestion.Title}</span><br>
+                <span>${suggestion.categorie}</span><br>
+                <span>${suggestion.author}</span>
+              </div>
+              <div class=" col-span-3 md:tracking-wide lg:tracking-widest md:text-lg">
+                ${suggestion.description}
+              </div>
+            </div>
+          </a>`;
             html += htmlSegment;
           });
         document.getElementById("suggestions").innerHTML = html;
