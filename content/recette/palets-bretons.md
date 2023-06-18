@@ -1,6 +1,6 @@
 ---
 author: "Chan & Polo"
-title: " palets bretons"
+title: "palets bretons"
 titleshort:
 date: 2023-04-02T10:42:27+02:00
 draft: false
