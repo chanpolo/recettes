@@ -25,7 +25,7 @@ source: ""
 
 remarque: >
     La tarte bourdaloue est de préférence servie tiède<br>
-    Temps de préparation : 1 heure
+    Temps de préparation : 1 heure<br>
     *Certains préfèreront utiliser une pâte sablée et non une pâte brisée*
 
 preparation: 
