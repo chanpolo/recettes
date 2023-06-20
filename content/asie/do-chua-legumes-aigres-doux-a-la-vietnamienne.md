@@ -78,4 +78,3 @@ difficulte:
 - 1 càc de sel fin pour la marinade
 
 
-[legumes aigres doux](https://misstamkitchenette.com/pickles-de-legumes/)
