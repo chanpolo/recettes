@@ -47,7 +47,7 @@ difficulte:
 ## Préparation
 ### Les légumes
 - Laver les légumes
-- Les peler ***sauf si il s'agit de concombre***
+- Les peler *sauf si il s'agit de concombre ou de courgette*
 - Couper les légumes à convenance : julienne, bâtonnets, allumettes, rondelles...
 - *Le mélange de différents légumes permet d'obtenir un effet coloré*
 - Peler les gousses d'ail et les laisser entières

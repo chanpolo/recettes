@@ -60,4 +60,4 @@ difficulte:
 - Dresser le porc sur un plat de service
 - Parsemer de feuilles de menthe fraîche
 - *Le laab moo se mange tiède ou froid*
-- *Pour la présentation, on peut en faire des petites bouchées déposées sur grandes feuilles de menthe et ornées de brins de ciboulette*
+- *Pour la présentation, on peut en faire des petites bouchées déposées sur de grandes feuilles de menthe et ornées de brins de ciboulette*

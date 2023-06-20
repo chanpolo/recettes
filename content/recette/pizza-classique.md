@@ -10,7 +10,7 @@ description: >
     A adapter en fonction du goût des convives : anchois, fromage, jambon...
 
 short: >
-    Une recette de pizza classique : garniture à base de tomate et mozzarella.
+    Une recette de pizza classique : tomate et mozzarella
     
 keywords: ""
 
