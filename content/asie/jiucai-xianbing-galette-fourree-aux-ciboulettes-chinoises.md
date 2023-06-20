@@ -88,11 +88,11 @@ difficulte:
 
 <iframe width="320" height="266" src="https://www.youtube.com/embed/Ur74bAXP16Q" title="How to make xian bing (Chinese pancake) 自制馅饼" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Cuisson 
+## Cuisson 
 - Chauffer un peu d'huile dans une poêle à fond épais
 - Placer les galettes
 - Mettre un couvercle sur la poêle
 - Laisser cuire à feu moyen pendant 5 à 6 minutes, jusqu'à ce que les galettes soient dorées
-- Tourner les galettes et les faire cuire l'autre côté pendant 3 à 4 minutes
+- Tourner les galettes et cuire l'autre face pendant 3 à 4 minutes
 - Mettre 1 à 2 c. à soupe d'eau dans la poêle pendant la cuisson pou garder l'humidité qui rend la pâte plus moelleuse
 - Déguster chaud ou tiède
