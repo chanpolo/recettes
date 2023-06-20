@@ -125,6 +125,7 @@ Sauce de nuoc mam aigre-douce à l’ail et au piment
 - Réserver.
 - Laver le concombre
 - Le couper en julienne
+- Râper les carottes aigres-douces
 
 ## Cuisson
 - Préchauffer le four à 210°C
@@ -144,5 +145,3 @@ Sauce de nuoc mam aigre-douce à l’ail et au piment
 - Arroser de 3 cuillères à soupe de sauce nuoc mam à l’ail et au piment
 - Parsemer de cacahuètes concassées grossièrement et d’oignons frits
 
-Et voilà de délicieux vermicelles au porc grillé à la citronnelle qui se déguste à température ambiante et en plat unique, pour le plaisir du palais et des yeux ! La combinaison des ingrédients et des herbes parfumées offre des saveurs exceptionnelles et vous surprendra agréablement.
-Bonne dégustation !
