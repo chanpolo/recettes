@@ -54,7 +54,7 @@
               </div>
             </div>
             </a>
-            <a href="${suggestion.url}" class="hidden lg:block no-underline">
+            <a href="${suggestion.url}" class="hidden lg:inline-block no-underline">
             <div class="grid grid-cols-6 gap-x-4  text-lg pt-1">
               <div class="col-span-1">
                 <img src="${suggestion.image}" alt="${suggestion.alt}">
@@ -64,7 +64,7 @@
                 <span>${suggestion.categorie}</span><br>
                 <span>${suggestion.author}</span>
               </div>
-              <div class=" col-span-3 md:tracking-wide lg:tracking-widest md:text-lg">
+              <div class=" col-span-3 tracking-wide text-lg">
                 ${suggestion.description}
               </div>
             </div>
