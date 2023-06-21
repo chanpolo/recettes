@@ -9,7 +9,7 @@ description: >
     Un chou-fleur façon risotto : une recette de *[Alain Passard](https://www.alain-passard.com/)*.<br />
     Une entrée (ou un plat !) qui allie esthétique, originalité et saveur!
 short: >
-    Un chou-fleur façon risotto : une recette de *[Alain Passard](https://www.alain-passard.com/)*.
+    Un chou-fleur façon risotto : une recette de *Alain Passard*
 keywords: ""
 
 categories: ["entrée"]

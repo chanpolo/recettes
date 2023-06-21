@@ -1,6 +1,6 @@
 ---
 author: "Chan & Polo"
-title: "M%ousse Citron, pâte crue à l'huile d'olive"
+title: "Mousse Citron, pâte crue à l'huile d'olive"
 titleshort: "Mousse Citron"
 date: 2023-06-20T20:28:10+02:00
 draft: false
@@ -10,7 +10,7 @@ description: >
     Un dessert raffiné qui enchantera tout un chacun par sa présentation et son goût.
 
 short: >
-    Mousse au citron sur une pâte à crue à l'huile d'olive
+    Mousse au citron sur une pâte crue à l'huile d'olive
 keywords: ""
 
 categories: [ "dessert"]

@@ -9,7 +9,7 @@ description: >
     La pâte sablée de *[Christine Ferber](https://www.ptitchef.com/recettes/autre/pate-sablee-au-pralin-et-aux-noisettes-christine-ferber-fid-98212)* est un must qui vous permettra de goûter pleinement ce délicieux dessert.
 
 short: >
-    Une tarte aux abricots sur une pâte sablée de *[Christine Ferber](https://www.ptitchef.com/recettes/autre/pate-sablee-au-pralin-et-aux-noisettes-christine-ferber-fid-98212)*.
+    Une tarte aux abricots sur une pâte sablée de *Christine Ferber*
     
 keywords: ""
 

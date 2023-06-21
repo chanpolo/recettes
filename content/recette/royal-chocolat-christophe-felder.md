@@ -8,7 +8,7 @@ description: >
     Le classique Royal Chocolat : une recette de *[Christophe Felder](http://www.christophe-felder.com/)*, avec quelques modifications, notamment une dacquoise moins sucrée.<br />
     Un gâteau long et complexe à réaliser... mais tellement bon !
 short: >
-    Le classique Royal Chocolat : une recette de *[Christophe Felder](http://www.christophe-felder.com/)*.
+    Le classique Royal Chocolat : une recette de *Christophe Felder*
 keywords: ""
 
 categories: ["dessert"]

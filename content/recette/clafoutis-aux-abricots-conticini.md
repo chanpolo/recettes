@@ -9,7 +9,7 @@ description: >
     Pour un délicieux dessert ou goûter.
 
 short: >
-    Un clafoutis aux abricots, inspiré par *[Philippe Conticini](https://philippeconticini.fr/)*
+    Un clafoutis aux abricots, inspiré par *Philippe Conticini*
 
 keywords: ""
 

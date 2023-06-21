@@ -54,7 +54,7 @@ difficulte:
 - Après quelques minutes, ajouter le vin blanc
 - Faire sauter les palourdes dans la casserole de temps en temps
 - Lorsque les palourdes sont ouvertes, elles sont cuites
-- Retirer la majdure partie des palourdes de leurs coques
+- Retirer la majeure partie des palourdes de leurs coques
 - *En garder quelques-unes en coque, pour la garniture*
 - Filtrer le jus de cuisson et le réserver
 - **Attention au sable : ne pas filtrer le fond de la casserole, ou bien utiliser un filtre de type filtre à café**
@@ -72,3 +72,7 @@ difficulte:
 - Égoutter en réservant une partie de l'eau de cuisson
 - Mélanger les pâtes avec la sauce à feu vif quelques minutes
 - Ajouter de l'eau de cuisson des pâtes si nécessaire
+## Service
+- En plat ou à l'assiette
+- Disposer quelques palourdes avec leurs coques en décoration
+- Parsemer de persil frais ciselé selon le goût
