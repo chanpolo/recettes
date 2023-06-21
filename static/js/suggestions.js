@@ -40,8 +40,8 @@
 
           suggestions.forEach(suggestion => {
             let htmlSegment = 
-            `<a href="${suggestion.url}" class=" lg:hidden no-underline">
-            <div class="grid grid-cols-6 gap-2 text-sm pt-1">
+            `<a href="${suggestion.url}" class="no-underline">
+            <div class="lg:hidden grid grid-cols-6 gap-2 text-sm pt-1">
               <div class="col-span-1">
                 <img src="${suggestion.image}" alt="${suggestion.alt}">
               </div>
@@ -54,8 +54,10 @@
               </div>
             </div>
             </a>
-            <a href="${suggestion.url}" class="hidden lg:inline-block no-underline">
-            <div class="grid grid-cols-6 gap-x-4  text-lg pt-1">
+           
+
+            <a href="${suggestion.url}" class="no-underline">
+            <div class="hidden lg:inline-grid grid-cols-6 gap-x-4  text-lg pt-1">
               <div class="col-span-1">
                 <img src="${suggestion.image}" alt="${suggestion.alt}">
               </div>

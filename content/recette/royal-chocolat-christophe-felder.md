@@ -1,6 +1,7 @@
 ---
 author: "Paul"
 title: "Royal Chocolat de Christophe Felder"
+titleshort: "Royal Chocolat"
 date: 2021-09-27
 draft: false
 
