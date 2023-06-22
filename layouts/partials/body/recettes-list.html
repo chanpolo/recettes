@@ -65,10 +65,15 @@
 </li>
 
 
-<a href="{{.Permalink}}" class="no-underline" >
+<!-- <a href="{{.Permalink}}" class="no-underline" > -->
     
-    <div class="lg:hidden grid grid-cols-6 gap-2 text-sm pt-1">
-        <div class="col-span-1">
+    <div class="lg:hidden   text-sm pt-1">
+
+        <div class="grid grid-cols-2 gap-2">
+        <a href="https://www.google.fr/" class="no-underline">
+            <div class="grid grid-cols-3 gap-1">
+        <div class="col-span-1 inline-block" >
+            
             <figure>
                 <picture>
                     <source srcset="{{$webp.Permalink}}" type="image/webp">
@@ -81,15 +86,20 @@
                 </picture>
             </figure> 
         </div>
-            <div class="col-span-2 capitalize no-underline" >
-                {{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}
-                <br><span class="">{{.Params.Author}} </span>
+            
+                <div class="col-span-2 inline-block capitalize" >
+                    {{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}<br>
+                    <span class="inline">{{.Params.Author}} </span>
+                </div>
             </div>
+        </a>
+            
  
-        <div class=" col-span-3 ">
+        <div class=" ">
             {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
         </div>
     </div>
-</a>
+    </div>
+<!-- </a> -->
 
 

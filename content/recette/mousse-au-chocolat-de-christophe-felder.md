@@ -5,7 +5,7 @@ titleshort: "Mousse au chocolat"
 date: 2020-08-30
 
 description: >
-    La classique mousse au chocolat de *Christophe Felder*<br>
+    La classique mousse au chocolat de *[Christophe Felder](http://www.christophe-felder.com/)*<br>
     Une variante personnelle, sans sucre ajouté : un succès auprès de tous les convives, grands et petits!
 
 

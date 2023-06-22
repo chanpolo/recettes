@@ -40,8 +40,9 @@
 
           suggestions.forEach(suggestion => {
             let htmlSegment = 
-            `<a href="${suggestion.url}" class="no-underline">
+            ` <a href="${suggestion.url}" class="no-underline">
             <div class="lg:hidden grid grid-cols-6 gap-2 text-sm pt-1">
+           
               <div class="col-span-1">
                 <img src="${suggestion.image}" alt="${suggestion.alt}">
               </div>
@@ -49,15 +50,16 @@
                 <span>${suggestion.titleshort}</span><br>
                 <span>${suggestion.author}</span>
               </div>
+             
               <div class=" col-span-3 ">
                 ${suggestion.short}
               </div>
             </div>
             </a>
-           
 
             <a href="${suggestion.url}" class="no-underline">
             <div class="hidden lg:inline-grid grid-cols-6 gap-x-4  text-lg pt-1">
+           
               <div class="col-span-1">
                 <img src="${suggestion.image}" alt="${suggestion.alt}">
               </div>
@@ -66,11 +68,13 @@
                 <span>${suggestion.categorie}</span><br>
                 <span>${suggestion.author}</span>
               </div>
+              
               <div class=" col-span-3 tracking-wide text-lg">
                 ${suggestion.description}
               </div>
             </div>
-          </a>`;
+            </a>
+         `;
             html += htmlSegment;
           });
         document.getElementById("suggestions").innerHTML = html;
