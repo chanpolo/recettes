@@ -10,7 +10,7 @@ description: >
 
 
 short: >
-    La mousse au chocolat de *Christophe Felder*
+    La mousse au chocolat de *[Christophe Felder](http://www.christophe-felder.com/)*
     
 keywords: ""
 

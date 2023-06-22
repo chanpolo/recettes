@@ -64,42 +64,36 @@
     </span>
 </li>
 
-
-<!-- <a href="{{.Permalink}}" class="no-underline" > -->
     
     <div class="lg:hidden   text-sm pt-1">
-
         <div class="grid grid-cols-2 gap-2">
-        <a href="https://www.google.fr/" class="no-underline">
-            <div class="grid grid-cols-3 gap-1">
-        <div class="col-span-1 inline-block" >
-            
-            <figure>
-                <picture>
-                    <source srcset="{{$webp.Permalink}}" type="image/webp">
-                    <source srcset='
-                        {{$tiny.Permalink}} {{$tinyw}},
-                        {{$small.Permalink}} {{$smallw}},'
-                        sizes="70vw"
-                    >
-                    <img class="" src="{{ $small.Permalink}}" alt="{{.Params.Alt}}" loading="lazy" width="{{$small.Width}}" height="{{$small.Height}}">
-                </picture>
-            </figure> 
-        </div>
-            
-                <div class="col-span-2 inline-block capitalize" >
-                    {{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}<br>
-                    <span class="inline">{{.Params.Author}} </span>
+            <a href="{{.Permalink}}" class="no-underline">
+                <div class="grid grid-cols-3 gap-1">
+                    <div class="col-span-1 inline-block" >
+                        <figure>
+                            <picture>
+                                <source srcset="{{$webp.Permalink}}" type="image/webp">
+
+                                <source srcset='
+                                    {{$tiny.Permalink}} {{$tinyw}},
+                                    {{$small.Permalink}} {{$smallw}},'
+                                    sizes="70vw"
+                                >
+                                <img class="" src="{{ $small.Permalink}}" alt="{{.Params.Alt}}" loading="lazy" width="{{$small.Width}}" height="{{$small.Height}}">
+                            </picture>
+                        </figure> 
+                    </div>
+                    <div class="col-span-2 inline-block capitalize" >
+                        {{ if .Params.Titleshort}}{{.Params.Titleshort}}{{else}}{{.Title}}{{end}}<br>
+                        <span class="inline">{{.Params.Author}} </span>
+                    </div>
                 </div>
+            </a>
+            <div class=" ">
+                {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
             </div>
-        </a>
-            
- 
-        <div class=" ">
-            {{ if .Params.Short }}{{ .Params.Short | markdownify }}{{ else }}{{ .Params.Description | markdownify }}{{ end }}
         </div>
     </div>
-    </div>
-<!-- </a> -->
+
 
 
