@@ -22,21 +22,21 @@
     {{ end }}
     
     <h2>Nos 5 dernières recettes</h2>
-    <ul class="pt-2 md:pt-8 ">
+    <ul class="pt-2 md:pt-6 ">
       {{ range first 5 (where .Site.RegularPages  "Section" "recette")}}
         {{ partial "body/recettes-list.html" . }}
       {{ end }}
     </ul>
 
     <h2>Nos 5 dernières asiatiques</h2>
-    <ul class="pt-2 md:pt-8 ">
+    <ul class="pt-2 md:pt-6 ">
       {{ range first 5 (where .Site.RegularPages  "Section" "asie")}}
         {{ partial "body/recettes-list.html" . }}
       {{ end }}
     </ul>
 
     <h2>Les 5 propositions du jour</h2>
-    <div  id="suggestions"></div>
+    <div  id="suggestions" class="pt-2 md:pt-6 pb-1"></div>
     <script type="text/javascript" src="js/suggestions.js"></script>
 
   {{ block "footer" . }}
