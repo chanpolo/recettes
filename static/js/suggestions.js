@@ -56,26 +56,34 @@
                 <div class=" ">
                     ${suggestion.short}
                 </div>
+
+
             </div>
         </div>
 
-            <a href="${suggestion.url}" class="no-underline">
-            <div class="hidden lg:inline-grid grid-cols-6 gap-x-4  text-lg pt-1">
            
-              <div class="col-span-1">
-                <img src="${suggestion.image}" alt="${suggestion.alt}">
-              </div>
-              <div class="col-span-2 capitalize no-underline" >
-                <span class="font-semibold text-lg pt-1 hover:underline">${suggestion.Title}</span><br>
-                <span>${suggestion.categorie}</span><br>
-                <span>${suggestion.author}</span>
-              </div>
-              
-              <div class=" col-span-3 tracking-wide text-lg">
-                ${suggestion.description}
-              </div>
+            <div class="hidden lg:block text-lg pt-1">
+            <div class="grid grid-cols-2 gap-2">
+            <a href="${suggestion.url}" class="no-underline">
+            <div class="grid grid-cols-3 gap-1">
+                        <div class="col-span-1 inline-block" >
+                            <img class="" src="${suggestion.image}" alt="${suggestion.alt}">
+                        </div>
+                        <div class="col-span-2 capitalize no-underline" >
+                            <span>${suggestion.Title}</span><br>
+                            <span>${suggestion.author}</span>
+                        </div>
+                    </div>
+                </a>
+                <div class=" ">
+                    ${suggestion.description}
+                </div>
+
+
             </div>
-            </a>
+        </div>
+           
+              
          `;
             html += htmlSegment;
           });
