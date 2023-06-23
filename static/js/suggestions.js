@@ -40,48 +40,45 @@
 
           suggestions.forEach(suggestion => {
             let htmlSegment = 
-            ` <div class="lg:hidden   text-sm pt-1">
-            <div class="grid grid-cols-2 gap-2">
+            ` 
+            <div class="lg:hidden   text-sm pt-1">
+              <div class="grid grid-cols-2 gap-2">
                 <a href="${suggestion.url}" class="no-underline">
-                    <div class="grid grid-cols-3 gap-1">
-                        <div class="col-span-1 inline-block" >
-                            <img class="" src="${suggestion.image}" alt="${suggestion.alt}">
-                        </div>
-                        <div class="col-span-2 capitalize no-underline" >
-                            <span>${suggestion.titleshort}</span><br>
-                            <span>${suggestion.author}</span>
-                        </div>
+                  <div class="grid grid-cols-3 gap-1">
+                    <div class="col-span-1 inline-block" >
+                      <img class="" src="${suggestion.image}" alt="${suggestion.alt}">
                     </div>
+                    <div class="col-span-2 capitalize no-underline" >
+                      <span>${suggestion.titleshort}</span><br>
+                      <span>${suggestion.author}</span>
+                    </div>
+                  </div>
                 </a>
                 <div class=" ">
-                    ${suggestion.short}
+                  ${suggestion.short}
                 </div>
-
-
+              </div>
             </div>
-        </div>
 
            
             <div class="hidden lg:block text-lg pt-1">
-            <div class="grid grid-cols-2 gap-2">
-            <a href="${suggestion.url}" class="no-underline">
-            <div class="grid grid-cols-3 gap-1">
-                        <div class="col-span-1 inline-block" >
-                            <img class="" src="${suggestion.image}" alt="${suggestion.alt}">
-                        </div>
-                        <div class="col-span-2 capitalize no-underline" >
-                            <span>${suggestion.Title}</span><br>
-                            <span>${suggestion.author}</span>
-                        </div>
+              <div class="grid grid-cols-2 gap-x-4">
+                <a href="${suggestion.url}" class="no-underline">
+                  <div class="grid grid-cols-3 gap-1">
+                    <div class="col-span-1 inline-block" >
+                      <img class="" src="${suggestion.image}" alt="${suggestion.alt}">
                     </div>
+                    <div class="col-span-2 tracking-wide capitalize no-underline" >
+                      <span class="font-semibold hover:underline">${suggestion.Title}</span><br>
+                      <span>${suggestion.author}</span>
+                    </div>
+                  </div>
                 </a>
                 <div class=" ">
-                    ${suggestion.description}
+                  ${suggestion.description}
                 </div>
-
-
+              </div>
             </div>
-        </div>
            
               
          `;
