@@ -61,10 +61,10 @@
             </div>
 
            
-            <div class="hidden lg:block text-lg pt-1">
+            <div class="hidden lg:block text-lg pt-2">
               <div class="grid grid-cols-2 gap-x-4">
                 <a href="${suggestion.url}" class="no-underline">
-                  <div class="grid grid-cols-3 gap-1">
+                  <div class="grid grid-cols-3 gap-x-4">
                     <div class="col-span-1 inline-block" >
                       <img class="" src="${suggestion.image}" alt="${suggestion.alt}">
                     </div>
