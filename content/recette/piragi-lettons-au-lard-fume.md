@@ -10,7 +10,7 @@ description: >
     En Lettonie, ils sont préparés lors d'occasion spéciales et de célébrations.<br>
     Ils vous séduiront par leur apparente facilité de réalisation et, surtout, par leur saveur.
 short: >
-    Les pīrāgi sont des petits pains farcis, d'origine lettone
+    Les *[pīrāgi](https://www.196flavors.com/fr/lettonie-piragi/)* sont des petits pains farcis, d'origine lettone
 keywords: ""
 
 categories: ["entrée"]
