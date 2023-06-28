@@ -39,7 +39,7 @@ difficulte:
 - 150 gr de sucre
 - 4 œufs
 - 150 gr de beurre
-- 1<sup>1</sup>/<sub>/</sub> feuille de gélatine
+- 1<sup>1</sup>/<sub>2</sub> feuille de gélatine
 ### Pâte sablée Frozen Liquide
 - 120 gr de farine
 - 100 gr de poudre d'amandes *(faite maison ou du commerce)*
