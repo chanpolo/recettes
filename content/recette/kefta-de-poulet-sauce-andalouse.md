@@ -71,7 +71,7 @@ difficulte:
 ### La sauce Andalouse
 - Avec l'huile, l'oeuf et la moutarde préparer une mayonnaise serrée
 - Éventuellement, l'aider à prendre avec du vinaigre ou du jus de citron
-- *La mayonnaise peut être montée au fouet ou au [mixer plogeant](https://chefsimon.com/gourmets/chef-simon/recettes/mayonnaise-minute-inratable)*
+- *La mayonnaise peut être montée au fouet ou au [mixer plongeant](https://chefsimon.com/gourmets/chef-simon/recettes/mayonnaise-minute-inratable)*
 - *Les conseils de Chef Simon sont toujours utiles pour [monter la mayonnaise](https://chefsimon.com/articles/pratique-reussir-la-mayonnaise)*
 - Couper les tomates en dés et les épépiner grossièrement
 - Peler le poivron et le couper en dés
