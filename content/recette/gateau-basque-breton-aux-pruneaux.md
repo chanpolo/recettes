@@ -59,7 +59,7 @@ difficulte:
 - Chauffer et laisser macérer les pruneaux, l'eau, le thé, le sucre et la cannelle dans une casserole
 - Égoutter les pruneaux 
 - Les écraser à la fourchette *(à défaut, au robot-coupe)*
-- Ajouter le rhum, le vin et l'eau de fleur d'orange
+- Ajouter le rhum, le vin et l'eau de fleur d'oranger
 
 ### Biscuit breton
 - Tamiser la farine
@@ -86,7 +86,7 @@ difficulte:
 - Mettre la compotée de pruneaux à l’intérieur du boudin. 
 - Humecter et recouvrir du deuxième disque
 - Mélanger le dernier jaune d’œuf avec un peu de café et/ou de sel
-- Dorer le gâteau avec un pinceau et tracer des motifs à la fourchette
+- Dorer le gâteau avec un pinceau et tracer des motifs à la fourchette ou à la pointe d'un couteau
 - Enfourner pendant 50 minutes environ, le gâteau doit être doré
 - Laisser reposer avant de démouler sur grille
 
@@ -94,8 +94,8 @@ difficulte:
 - Le biscuit et la compotée peuvent être préparés un jour ou deux à l'avance
 - Il suffit de réserver à part le disque supérieur du biscuit pour finaliser le montage peu avant la cuisson
 - Il peut être intéressant d'effectuer une infusion à froid des pruneaux en prévoyant une infusion pendant toute une nuit
-- D'autre épices peuvent être ajoutées dans l'infusion : cardamone, badiane, grains de poivre
-- Pour ne pas perdre celles-ci, on peut les disposer dans une boule à thé qui plongera dans le liquide
+- D'autre épices peuvent être ajoutées dans l'infusion : cardamone, badiane, grains de poivre...
+- Pour ne pas disperser celles-ci dans les pruneaux, on peut les disposer dans une boule à thé qui plongera dans le liquide
 - Le sachet de thé peut d'ailleur être avantageusement remplacé par du thé en vrac mis dans une boule à thé
 - Pour acidifier la compotée, on peut y adjoindre du jus de citron (vert de préférence)
 - Garder un peu de pâte pour pouvoir combler d'éventuelles fissures lors du montage
