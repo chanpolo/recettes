@@ -1,7 +1,7 @@
 ---
 author: "Chan & Polo"
 title: "Huile parfumée et pimenté"
-titleshort: "huie pimentée"
+titleshort: "Huile pimentée"
 date: 2023-06-20T09:15:34+02:00
 draft: false
 

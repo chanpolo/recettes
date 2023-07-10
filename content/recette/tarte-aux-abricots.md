@@ -22,6 +22,7 @@ caption: "Tarte à l'abricot"
 source: ""
 
 remarque: >
+    La [cuisson simplifiée](#cuisson-simplifiée-version-2) donne d'excellents résultats
 
 preparation: 
 cuisson: 
@@ -70,5 +71,20 @@ cuisson:
 - Récupérer le jus pour faire un abricotage.
 - Disposer les abricots sur la pâte et recuire à 170° pendant 15 à 20 minutes.
 - Sortir du four et luster avec l'abricotage.
+## Cuisson simplifiée, version 2
+### Préparer la pâte
+- Suivre les [instructions initiales](#la-pâte)
+### Précuire les abricots
+- Disposer les abricots coupés en deux sur du papier sulfurisé, face creuse vers le haut, bombée vers le bas.
+- Saupoudrer de 2 cuiller à soupe de sucre.
+- Cuire à 200° pendant 20 minutes.
+- Goûter si la cuisson est bonne.
+- Égoutter les abricots cuits.
+### Monter et cuire la tarte
+- Préchauffer le four à 170°, position voûte et sole
+- Sur le fond de tarte étaler une couche de poudres d'amandes et de noisettes mélnagées (proportion à l'oeil)
+- Disposer les abricots sur la pâte, face bombée vers le haut
+- Cuire à 170° pendant 40 à 50 minutes minutes.
+- *En fin de cuisson, recouvrir éventuellement les abricots avec un papier aluminium pour qu'ils ne brûlent pas.*
 
 

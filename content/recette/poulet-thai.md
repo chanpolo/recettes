@@ -7,7 +7,7 @@ draft: false
 
 description: >
     Un poulet épicé à la mode thaî, très goûteux.<br>
-    Plus ou moins relevé en fonctin de la quantité de curry rouge et de combava utilisée.
+    Plus ou moins relevé en fonction de la quantité de curry rouge et de combava utilisée.
 
 short: >
     Poulet thaï au curry rouge et combava
@@ -44,7 +44,7 @@ difficulte:
 - 15 feuilles de [combava](https://fr.wikipedia.org/wiki/Combava) *(les [feuilles surgelées](https://happycurry.be/produit/feuille-de-riz-400-gr/) conviennent très bien)*
 ## Préparation
 ### Mise en place
-- Éplucher les poivrons
+- pÉlucher les poivrons
 - Les débiter en lanières
 - Peler l'oignon et le couper en dés
 - Peler l'ail et le couper en petits dés
