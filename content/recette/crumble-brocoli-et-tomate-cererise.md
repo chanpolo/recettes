@@ -14,7 +14,7 @@ short: >
     
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base", "apéritif"]
+categories: ["entrée"]
 tags: ["crumble", "brocole", "tomate cerise", "farine", "parmesan", "chapelure"]
 
 photo: "crumble-de-brocoli-et-tomate-cerise.jpg"
