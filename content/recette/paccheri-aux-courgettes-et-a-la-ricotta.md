@@ -13,8 +13,8 @@ short: >
     Des [paccheri](https://fr.wikipedia.org/wiki/Paccheri) farcies aux courgettes et à la ricotta
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base", "apéritif"]
-tags: ["pâte", "paccheri", "farce", "courgette", "ricotta", "parmesan", "cantal", "entre-deux", "crème fluide", "crème au mascarpone", "champignon"]
+categories: ["plat"]
+tags: ["pâte", "paccheri", "farce", "courgette", "ricotta", "parmesan", "cantal", "entre-deux", "crème fluide", "crème au mascarpone", "champignon", "cannelloni", "conchiglioni"]
 
 photo: "paccheri-aux-courgettes-et-a-la-ricotta.jpg"
 alt: ""
@@ -45,7 +45,7 @@ difficulte:
 - Huile d'olive
 ### Le jus de cuisson
 - Cantal entre-deux râpé
-- Un flacoon de 30 cl de crème fluide ou crème au Mascarpone
+- Un flacon de 30 cl de crème fluide ou crème au Mascarpone
 ## Préparation
 ### Les pâtes
 - Faire chauffer environ 4 litres d'eau dans une casserole
@@ -100,5 +100,8 @@ difficulte:
 - Enfourner le plat pendant 15 à 20 minutes
 - Éventuellement, passer sous le gril quelques minutes pour donner du doré au gratin
 - Servir chaud
+## Variantes
+- Utiliser d'autres pâtes : cannelloni, conchiglion
+- Créer d'autres farces
 
 

@@ -81,3 +81,6 @@ difficulte:
 - Laisser refroidir à température ambiante
 - **Réserver au frais une heure minimum avant dégustation**
 
+## Comparatif
+- La recette à la crème anglaise est plus corsée en chocolat, plus amère
+- La recette à la maïzena a une onctuosité qui a la préférence des enfants
