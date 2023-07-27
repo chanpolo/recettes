@@ -864,6 +864,10 @@ a {
   list-style-type: none;
 }
 
+.grid-cols-13 {
+  grid-template-columns: repeat(13, minmax(0, 1fr));
+}
+
 .grid-cols-6 {
   grid-template-columns: repeat(6, minmax(0, 1fr));
 }
@@ -898,6 +902,10 @@ a {
 
 .justify-between {
   justify-content: space-between;
+}
+
+.justify-items-center {
+  justify-items: center;
 }
 
 .gap-2 {
@@ -1168,6 +1176,11 @@ a {
   line-height: 1.25rem;
 }
 
+.text-xl {
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
 .text-xs {
   font-size: 0.75rem;
   line-height: 1rem;
@@ -1286,6 +1299,12 @@ a {
   text-transform: uppercase;
 }
 
+.hover\:scale-125:hover {
+  --tw-scale-x: 1.25;
+  --tw-scale-y: 1.25;
+  transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y));
+}
+
 .hover\:bg-gray-400:hover {
   --tw-bg-opacity: 1;
   background-color: rgb(156 163 175 / var(--tw-bg-opacity));
@@ -1298,6 +1317,11 @@ a {
 
 .hover\:italic:hover {
   font-style: italic;
+}
+
+.hover\:text-white:hover {
+  --tw-text-opacity: 1;
+  color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
 .hover\:text-gray-900:hover {
@@ -1359,6 +1383,10 @@ a {
 
   .md\:w-6 {
     width: 1.5rem;
+  }
+
+  .md\:grid-cols-26 {
+    grid-template-columns: repeat(26, minmax(0, 1fr));
   }
 
   .md\:space-x-1 > :not([hidden]) ~ :not([hidden]) {
@@ -1438,6 +1466,11 @@ a {
 
   .lg\:pb-24 {
     padding-bottom: 6rem;
+  }
+
+  .lg\:text-2xl {
+    font-size: 1.5rem;
+    line-height: 2rem;
   }
 
   .lg\:text-lg {

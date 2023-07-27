@@ -34,6 +34,27 @@ module.exports = {
         DEFAULT: '#90091e',
         },
       },
+
+      // Create grid with 13 or columns for keyborad indexes
+      gridTemplateColumns: {
+        
+        '13': 'repeat(13, minmax(0, 1fr))',
+        '26': 'repeat(26, minmax(0, 1fr))',
+      },
+
+      gridColumn: {
+        'span-13': 'span 13 / span 13',
+        'span-26': 'span 26 / span 26',
+      },
+      gridColumnStart: {
+        '13': '13',
+      },
+      gridColumnEnd: {
+        '13': '13',
+      },
+
+      // End of grid 13
+
     }, 
   },
   plugins: [

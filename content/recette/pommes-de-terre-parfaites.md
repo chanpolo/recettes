@@ -78,6 +78,7 @@ difficulte:
 - Rajouter une saveur selon le goût *(soit la même que celle utilisée précédemment, soit une autre)*
 - Secouer le plat pour mélanger délicatement
 - Remettre au four pour une cuisson au goût *(la cuisson peut être longue, car on est en température modérée, jusqu'à 45 minutes)*
+- ***Conseil de cuisson : 30 mn à 190° puis 15 minutes entre 225 et 240° pour permettre aux pommes de bien dorer. Surveiller !!!***
 ### Service
 - Débarasser les pommes de terre cuites dans un plat
 - Éliminer l'excédent de gras avec un papie absorbant

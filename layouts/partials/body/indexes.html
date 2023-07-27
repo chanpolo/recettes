@@ -1,0 +1,45 @@
+
+
+
+    {{ $letters := split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+    <!-- {{ $section := "asie"}} -->
+
+   
+     
+ 
+    <div class="bg-mycolor-400 text-mycolor-800 grid grid-cols-13 md:grid-cols-26 justify-items-center text-xl lg:text-2xl">
+      {{ range $letters }}
+      
+        {{ $conc1 := "#"}}
+        {{ $conc2 := .}}
+        {{ $conc := printf "%s" $conc2 | printf "%s%s" $conc1 }}
+      
+        
+         <a href="{{ $conc }}"  class="no-underline hover:scale-125 hover:text-white ">{{ . }} </a>
+    
+      {{ end }}
+    </div>
+
+
+{{ range (where .Site.RegularPages.ByTitle "Section" "in" (.Scratch.Get "indexes")) }}
+       <!-- get the first character of each title. Assumes that the title is never empty! -->
+  {{ $firstChar := substr .Title 0 1 | upper }}
+  {{ $firstChar := replace $firstChar "É" "E" }}
+ 
+  <!-- in case $firstChar is a letter -->
+  {{ if $firstChar | in $letters }}
+    <!-- get the current letter -->
+    {{ $curLetter := $.Scratch.Get "curLetter" }}
+    <!-- if $curLetter isn't set or the letter has changed -->
+    {{ if ne $firstChar $curLetter }}
+    <!-- update the current letter and print it -->
+      {{ $.Scratch.Set "curLetter" $firstChar }}
+      <h3 id="{{ $firstChar  }}">{{ $firstChar }}</h3>
+    {{ end }}
+
+   <li class="capitalize list-none"><a class="no-underline" href="{{ .Permalink }}"> &nbsp; &nbsp;  {{ .Title }}</a></li>
+  {{ end }}
+    {{ end }}
+
+
+                                       

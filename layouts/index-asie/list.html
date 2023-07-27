@@ -1,0 +1,13 @@
+{{ define "main" }}
+<main >
+    <header>
+        {{ partial "header/header_main.html" .}}
+        {{.Content}}
+    </header>
+
+{{ .Scratch.Set "indexes" (slice "asie" )}}
+
+
+  {{ partial "body/indexes.html" . }}
+
+{{ end }}

@@ -1,5 +1,5 @@
 ---
-author: "Chan & Polo"
+author: "Paul"
 title: "Gâteau basque-breton aux pruneaux"
 titleshort: "Gâteau aux pruneaux"
 date: 2023-06-20T18:56:55+02:00

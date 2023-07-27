@@ -7,7 +7,7 @@ draft: false
 
 description: >
     Des galettes bretonnes fourrées aux champignons et au jambon, réchauffées et gratinées dans une sauce à la crème et au cantal.<br>
-    Un plat complet à débuster sobrement ou bien accompagné d'une bolée de cidre.
+    Un plat complet à déguster sobrement ou bien accompagné d'une bolée de cidre.
 
 short: >
     Galette bretonne aux champignons

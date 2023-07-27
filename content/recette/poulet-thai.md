@@ -27,6 +27,7 @@ remarque: >
 preparation: 
 cuisson: 
 difficulte:
+
 ---
 
 
@@ -44,7 +45,7 @@ difficulte:
 - 15 feuilles de [combava](https://fr.wikipedia.org/wiki/Combava) *(les [feuilles surgelées](https://happycurry.be/produit/feuille-de-riz-400-gr/) conviennent très bien)*
 ## Préparation
 ### Mise en place
-- pÉlucher les poivrons
+- Éplucher les poivrons
 - Les débiter en lanières
 - Peler l'oignon et le couper en dés
 - Peler l'ail et le couper en petits dés
@@ -53,7 +54,7 @@ difficulte:
 ### Cuisson
 - Dans une poêle faire revenir d'abord le poivron vert
 - Puis ajouter les oignons, l'ail et les poivrons rouges et jaunes
-- *Le temps de cuisson des différents poivrons et du poulet sont différents !*
+- *Le temps de cuisson des différents poivrons et du poulet ne sont pas les mêmes !*
 - Réserver une fois cuits *al dente* (la cuisson ne doit pas être trop longue)
 - Cuire le poulet brièvement
 - Dans la poêle, mélanger poulet, poivrons et oignons
