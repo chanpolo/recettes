@@ -52,13 +52,13 @@ difficulte:
 - 1 bouquet de thym frais, effeuillé et émiettté
 - 2 feuilles de laurier frais
 #### Au piment d'Espelette
-- 5 càs d'huile d'olive
+- 4 à 5 càs d'huile d'olive
 - Piment d'Espelette en poudre *ad libitum*
 - Curcuma en poudre *ad libitum*
 - Fleur de sel
 - Poivre
 #### Aux épices en poudre
-- 5 càs d'huile d'olive
+- 4 à 5 càs d'huile d'olive
 - Épices en poudre : cumin, coriandre, origan... au jugé
 - Fleur de sel de Guérande
 ## Préparation
@@ -71,9 +71,10 @@ difficulte:
 - Recouvrir d'eau froide
 - Saler l'eau
 - Porter à ébullition
-- Après le premier bouillon, cuire pendant 6 à 7 mminutes
+- Après le premier bouillon, cuire pendant 8 à 10 mminutes
 - Égoutter dans une passoire
 - Remuer cellet-ci pour bien débarasser les pommes de terre de leur eau
+- Au besoin, éponger les pommes de terre pour les sécher
 ### Mélange des saveurs
 - Mélanger les pommes de terre avec la variante de saveur choisie
 - *Ce mélange peut être préparé la veille*
@@ -91,9 +92,10 @@ difficulte:
 - Secouer le plat pour mélanger délicatement
 - Remettre au four pour une cuisson au goût *(la cuisson peut être longue, car on est en température modérée, jusqu'à 45 minutes)*
 #### Conseil de cuisson 
-- **30 mn à 190° puis 15 minutes entre 225 et 240° pour permettre aux pommes de bien dorer**
-- **Inutile de les écraser**
-- **Surveiller !!!**
+- 30 mn à 190° puis 15 minutes entre 225 et 240° pour permettre aux pommes de bien dorer
+-*Inutile de les écraser
+- Inutile de rajouter de la saveur à mi-cuisson
+- Surveiller !!!
 ### Service
 - Débarasser les pommes de terre cuites dans un plat
 - Éliminer l'excédent de gras avec un papie absorbant
