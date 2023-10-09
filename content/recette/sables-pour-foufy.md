@@ -38,6 +38,7 @@ difficulte:
 - 50 g de poudre d'amandes ou de noisettes *(ou bien un mélange 25 g de poudre d'amandes + 25 g de poudre de noisettes)*
 - 100 g de sucre glace
 - 3 jaunes oeuf
+- *Il est possible que 4 oeufs pour les mêmes doses donnent une finesse plus grande*
 - 1 sachet de levure chimique
 ## Préparation
 - Battre les jaunes d’œuf avec le sucre glace, plusieurs minutes (environ 15 mn, avec le fouet du Kenwood)

@@ -99,4 +99,3 @@ difficulte:
 ### Service
 - Débarasser les pommes de terre cuites dans un plat
 - Éliminer l'excédent de gras avec un papie absorbant
-
