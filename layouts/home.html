@@ -4,7 +4,7 @@
   {{ block "head" .}}
     {{ partial "head/head_main.html" .}}
     <title>{{.Site.Title}}</title>
-
+    
   
   {{ end }}
   <body>
@@ -37,10 +37,12 @@
 
     <h2>Les 5 propositions du jour</h2>
     <div  id="suggestions" class="pt-2 md:pt-6 pb-1"></div>
-    <script type="text/javascript" src="js/suggestions.js"></script>
+    <script type="module" src="js/suggestions.js" defer></script>
 
   {{ block "footer" . }}
      {{ partial "footer/footer_main.html" . }}  
+    
+
     {{ end }}
 
   </body>

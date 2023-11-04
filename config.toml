@@ -153,3 +153,5 @@ home = ["HTML", "RSS", "Algolia", "dessert", "entree", "plat"]
     mediaType = "application/json"
     baseName = "json/dessert" 
     isPlainText = true
+
+
