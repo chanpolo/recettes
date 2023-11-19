@@ -6,7 +6,7 @@
       </div>
   
   </div>
-  <div class="px-4 py-4 w-3/4 lg:w-4/5 grid grid-cols-5  bg-gray-300 text-xs lg:text-sm  xl:text-lg 2xl:text-xl align-middle h-16 text-center" >
+  <div class="px-4 py-4 w-3/4 lg:w-4/5 grid grid-cols-6  bg-gray-300 text-xs lg:text-sm  xl:text-lg 2xl:text-xl align-middle h-16 text-center" >
     {{ range .Site.Menus.main }}
     <div x-data="{ open: false }"  @mouseleave="open = false">
     <a  @mouseover="open = true" class="font-semibold bg-transparent text-gray-900 hover:text-gray-100  no-underline" href="{{ .URL }}" title="{{ .Title }}">
