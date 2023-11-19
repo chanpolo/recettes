@@ -71,3 +71,7 @@ difficulte:
 - Planter régulièrement la pointe d'un couteau dans le gâteau : pour un gâteau fondant, retirer du four lorsque la pointe du couteau ressort avec un peu de chocolat partiellement cuit
 - Laisser refroidir et démouler
 - *Éventuellement mettre au réfrigérateur*
+
+## Variantes
+- Pour corser le goût, ajouter du cacao amer dans la préparation
+- Possibilité de panacher le chocolat avec une partie de chocolat au lait (par exemple une trentaine de grammes)

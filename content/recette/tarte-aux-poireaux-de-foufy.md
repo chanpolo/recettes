@@ -71,3 +71,6 @@ difficulte:
 - Verser l'appareil dans le fond de tarte
 - Saupoudrer le restant de cantal râpé
 - Enfourner au plus proche de la sole pendant 50 à 60 minutes : surveiller pour que le dessus ne gratine pas trop et que la pâte soit cuite
+## Variantes
+- Remplacer la faisselle de chèvre par de la feta
+- Bien émietter la feta avant de la mélanger à l'appareil &oelig;ufs - poireaux
