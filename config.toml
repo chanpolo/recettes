@@ -159,7 +159,7 @@ vars = ["title", "titleshort", "summary", "date", "permalink"]
 params = ["categories", "tags", "description"]
 
 [outputs]
-home = ["HTML", "RSS", "Algolia", "dessert", "entree", "plat"]
+home = ["HTML", "RSS", "Algolia", "dessert", "entree", "plat", "genimages"]
 
 [mediaTypes."application/json"]
   suffixes = ["json"]
@@ -180,4 +180,8 @@ home = ["HTML", "RSS", "Algolia", "dessert", "entree", "plat"]
     baseName = "json/dessert" 
     isPlainText = true
 
+  [outputFormats.Genimages]
+    mediaType = "application/json"
+    baseName = "json/genimages" 
+    isPlainText = true
 
