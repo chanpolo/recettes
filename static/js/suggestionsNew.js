@@ -99,7 +99,7 @@ async function renderSuggestions() {
                         <div class="col-span-1 inline-block" >
                             <figure>
                                 <picture>
-                                    <source srcset="${imgWebp} type="image/webp">
+                                    <source srcset="${imgWebp}">
                                     <source srcset='
                                         ${img320} 320w,
                                         ${img640} 640w,'
@@ -128,7 +128,7 @@ async function renderSuggestions() {
                         <div class="col-span-1 inline-block" >
                             <figure>
                                 <picture>
-                                    <source srcset="${imgWebp} type="image/webp">
+                                    <source srcset="${imgWebp}">
                                     <source srcset='
                                         ${img320} 320w,
                                         ${img640} 640w,
