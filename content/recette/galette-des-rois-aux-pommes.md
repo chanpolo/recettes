@@ -44,7 +44,7 @@ difficulte:
 ### Dorure
 - 1 jaune d'&oelig;uf
 ## Préparation
-### Pâte feuilleté rapide de Felder
+### Pâte feuilleté rapide de [Felder](https://www.encoreungateau.com/pate-feuilletee-rapide-de-christophe-felder/)
 #### Former le pâton
 - Couper le beurre froid en morceaux
 - Tamiser la farine

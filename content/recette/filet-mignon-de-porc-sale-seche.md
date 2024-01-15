@@ -46,6 +46,7 @@ difficulte:
 - Recouvrir totalement le filet mignon avec le sel restant
 - Laisser dehors ou dans le réfrigérateur (en fonction de la température externe)
 - Attendre ainsi de une nuit à 48 heures
+- ***Attention à la durée du salage : s'il est trop long, le filet sera hypersalé ; 12 heures est peut-être la durée idéale***
 ### Séchage
 - Dégager le filet mignon de sa gangue de sel
 - Le rincer sous le robinet
