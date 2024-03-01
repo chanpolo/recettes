@@ -58,12 +58,13 @@ difficulte:
 - Ajouter les gousses d'ail, non pelées, préalablement écrasées avec la paume de la main
 - Remettre les filets mignons dans la cocotte
 - Couvrir
-- Cuire à feu doux pendant 45 à 60 minutes ; la température à coeur doit atteindre 80/85°C
+- Cuire à feu doux pendant 45 à 60 minutes ; la température à c&oelig;ur doit atteindre 80/85°C
 ### La sauce
 - Une fois les filets cuits, les sortir de la cocotte, les disposer dans un papier aluminium pour qu'ils se gardent au chaud et réserver
 - Passer le contenu de la cocotte au chinois
 - La cocotte étant débarassée de ses impuretés, remettre la sauce filtrée et la réduire à feu vif en la remuant, de manière à ce qu'elle n'accroche pas et ne bouillonne pas
 - Goûter et rectifier l'assaisonement ; éventuellement, rajouter de la moutarde, des épices, sel et poivre
+- *En cas d'utilisation de raifort,* ***ne pas en rajouter*** *à ce stade : les morceaux de raifort râpé seraient alors perceptibles sous la dent*
 - Quand la sauce a la consistance souhaitée, stopper le feu
 - À ce stade-là, passer au dressage ou bien remettre les filets mignons dans la cocotte si le plat doit être consommé plus tard. Il conviendra alors de le réchauffer doucement, sans que la sauce ne bouillonne
 ### Dressage
