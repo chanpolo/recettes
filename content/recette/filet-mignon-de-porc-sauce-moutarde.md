@@ -25,7 +25,7 @@ source: ""
 remarque: >
     Pour 3 à 4 personnes selon la taille des filets mignons<br>
     Les filets ont tendance à réduire à la cuisson, aussi prévoir plutôt large<br>
-    La moutarde au raifort peut remplacer la moutarde wasabi !
+    Le raifort râpé peut remplacer la moutarde wasabi !
 
 preparation: 
 cuisson: 
@@ -35,7 +35,7 @@ difficulte:
 
 ## Ingrédients
 - 2 filets mignons de porc
-- Moutarde [wasabi](https://fr.wikipedia.org/wiki/Wasabi)
+- Moutarde [wasabi](https://fr.wikipedia.org/wiki/Wasabi) *(ou, à défaut, raifort râpé)*
 - Moutarde forte de Dijon
 - Une demi-douzaine de gousses d'ail
 - Crème Mascarpone : environ 30 cl (crème fluide ou fleurette à défaut)
