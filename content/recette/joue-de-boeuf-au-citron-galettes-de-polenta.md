@@ -6,7 +6,7 @@ date: 2024-04-16T16:08:46+02:00
 draft: false
 
 description: >
-    Pour 4 personnes<br>Une daube complexe et subtile, accompagnée de galettes de polenta.<br>Un plat complet à déguster en toutes saisons
+    Une daube complexe et subtile, accompagnée de galettes de polenta.<br>Un plat complet à déguster en toutes saisons
 short: >
     Une daube raffinée avec ses galettes de polenta
 
@@ -21,6 +21,7 @@ caption: ""
 source: ""
 
 remarque: >
+    Pour 4 personnes<br>
     Préparer à l'avance : le temps idéal de la marinade est de 24 heures<br>
     Dans la chronologie de la préparation et de la cuisson, tenir compte des temps de repos de la polenta et de cuisson de la daube et des galettes de polenta
 
