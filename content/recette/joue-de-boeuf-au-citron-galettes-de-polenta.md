@@ -51,8 +51,8 @@ difficulte:
 - 1 pincée de gros sel
 - 50 g de beurre
 - 50 g de fromage râpé *(cantal entre-deux de préférence)*
-## Préparation
-### Marinade
+
+## Préparation 
 - Débiter la joue de b&oelig;uf en morceaux de 60g environ
 - Peler un oignon et le piquer de clous de girofle
 - Peler les carottes et les couper en rondelles
@@ -61,20 +61,22 @@ difficulte:
 - Réserver &frac14; du citron zesté
 - Écraser les gousses d'ail du plat de la main
 - Dans un plat de contenance adéquate, disposer :
-
-    - les morceaux de joue de b&oelig;uf
-    - l'oignon piqué de clous de girofle
-    - les carottes en rondelle
-    - les oignons émincés
-    - 2 feuilles de laurier
-    - 1 branche de thym
-    - 3 gousses d'ail écrasées
-    - les zestes de citron
-    - le &frac14; du citron réservé
-    - quelques grains de poivre du Sichuan
-
+<ul class="pl-6 list-none" >
+  <li>&#10004; les morceaux de joue de b&oelig;uf</li>
+  <li>&#10004; l'oignon piqué de clous de girofle</li>
+  <li>&#10004; les carottes en rondelle</li>
+  <li>&#10004; les oignons émincés</li>
+  <li>&#10004; 2 feuilles de laurier</li>
+  <li>&#10004; 1 branche de thym</li>
+  <li>&#10004; 3 gousses d'ail écrasées</li>
+  <li>&#10004; les zestes de citron</li>
+  <li>&#10004; le &frac14; du citron réservé</li>
+  <li>&#10004; quelques grains de poivre du Sichuan</li>
+</ul>
 - Arroser avec une bouteille de Côtes du Rhône
+
 - **Laisser mariner 24 heures au frais**
+
 ### Cuisson de la daube
 - Égoutter la marinande
 - Récupérer et réserver les morceaux de b&oelig;uf
@@ -107,3 +109,14 @@ difficulte:
 - Sur une assiette, disposer des morceaux de joue de b&oelig;uf, trois galettes de polenta, quelques tranches de carottes
 - Napper de sauce
 - Servir de suite
+
+TEST
+- bird
+
+<ul class="pl-4">
+<li>moineau</li>
+<li>alouette</li>
+</ul>
+
+- mammifere
+- rat
