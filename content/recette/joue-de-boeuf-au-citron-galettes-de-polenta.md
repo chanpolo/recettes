@@ -62,16 +62,16 @@ difficulte:
 - Écraser les gousses d'ail du plat de la main
 - Dans un plat de contenance adéquate, disposer :
 <ul class="pl-6 list-none" >
-  <li>&#10004; les morceaux de joue de b&oelig;uf</li>
-  <li>&#10004; l'oignon piqué de clous de girofle</li>
-  <li>&#10004; les carottes en rondelle</li>
-  <li>&#10004; les oignons émincés</li>
-  <li>&#10004; 2 feuilles de laurier</li>
-  <li>&#10004; 1 branche de thym</li>
-  <li>&#10004; 3 gousses d'ail écrasées</li>
-  <li>&#10004; les zestes de citron</li>
-  <li>&#10004; le &frac14; du citron réservé</li>
-  <li>&#10004; quelques grains de poivre du Sichuan</li>
+  <li>&#x2713; les morceaux de joue de b&oelig;uf</li>
+  <li>&#x2713; l'oignon piqué de clous de girofle</li>
+  <li>&#x2713; les carottes en rondelle</li>
+  <li>&#x2713; les oignons émincés</li>
+  <li>&#x2713; 2 feuilles de laurier</li>
+  <li>&#x2713; 1 branche de thym</li>
+  <li>&#x2713; 3 gousses d'ail écrasées</li>
+  <li>&#x2713; les zestes de citron</li>
+  <li>&#x2713; le &frac14; du citron réservé</li>
+  <li>&#x2713; quelques grains de poivre du Sichuan</li>
 </ul>
 - Arroser avec une bouteille de Côtes du Rhône
 
