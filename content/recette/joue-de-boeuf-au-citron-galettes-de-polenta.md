@@ -110,13 +110,3 @@ difficulte:
 - Napper de sauce
 - Servir de suite
 
-TEST
-- bird
-
-<ul class="pl-4">
-<li>moineau</li>
-<li>alouette</li>
-</ul>
-
-- mammifere
-- rat
