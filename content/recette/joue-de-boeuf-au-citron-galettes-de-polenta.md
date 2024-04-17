@@ -23,7 +23,8 @@ source: ""
 remarque: >
     Pour 4 personnes<br>
     Préparer à l'avance : le temps idéal de la marinade est de 24 heures<br>
-    Dans la chronologie de la préparation et de la cuisson, tenir compte des temps de repos de la polenta et de cuisson de la daube et des galettes de polenta
+    Dans la chronologie de la préparation et de la cuisson, tenir compte des temps de repos de la polenta et de cuisson de la daube et des galettes de polenta<br>
+    Une recette de [Reine Sammut](https://www.youtube.com/watch?v=w0XTEnPeQHk)
 
 preparation: 
 cuisson: 
