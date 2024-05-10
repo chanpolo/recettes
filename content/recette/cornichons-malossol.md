@@ -22,7 +22,7 @@ caption: ""
 source: ""
 
 remarque: >
-    Une recette de la maman de Polo, donnée il y a longtemps par une amie de celle-ci
+    Une recette de la maman de Polo, donnée il y a longtemps par une amie de celle-ci<br>
     Pour un bocal de 750 ml + un bocal de 250 ml
 
 preparation: 

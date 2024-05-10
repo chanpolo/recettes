@@ -39,10 +39,11 @@ difficulte:
 - 35 g de sucre en poudre
 - 20 g de sucre cassonade
 - &frac12; càc de sel *(fleur de sel de préférence)*
-- poudre de vanille
+- Poudre de vanille
 - 35 g de farine
-- cacao amer ou sucre glace *(facultatif : pour le décor)*
-- beurre et sucre cassonade pour le moule
+- Cacao amer ou sucre glace *(facultatif : pour le décor)*
+- Beurre et sucre cassonade pour le moule
+- ***Les quantités de sucre peuvent être notablement diminuées, de moitié par exemple***
 ## Préparation
 ### Le chocolat et le mascarpone
 - Couper le chocolat en morceaux
