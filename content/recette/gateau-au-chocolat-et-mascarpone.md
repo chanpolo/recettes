@@ -36,14 +36,14 @@ difficulte:
 - 200 g de chocolat noir pâtissier
 - 250 g de mascarpone
 - 4 &oelig;ufs à température ambiante
-- 35 g de sucre en poudre
-- 20 g de sucre cassonade
+- 20 g de sucre en poudre
+- 10 g de sucre cassonade
 - &frac12; càc de sel *(fleur de sel de préférence)*
 - Poudre de vanille
 - 35 g de farine
 - Cacao amer ou sucre glace *(facultatif : pour le décor)*
 - Beurre et sucre cassonade pour le moule
-- ***Les quantités de sucre peuvent être notablement diminuées, de moitié par exemple***
+- ***Les quantités de sucre peuvent être notablement diminuées ; dans la recette initiale les doses sont de 35 g de sucre en poudre et 20 g de sucre cassonade***
 ## Préparation
 ### Le chocolat et le mascarpone
 - Couper le chocolat en morceaux
