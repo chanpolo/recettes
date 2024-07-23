@@ -8,7 +8,7 @@ draft: false
 description: >
     Un cordon bleu maison, goûteux et moelleux.<br>
     Une recette qui va ravir les enfants, mais sera tout aussi appréciée par les grands.<br>
-    La panure croustillante, la saveur de la charcuterie et des fromages fondus exhausse le goût des escalopes de poulet.
+    La panure croustillante, la saveur de la charcuterie et des fromages fondus exhaussent le goût des escalopes de poulet.
 short: >
     Un cordon bleu maison
 keywords: ""
