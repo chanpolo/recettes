@@ -56,9 +56,9 @@ difficulte:
 - Le hacher finement ou le réduire en purée au mini robot coupe
 - Mélanger la purée de chou-fleur essorée et l'oignon haché
 - Ajouter les fromages râpés
-- Ajouter de la mie de pain finement émiettée
-- Battre légèrement les &oelig;ufs et les ajouter à la préparation
-- Ajouter les &oelig;ufs
+- Ajouter de la mie de pain finement émiettée *(quantité à l'&oelig;il)*
+- Battre légèrement les &oelig;ufs 
+- Les ajouter à la préparation
 - Bien mélanger le tout
 ### Façonnage des croquettes
 - Dans une assiette ou un plat *ad hoc* verser un &oelig;uf et le battre vigoureusement
