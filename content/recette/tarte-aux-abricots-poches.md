@@ -97,6 +97,7 @@ difficulte:
 - En les mettant face bombée dessous, face ouverte dessus
 - Une fois les oreillons disposés, les imbiber de beurre clarifié aromatisé à l'aide d'un pinceau
 - *Au besoin, ajouter les amandes effilées*
+- *Éventuellement parsemer la tarte de quelques zests de citron*
 ### Cuisson
 - Préchauffer le four à 180° (chaleur tournante ou bien voûte/sole)
 - Enfourner pendant 50 minutes
