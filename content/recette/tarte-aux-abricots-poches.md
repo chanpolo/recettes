@@ -59,7 +59,7 @@ difficulte:
 - citron jaune : un zest *(prélevé sur un citron du jus de pochage)*
 - sucre cassonade
 ## Préparation
-### Pochage des abricots4
+### Pochage des abricots
 - Laver grossièrement les abricots
 - Séparer chaque abricot en deux oreillons
 - Dans une cocotte *ad hoc* mélanger les ingrédients du sirop de pochage
