@@ -58,7 +58,7 @@ difficulte:
 - Battre les 2 &oelig;ufs en y mélangeant la menthe fraîche et la menthe séchée
 ### Préparation de la farce
 - Dans une grande poêle chauffer l'huile d'olive
-- Faire fonder à feu doux les oignons
+- Faire fondre à feu doux les oignons
 - Ajouter la viande hachée et l'ail
 - *Au besoin, ajouter le piment*
 - Laisser cuire à feu vif pendant 5 minutes en écrasant la viande avec le dos d'une cuiller en bois
@@ -101,13 +101,13 @@ difficulte:
 ## Variantes
 - La viande de b&oelig;uf peut être remplacée par de l'agneau
 - On peut aussi opter pour une farce végétarienne, ricotta épinard par exemple
-<br>
-<h4 id="triangle">En triangles</h4>
+## Les vidéos
+<h3 id="triangle">En triangles</h4>
 <div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
 {{< youtube ud34wKRnv28 >}}
 </div>
 <br>
-<h4 id="cigare">En cigares</h4>
+<h3 id="cigare">En cigares</h4>
 <div class="pt-8 md:w-3/4 mx-auto" loading="lazy">
 {{< youtube lEFqKA-2A4E >}}
 </div>
