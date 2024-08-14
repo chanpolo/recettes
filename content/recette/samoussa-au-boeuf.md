@@ -79,7 +79,7 @@ difficulte:
 - Déposer un peu de farce
 - Plier la feuile de brick de manière à emprisonner la farce
 - Finir en glissant l'extrêmité libre de la feuille de brick dans l'interstice formé par le samoussa
-- *Une vidéo peut valoir bien des discourssss :*
+- *Une vidéo peut valoir bien des discours :*
 <br>
 <div class="pt-8 md:w-3/4 mx-auto" loading="lazy">
 {{< youtube ud34wKRnv28 >}}
