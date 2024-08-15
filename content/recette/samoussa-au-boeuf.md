@@ -83,7 +83,9 @@ difficulte:
 - Déposer un peu de farce
 - Plier la feuile de brick de manière à emprisonner la farce par triangles successifs
 - Finir en glissant l'extrêmité libre de la feuille de brick dans l'interstice formé par le samoussa
-- *Une vidéo peut valoir bien des discours : <a href=#triangle>voir en bas de page*</a>
+- *Une vidéo peut valoir bien des discours : [voir la vidéo]({{< relref "#en-triangles" >}})*
+- *Il est possible d'alléger le samoussa en coupant la feuille de brick en 4 bandes et en réalisant 4 samoussas par feuille*
+- *Pour faire des mini-samoussas, couper 8 bandes dans une feuille de brick et réaliser 8 samoussas par feuille*
 #### Badigeonnage des samoussas
 - ***Cette étape n'est nécessaire que si il n'y a pas de prébadigeonnage***
 - Au pinceau badigeonner à l'huile (ou au beurre fondu) les deux faces des samoussas
@@ -92,7 +94,7 @@ difficulte:
 - Dans ce cas, ne pas couper les feuilles de brick en deux
 - Détailler juste la circonférence de manière à obtenir un carré grossier
 - Disposer de la farce dessus et rouler
-- *Une vidéo peut valoir bien des discours : <a href=#cigare>voir en bas de page*</a>*
+- *Une vidéo peut valoir bien des discours : [voir la vidéo]({{< relref "#en-cigares" >}})*
 ## Cuisson
 - Préchauffer le four à 180°
 - Enfourner à four chaud pendant 15 minutes
@@ -102,12 +104,12 @@ difficulte:
 - La viande de b&oelig;uf peut être remplacée par de l'agneau
 - On peut aussi opter pour une farce végétarienne, ricotta épinard par exemple
 ## Les vidéos
-<h3 id="triangle">En triangles</h4>
+### En triangles
 <div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
 {{< youtube ud34wKRnv28 >}}
 </div>
-<br>
-<h3 id="cigare">En cigares</h4>
+
+### En cigares
 <div class="pt-8 md:w-3/4 mx-auto" loading="lazy">
 {{< youtube lEFqKA-2A4E >}}
 </div>
