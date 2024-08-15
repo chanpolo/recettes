@@ -16,8 +16,8 @@ keywords: ""
 categories: ["entrée", "apéritif"]
 tags: ["samoussa", "samosa", "briouate", "feuille de brick", "purée", "pomme de terre", "persil", "ciboulette", "fromage", "ricotta"]
 
-photo: "_default_image.jpg"
-alt: ""
+photo: "samoussa-puree-fromage.jpg"
+alt: "des samoussas de petite taille"
 caption: ""
 source: ""
 
