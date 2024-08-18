@@ -62,6 +62,7 @@ difficulte:
 
 - Plier en triangle comme indiqué dans cette [vidéo]({{< ref "samoussa-au-boeuf.md#en-triangles" >}})
 - Badigeonner les samoussas d'huile d'olive ou de beurre fondu
+- ***Pour faire des mini-samoussas, opter pour des bandes faisant entre 4,5 et 5,5 cm de largeur***
 ## Cuisson
 - Préchauffer le four à 180°
 - Enfourner à four chaud pendant 15 minutes

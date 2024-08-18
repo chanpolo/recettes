@@ -85,7 +85,7 @@ difficulte:
 - Finir en glissant l'extrêmité libre de la feuille de brick dans l'interstice formé par le samoussa
 - *Une vidéo peut valoir bien des discours : [voir la vidéo]({{< relref "#en-triangles" >}})*
 - *Il est possible d'alléger le samoussa en coupant la feuille de brick en 4 bandes et en réalisant 4 samoussas par feuille*
-- *Pour faire des mini-samoussas, couper 8 bandes dans une feuille de brick et réaliser 8 samoussas par feuille*
+- ***Pour faire des mini-samoussas, opter pour des bandes faisant entre 4,5 et 5,5 cm de largeur***
 #### Badigeonnage des samoussas
 - ***Cette étape n'est nécessaire que si il n'y a pas de prébadigeonnage***
 - Au pinceau badigeonner à l'huile (ou au beurre fondu) les deux faces des samoussas
