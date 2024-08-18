@@ -6,7 +6,7 @@ date: 2024-08-18T20:25:20+02:00
 draft: false
 
 description: >
-    Une soupe froide façon gaspacho aux petits pois.<b>
+    Une soupe froide façon gaspacho aux petits pois.<br>
     Une entrée rafraîchissante, allégée par l'adjonction de concombre et de jus de citron.
 
 short: >
