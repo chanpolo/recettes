@@ -78,3 +78,11 @@ difficulte:
 - Recouvrir de chapelure 
 - Disposer sur le dessus quelques noisettes de beurre
 - Enfourner 15 à 20 minutes à four chaud
+## Conseils pour réchauffer
+- *Pour éviter que la purée ne se délite à la cuisson*
+- Chauffer le four à 140°
+- Enfourner longtemps
+- Surveiller la température interne à l'aide d'un thermomètre aiguille
+- Ne pas dépasser 70°
+- Une fois cette température atteinte, baisser le four à environ 80° pour maintenir au chaud
+- Si on réchauffe de cette manière, éviter de parsemer de chapelure : celle-ci n'aura pas la possibilité de gratiner

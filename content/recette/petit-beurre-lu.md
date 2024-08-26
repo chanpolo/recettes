@@ -53,12 +53,13 @@ difficulte:
 - Ajouter la fleur de sel
 - Ajouter la poudre de vanille
 - Mélanger le tout
-### Mélnge des deux masses
+### Mélange des deux masses
 - Verser un peu de mélange beurre/sucre/lait sur la masse 2
 - Ajouter progressivement la masse 1 en remuant avec une cuiller en bois
 - Bien travailler la pâte pour obtenir une masse homogène
 ### Confection des petits beurres
 - Entre deux toiles de [Silpat](https://fr.silpat.com/?utm_source=google&utm_medium=cpc&utm_campaign=moules&gad_source=1&gclid=Cj0KCQjwiOy1BhDCARIsADGvQnCkPGaUVW4Y6mpWEbtBiO0KkF6BSlRejXmCBP5nm-ilqp8YH0ZkPfcaAm2kEALw_wcB), étaler la pâte en réglant la hauteur sur 2 millimètres
+- *Si on utilise un [emporte-pièce "Petit Beurre"](https://www.amazon.fr/Ibili-776800-Emporte-pi%C3%A8ces-poussoir-Beurre/dp/B002XNKMJ6/ref=sr_1_6?dib=eyJ2IjoiMSJ9.h6TBxZcrzIe3rDu17QXRaBap39H_vKivgx5Euui1-laOKliVrm4CFNK9rw3LMxXTnOj5mIgjSOdR661TbZ-G8T_5W1IaydT6KpZ0TmiASIhfkUSgWJreE5Qhfh11EuYTM9J9PO5fnS08SR2ryXCG6dCd8IdapD5TWOeJttk1-69yjwA-PuhqaT7iF_olqA5QogD_imKzOd2RoePOZYpeevD6F_4qygjk5mIIoSoNbvMEw2rA6mj9XauUmZ-XTYScDvQ-F8MGS6m6pEpbnxPoE90yePp0xHB4WaiIBg2yRUk.fr-GVm_viBIW6QiVib3-iaUQhJiTGx6FG48sMZb110E&dib_tag=se&keywords=emporte+piece+petit+beurre&qid=1724687368&sr=8-6) étaler la pâte en un carré de 28 cm de côté permet de faire 20 Petit Beurre*
 - Laisser durcir au réfrigérateur
 - Découper des petits beurres dans la pâte étalée
 - Au besoin s'aider d'un moule ayant la symbolique d'un [Petit Beurre LU](https://www.caminteresse.fr/insolite/la-signification-cachee-derriere-la-forme-du-petit-beurre-de-lu-11147737/)

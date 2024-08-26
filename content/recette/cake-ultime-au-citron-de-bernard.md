@@ -33,6 +33,7 @@ difficulte:
 ## Ingrédients
 ### Pour le cake
 - 175 g de sucre 
+- ***120 g de sucre donnent un résultat très satisfaisant***
 - 120 g de beurre fondu
 - le zeste d'un citron
 - 3 œufs (165 grammes)
