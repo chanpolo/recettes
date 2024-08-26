@@ -123,7 +123,7 @@ difficulte:
 - Mélanger à la main pour obtenir une pâte grossièrement sablée, qui ressemble à celle d'un [crumble](https://fr.wikipedia.org/wiki/Crumble)
 #### L'étalement
 - L'étaler bien serré sur une feuille de papier cuisson posée sur une plaque allant au four
-- *On peut aussi prévoir de donner un effet décoratif au streusel en formant des petites boules (64 par exemple) que l'on serre bien avec les doigts et que l'on pose sur le papier cuisson ([voir le montage]({{< relref "#montage" >}}))*
+- *On peut aussi prévoir de donner un effet décoratif au streusel en formant des petites boules (64 par exemple) que l'on serre bien avec les doigts et que l'on pose sur le papier cuisson ([voir le Service]({{< relref "#service" >}}))*
 #### La cuisson
 - Préchauffer le four à 150°
 - Enfourner à four chaud pendant 25/30 minutes
