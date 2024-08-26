@@ -170,7 +170,7 @@ difficulte:
 - Remettre au frais
 ## Service
 - Sortir le gâteau 20 minutes avant le service
-- Parsemer le dessus avec le strudel
+- Parsemer le dessus avec le streusel
 - Soit en émiettant celui-ci de manière irrégulière dessus
-- Soit en déposant les petits dés de strudel si on a opté pour cette solution
-- Il était proposé de faire 64 cubes de façon à disposer 8 rangées de 8 strudel
+- Soit en déposant les petits dés de streusel si on a opté pour cette solution
+- Il était proposé de faire 64 cubes de façon à disposer 8 rangées de 8 streusel
