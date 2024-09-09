@@ -27,7 +27,7 @@ remarque: >
     Les proportions ont été modifiées par rapport à la recette initiale.<br>
     Celle-ci se trouve dans le livre de recettes [La Pâtisserie des Rêves](https://www.amazon.fr/p%C3%A2tisserie-r%C3%AAves-Philippe-CONTICINI/dp/2324003260/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3UI7X2FH6S7Z1&dib=eyJ2IjoiMSJ9.Ezus5ZWZFV18GxIn9DMk29zxa-KCXzYxkxUpm1FfZonvKXhPNZSFSacJa6h0Q4mp3xT8noeokrbK8qPoDcTgxjXieQYSMom7WDsLoib9zbSR4eYGqAU1d5VzG48Z8-PBU6-0Jav2sMFMqksyu-bPMO8QsZfEKRaueAwmml520_Kk0i1udm2tzTR3rZdXo-DqO5JkeSDp5q1NJyTUzkQdu15GeMD1kRoqTJOvGI_nJgpS6ckUosK9WjZX15pjNHyqkPVtnzo8JmLvscW5kdUeFR4k7_ViRRGHcLPOqT0O80g.KiqVMAjJg-WTpPp104qv1jNAyW1OPGBbTP_80EKnr14&dib_tag=se&keywords=la+patisserie+des+reves&qid=1724687928&sprefix=la+patisserie+des+reves%2Caps%2C84&sr=8-1) de [Philippe Conticini](https://philippeconticini.fr/)<br>
     ***Utiliser un moule carré de 20 cm de côté et 4 cm de haut***<br>
-    Une partie des éléments peut être préparée la veille : voir les [Conseils de préparation]({{< relref "#conseils-de-préparation" >}})
+    Une partie des éléments peut être préparée la veille : voir les <a href = "#conseils-de-préparation">Conseils de préparation</a>
 
 
 preparation: 
