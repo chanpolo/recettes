@@ -74,3 +74,4 @@ difficulte:
 ## Variantes
 - Remplacer la faisselle de chèvre par de la feta
 - Bien émietter la feta avant de la mélanger à l'appareil &oelig;ufs - poireaux
+- Ajouter du Mascarpone à l'appareil pour le rendre plus onctueux (environ 125 g)
