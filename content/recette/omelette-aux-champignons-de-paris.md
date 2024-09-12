@@ -35,6 +35,7 @@ difficulte:
 - 5 &oelig;ufs
 - 500 g de champignons de Paris (bruns de préférénce)
 - Sel et poivre
+- *Échalotes (facultatif : voir la [Variante]({{< relref "#variante" >}}))*
 ## Préparation
 ### Les champignons
 - Laver les champignons brièvement sous l'eau
@@ -60,3 +61,6 @@ difficulte:
 - Laisser cuire encore un peu, jusqu'à ce que l'omelette ait la consistance désirée
 - Replier l'omelette sur elle-même
 - Servir de suite
+## Variante
+- Émincer finement des échalotes
+- Les faire revenir en même temps que les champignons
