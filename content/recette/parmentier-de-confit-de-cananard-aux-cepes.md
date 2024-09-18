@@ -57,7 +57,7 @@ difficulte:
 - Émincer le persil
 - Une fois les cèpes réhydratés, les essorer
 - Puis les couper en morceaux de taille adaptée
-- *Le jus de réhydratation des cèpes peut être conservé pour être ensuite réduit et utilisé pour une petite soupe crémeuse*
+- ***Réserver le jus de réhydratation***
 - Dans une poêle, faire revenir un peu de beurre à feu moyen *(ou bien de la graisse du confit en boîte)*, sans obtenir de coloration
 - Ajouter les échalotes et faire revenir quelques minutes
 - Ajouter les cèpes en morceaux et le persil
@@ -65,6 +65,7 @@ difficulte:
 - Saler et poivre à convenance
 - Une fois cuit, réserver
 - *On peut éventuellement augmenter la force de la préparation en ajoutant un peu du jus de déshydratation réduit, mais sans exagérer pour ne pas trop forcer le goût*
+- *Ce jus réduit pourra être ajouté soit à la purée, soit à l'effilochée de confit, afin d'en augmenter la saveur*
 ### La viande
 - Effilocher la viande
 - *On peut éventuellement la faire revenir brièvement pour la détendre*
