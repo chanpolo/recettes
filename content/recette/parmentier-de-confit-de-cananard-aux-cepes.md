@@ -69,21 +69,28 @@ difficulte:
 ### La viande
 - Effilocher la viande
 - *On peut éventuellement la faire revenir brièvement pour la détendre*
-## Montage et cuisson
-- Préchauffer le four à 180°
+## Montage
 - Dans un plat adapté, déposer une couche de purée
 - Puis par dessus, ajouter une couche de viande
 - Puis une couche de cèpes
 - Renouveler l'alternance des couches tant que nécessaire
 - Finir par une couche de purée
-- Recouvrir de chapelure 
+- Recouvrir de chapelure *(selon le mode de chauffage : voir [Conseils de cuisson]({{<relref "#à-basse-température" >}}))*
 - Disposer sur le dessus quelques noisettes de beurre
-- Enfourner 15 à 20 minutes à four chaud
-## Conseils pour réchauffer
+
+## Conseils de cuisson
+### À four chaud
+- ***Déconseillé, dans la mesure où cela va surchauffer la purée***
+- Préchauffer le four à 180°
+- Enfourner 15 à 20 minutes
+### À basse température
 - *Pour éviter que la purée ne se délite à la cuisson*
-- Chauffer le four à 140°
+- *Le temps de réchauffe va dépendre de la taille du plat*
+- *Il peut être avantageux de préparer des récipients individuels*
+- Chauffer le four à 100°/120°
 - Enfourner longtemps
 - Surveiller la température interne à l'aide d'un thermomètre aiguille
-- Ne pas dépasser 70°
+- Ne pas dépasser 70° à c&oelig;ur
 - Une fois cette température atteinte, baisser le four à environ 80° pour maintenir au chaud
-- Si on réchauffe de cette manière, éviter de parsemer de chapelure : celle-ci n'aura pas la possibilité de gratiner
+- Au besoin, pour éviter un dessèchement, couvrir les plats d'une feuille de papier aluminium et placer un récipient rempli d'eau dans le four
+- **Si on réchauffe de cette manière, éviter de parsemer de chapelure : celle-ci n'aura pas la possibilité de gratiner**
