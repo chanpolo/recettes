@@ -78,6 +78,7 @@ difficulte:
 ### Le Biscuit
 #### L'appareil
 - Faire fondre le beurre à feux doux (2 sur une plaque à induction allant de 1 à 9)
+- Pousser un peu le feu pour que le beurre chauffe légèrement, ceci afin de permettre au café soluble de se dissoudre
 - Hors du feu, ajouter le café soluble
 - Dans une jatte de contenance *ad hoc* verser la poudre de noisette
 - Ajouter la vanille, le sucre glace et 40 g de sucre roux
