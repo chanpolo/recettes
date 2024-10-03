@@ -48,6 +48,7 @@ difficulte:
 - 4 càc de café soluble *(2 càc dans la recette initiale)*
 - 45 g de farine T45
 - 1/2 paquet de levure chimique (5,5 g)
+- 2 pincées de fleur de sel
 ### Le [Streusel](https://fr.wikipedia.org/wiki/Streusel)
 - 50 g de beurre demi-sel (ou 50 g de beurre doux + 1,5 g de fleur de sel de Guérande)
 - 50 g de sucre cassonade
@@ -84,7 +85,8 @@ difficulte:
 - Incorporer les jaunes d'&oelig;uf et les 25 g de blanc
 - Verse le beurre fondu sans cesser de fouetter
 - Tamiser la farine
-- La verser sur le mélange précédent
+- La mélanger à la levure chimique
+- Verser sur le mélange précédent
 - Ajouter la fleur de sel
 - Réserver
 #### Les blancs en neige
