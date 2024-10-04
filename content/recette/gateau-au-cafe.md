@@ -56,14 +56,18 @@ difficulte:
 - 50 g de farine T45
 - 2 pincées de fleur de sel
 ### La Crème au Café
+#### Infusion de café
 - 300 g de lait demi-écrémé
 - 120 g de café Arabica
+#### Crème "anglaise"
+- 6 càc de café soluble
 - 1 &oelig;uf entier
 - 1 jaune d'&oelig;uf
 - 35 g de sucre semoule
+#### Crème au café
 - 235 g de beurre
 - 250 g de crème liquide *(au mascarpone par exemple)*
-- 6 càc de café soluble
+
 ### La Meringue Italienne
 - 80 g de sucre semoule
 - 2&frac12; c à soupe d'eau
@@ -133,7 +137,7 @@ difficulte:
 - Enfourner à four chaud pendant 25/30 minutes
 
 ### La Crème au Café et la Meringue Italienne
-#### La crème
+#### Infusion de café
 - Dans une casserole, porter à ébullition le lait demi-écrémé
 - Une fois à ébullition, enlever du feu
 - Verser la poudre de café
@@ -141,7 +145,9 @@ difficulte:
 - Une fois l'infusion terminée, passer le café dans un filtre à café
 - Extraire au minimum 60 g de solution, en faisant attention que le filtre ne se romtpe pas et ne laisse pas filer de la poudre
 - *L'utilisation d'un [filtre tissu](https://bachacoffee.com/fr/savoir-faire/detail/how-to-make-good-coffee-using-a-cotton-filter) permet peut-être de bien presser le mélange lait/poudre et d'extraire la quantité nécessaire avec moins de lait*
-- Au fouet à main ou au batteur, fouetter l'&oelig;uf entier, le jaune et le sucre
+- ***Vues les difficultés à réaliser cette infusion, on peut se demander si le plus simple n'est pas de mélanger une bonne quantité de café soluble dans du lait chaud***
+#### Crème anglaise
+- Au fouet à main ou au batteur, fouetter l'&oelig;uf entier, le jaune et le sucre (dans un cul de poule ou bien directement dans la casserole)
 - Faire épaissir et blanchir légèrement
 - Remettre à température (frémissement) les 60 g d'extrait de café
 - Y ajouter le café soluble et bien dissoudre celui-ci
@@ -151,6 +157,11 @@ difficulte:
 - Passer cette crème au chinois
 - Continuer à la fouetter légèrement pour la refroidir
 - Laisser baisser en température jusqu'à 25/30°
+#### Crème au café
+- Quand la "crème anglaise" est à température ad hoc, ajouter le beurre tempéré coupé en petits morceaux
+- Bien mélanger au fouet à main ou au batteur à vitesse moyenne pour donner du volume
+- Battre la crème liquide et la monter
+- Mélanger délicatement à la cuiller en bois ou à la maryse la crème fouettée au mélange crème anglaise / beurre
 #### La meringue
 - Battre les blancs d'&oelig;ufs en neige jusqu'au [bec d'oiseau](https://www.papillesetpupilles.fr/2015/04/monter-les-blancs-au-bec-doiseau.html/)
 - Dans une casserole sur un feu moyen/vif mélanger l'au et le sucre en poudre
