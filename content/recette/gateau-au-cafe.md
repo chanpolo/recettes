@@ -144,7 +144,7 @@ difficulte:
 - Une fois l'infusion terminée, passer le café dans un filtre à café
 - Extraire au minimum 60 g de solution, en faisant attention que le filtre ne se romtpe pas et ne laisse pas filer de la poudre
 - *L'utilisation d'un [filtre tissu](https://bachacoffee.com/fr/savoir-faire/detail/how-to-make-good-coffee-using-a-cotton-filter) permet peut-être de bien presser le mélange lait/poudre et d'extraire la quantité nécessaire avec moins de lait*
-- ***Vues les difficultés à réaliser cette infusion, on peut se demander si le plus simple n'est pas de mélanger une bonne quantité de café soluble dans du lait chaud***
+- ***Vu les difficultés à réaliser cette infusion, on peut se demander si le plus simple n'est pas de mélanger une bonne quantité de café soluble dans du lait chaud***
 #### Crème anglaise
 - Au fouet à main ou au batteur, fouetter l'&oelig;uf entier, le jaune et le sucre (dans un cul de poule ou bien directement dans la casserole)
 - Faire épaissir et blanchir légèrement
