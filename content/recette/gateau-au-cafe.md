@@ -64,10 +64,9 @@ difficulte:
 - 1 &oelig;uf entier
 - 1 jaune d'&oelig;uf
 - 35 g de sucre semoule
-#### Crème au café
+#### Crème au beurre
 - 235 g de beurre
 - 250 g de crème liquide *(au mascarpone par exemple)*
-
 ### La Meringue Italienne
 - 80 g de sucre semoule
 - 2&frac12; c à soupe d'eau
@@ -157,11 +156,11 @@ difficulte:
 - Passer cette crème au chinois
 - Continuer à la fouetter légèrement pour la refroidir
 - Laisser baisser en température jusqu'à 25/30°
-#### Crème au café
+#### Crème au beurre
 - Quand la "crème anglaise" est à température ad hoc, ajouter le beurre tempéré coupé en petits morceaux
 - Bien mélanger au fouet à main ou au batteur à vitesse moyenne pour donner du volume
 - Battre la crème liquide et la monter
-- Mélanger délicatement à la cuiller en bois ou à la maryse la crème fouettée au mélange crème anglaise / beurre
+- Mélanger délicatement à la cuiller en bois ou à la maryse la crème fouettée au mélange crème anglaise / crème au beurre
 #### La meringue
 - Battre les blancs d'&oelig;ufs en neige jusqu'au [bec d'oiseau](https://www.papillesetpupilles.fr/2015/04/monter-les-blancs-au-bec-doiseau.html/)
 - Dans une casserole sur un feu moyen/vif mélanger l'au et le sucre en poudre
@@ -194,4 +193,4 @@ difficulte:
 - Même si elle paraît compliquée, elle est, de fait, aisément réalisable
 - Il est possible de s'avancer en préparant la veille le biscuit et le streusel
 - On peut également préparer l'infusion de café la veille
-- Il ne reste donc le jour de la dégustation qu'à finir de préparer la crème et à faire le montage
+- Il ne reste donc le jour de la dégustation qu'à finir de préparer la crème et à faire le montage (ce qui reste tout de même relativement long !)
