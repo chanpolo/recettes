@@ -49,7 +49,7 @@ difficulte:
 - Ajouter le mélange farine/maïzena/poudre/levure au mélange œuf/sucre/beurre
 - Battre rapidement à la feuille le temps que la masse prenne
 - La rouler dans un film étirable
-- La passer dans un emporte-pièce de 5 cm de diamètre pour obtenir un boudin relativement régulier
+- La passer dans un emporte-pièce de 4 cm de diamètre pour obtenir un boudin relativement régulier
 - Laisser au frigidaire quelques heures (au minimum une heure)
 ## Cuisson
 - Préchauffer le four à 170°, **réglé sur voûte/sole, sans chaleur tournante**
