@@ -24,6 +24,7 @@ source: ""
 
 remarque: >
     Une recette inspirée par <a href="https://lacerisesurlemaillot.fr/riz-cantonais-maison/"><i>La Cerise sur le Maillot</i></a><br>
+    Faire tremper le riz permet de lui faire perdre une partie de son amidon et de le rendre moins collant. Il convient alors de s'y prendre à l'avance<br>
     Pour 3 à 4 personnes
 
 preparation: 
@@ -33,7 +34,7 @@ difficulte:
 
 
 ## Ingrédients
-- 180 g de riz
+- 180 g de riz (riz thaï ou basmati)
 - 150 g de jambon d'épaisseur 5 mm
 - 4 gambas non décortiquées (à défaut, crevettes)
 - 1 oignon
@@ -45,12 +46,19 @@ difficulte:
 - Huile (olive ou sésame)
 - Sauce soja (environ 2 à 3 càs)
 ## Préparation
+### Faire tremper le riz
+- *Cette étape n'est pas indispensable, mais elle permet de rendre le riz moins collant*
+- *Le trempage dure environ 4 heures !*
+- Verser le riz dans un récipient rempli d'eau froide
+- Laisser tremper pendant une heure environ
+- Égoutter le riz en jetant l'eau de trempage, puis le rincer sous l'eau froide
+- Répếter ces opérations 2 à 3 fois (pour laisser tremper à 3 ou 4 reprises)
 ### Les gambas
 - Si elles sont congelées, les dégeler par avance
 - Les décortiquer en réservant têtes et carapaces
 - Les couper en tronçons de 6 à 8 mm d'épaisseur
 - Réserver
-- Dans une poêle à feu vif verser un peu d'huile d'olive
+- Dans une caserole (de dimension *ad hoc*) à feu vif verser un peu d'huile d'olive
 - Jeter têtes et carapaces et saisir quelques instants
 - Ajouter un peu de cognac et flamber (facultatif)
 - Baisser le feu et couvrir d'eau
@@ -66,7 +74,7 @@ difficulte:
 ### L'omelette
 - Battre les 2 &oelig;ufs dans un bol au fouet
 - Saler et poivrer
-- Dans une poêle faire fondre un peu de beurre à feu vif
+- Dans une poêle de petite taille faire fondre un peu de beurre à feu vif
 - Verser les &oelig;ufs battus et remuer à la fourchette
 - Cuire l'omelette quelques instants en la roulant sur elle-même
 - Une fois refroidie, la découper en lanières fines et réserver

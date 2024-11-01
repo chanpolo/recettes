@@ -13,7 +13,7 @@ short: >
     Une soupe froide façon gaspacho aux petits pois
 keywords: ""
 
-categories: ["entrée"]
+categories: ["entrée", "apéritif"]
 tags: ["gaspacho", "soupe froide", "petit pois", "concombre", "jus de citron", "chorizo"]
 
 photo: "gaspacho-aux-petits-pois.jpg"
