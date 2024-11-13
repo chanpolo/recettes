@@ -75,6 +75,7 @@ difficulte:
 - Réserver le lard poêle en éliminant le surplus de graisse
 - Râper le cantal en le réservant en deux parts, l'une de 80 g, l'autre de 40
 - Dans un saladier battre les oeufs
+- Ajouter la crème fraîche et bien mélanger
 - Poivrer abondamment
 - Ajouter les dés de jambon et les lamelles de lard
 - Ajouter 80 g de cantal râpé

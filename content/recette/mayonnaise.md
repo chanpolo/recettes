@@ -43,7 +43,6 @@ difficulte:
 - Laisser les ingrédients reposer à température ambiante
 - Dans un bol de contenance adéquate, verser le jaune d'&oelig;uf
 - Ajouter la moutarde, le sel, le poivre
-- Ajouter 
 - Mélanger au mixeur plongeant à vitesse moyenne en soulevant le mixer de temps à autre pour aérer la préparation
 - Ajouter l'huile **très progressivement** en mixant à vitesse moyenne ou forte
 - Aérer le mélange en soulevant le mixer régulièrement

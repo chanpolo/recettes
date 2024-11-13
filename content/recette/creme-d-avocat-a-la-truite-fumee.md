@@ -54,3 +54,12 @@ difficulte:
 - Démouler les crèmes
 - Décorer avec une herbe, une fleur comestible ou un petit dé de truite fumée
 - Servir frais
+## Si les avocats ne sont pas mûrs
+- Il est possible de réussir la recette avec des avocats non mûrs
+- Les éplucher *(même si c'est assez difficile)*
+- Couper en morceaux en enlevant le noyau
+- Apporter une casserole d'eau à ébullition
+- Faire cuire les avocats, comme on le ferait de tout autre légume
+- Arrêter la cuisson lorsque les morceaux d'avocat semblent tendres
+- *Cela peut prendre une dizaine de minutes*
+- Dans la mesure où l'avocat est réduit en purée, cette cuisson n'altère pas du tout la recette
