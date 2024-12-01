@@ -66,7 +66,7 @@ difficulte:
 - Déposer les petits beurres sur une plaque de pâtisserie recouverte de papier cuisson en les espaçant légèrement
 ## Cuisson
 - Préchauffer le four à 180° (sole + chaleur tournante)
-- Enfourner à four chaud pendant **11 minutes**
-- ***Porter la cuisson à 12 minutes en cas de préférence de biscuites plus secs***
+- Enfourner à four chaud pendant **9 à 10 minutes**
+- ***Porter la cuisson jusqu'à 12 minutes en cas de préférence de biscuites plus secs***
 - Déposer les biscuits sur une grille
 - Laisser refroidir avant de stocker dans une boîte hermétique
