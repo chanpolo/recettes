@@ -25,8 +25,8 @@ caption: ""
 source: ""
 
 remarque: >
-    Proportions pour une vingtaine de biscuits<br>
-    Voir la recette des <a href="{{ ref '/recette/petit-beurre-lu' }}" >Petit Lu</a>
+    Proportions pour une vingtaine de biscuits !!!<br>
+    Voir la recette des <a href="{{ ref '/recette/petit-beurre-lu.md' }}" >Petit Lu</a>
 
 preparation: 
 cuisson: 
