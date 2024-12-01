@@ -7,7 +7,7 @@ draft: false
 
 description: >
     Pour plagier les biscuits Belvita en ayant une version pas trop sucrée<br>
-    Le processus de fabrication est le même que pour les Petit Lu, seulent changent les ingrédients<br>
+    Le processus de fabrication est le même que pour les Petit Lu, seules changent les ingrédients<br>
     À tenter, même si le plaisir n'est pas le même que pour les Petit Lu
 
 
