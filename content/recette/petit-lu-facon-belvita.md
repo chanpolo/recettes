@@ -6,9 +6,9 @@ date: 2024-12-01T17:06:25+01:00
 draft: false
 
 description: >
-    Pour plagier les biscuits Belvita en ayant une version pas trop sucrée<br>
-    Le processus de fabrication est le même que pour les Petit Lu, seules changent les ingrédients<br>
-    À tenter, même si le plaisir n'est pas le même que pour les Petit Lu
+    Pour plagier les biscuits Belvita en ayant une version pas trop sucrée.<br>
+    Le processus de fabrication est le même que pour les Petit Lu, seules changent les ingrédients.<br>
+    À tenter, même si le plaisir n'est pas le même que pour les Petit Lu.
 
 
 short: >
@@ -44,7 +44,8 @@ difficulte:
 - 50 g de lait demi-écrémé
 - 5 g de levure chimique *(environ &frac12; sachet)*
 - 4&frac12; g de [fleur de sel de Guérande](https://www.leguerandais.fr/fr/produits/fleur-de-sel)
-- poudre de vanille
+- Poudre de vanille
+- ***Il est possible de remplacer une partie du sucre par du miel***
 ## Préparation
 - *Le principe est le même que pour les [Petit Lu]({{<ref "/recette/petit-beurre-lu" >}})*
 - Faire fondre le beurre, le sucre et le lait

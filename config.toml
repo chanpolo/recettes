@@ -4,7 +4,7 @@ languageCode = "fr-fr"
 title = "Les Recettes de Chan et Polo"
 
 enableRobotsTXT = true
-paginate = 12
+pagerSize = 12
 
 [markup]
   [markup.goldmark]
