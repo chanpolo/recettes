@@ -89,7 +89,7 @@ difficulte:
 - Fouetter légèrement le jaune d'&oelig;uf et le mélanger à quelques gouttes d'eau
 - Dorer la galette à l'aide d'un pinceau
 - Avec la pointe fine d'un couteau, réaliser un dessin en prenant garde de ne pas traverser la pâte
-- ***Placer au réfrigérateur une heure minimum, pour permettre une meilleure cuisson de la galette
+- ***Placer au réfrigérateur une heure minimum, pour permettre une meilleure cuisson de la galette***
 ## Cuisson
 - Four à 175°, position sole/chaleur tournante
 - Enfourner pendant 40 minutes
