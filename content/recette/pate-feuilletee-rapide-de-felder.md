@@ -63,3 +63,4 @@ difficulte:
 - Replier sur soi-même en trois et tourner de 90° pour réaliser le deuxième tour
 - Réaliser 5 tours en tout
 - Au terme du 5<sup>ème</sup> tour, le feuilletage est prêt à l'emploi
+- *Si la température de la pièce est trop élevée, mettre le pâton dans le réfrigérateur entre deux tours*
