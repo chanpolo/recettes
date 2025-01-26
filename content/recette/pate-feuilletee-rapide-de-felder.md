@@ -40,7 +40,7 @@ difficulte:
 - ***Pour une tarte salée, ne pas ajouter de sucre***
 ## Préparation
 ### Former le pâton
-- ***Il est nettement préférable de réaliser la pâte avec un robot (en utilisant la feuille) : l'eau sera bien mieux incorporée qu'à la main**
+- **Il est nettement préférable de réaliser la pâte avec un robot (en utilisant la feuille) : l'eau sera bien mieux incorporée qu'à la main**
 - Dans une jatte de contenance adéquate, verser la farine tamisée
 - Ajouter le beurre froid coupé en petits morceaux
 - Ajouter le sel

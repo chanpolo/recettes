@@ -87,7 +87,7 @@ difficulte:
 #### Finition
 - Une fois les pommes compotées, écraser grossièrment à la fourchette les pommes
 - *Mais sans trop insister, de manière à laisser certains morceaux*
-- Égoutter les pommes, pour continuer à les assécher
+- **Égoutter les pommes, pour continuer à les assécher**
 ## Mise en place et cuisson
 ### La pâte
 - Diviser la pâte en deux moitiés légèrement inégales

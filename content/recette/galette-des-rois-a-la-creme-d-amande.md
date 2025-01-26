@@ -35,7 +35,7 @@ difficulte:
 ### Pâte feuilletée
 - 200 g de farine T45
 - 250 g de beurre froid
-- 2 à 4 cuillères à café de source
+- 2 à 4 cuillères à café de sucre
 - 3 g de fleur de sel
 - 90 grammes d'eau
 ### Crèe d'amande
