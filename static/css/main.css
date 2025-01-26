@@ -1092,12 +1092,12 @@ a {
   padding-bottom: 0px;
 }
 
-.pl-6 {
-  padding-left: 1.5rem;
-}
-
 .pt-8 {
   padding-top: 2rem;
+}
+
+.pl-6 {
+  padding-left: 1.5rem;
 }
 
 .pt-2 {
@@ -1212,6 +1212,11 @@ a {
 
 .tracking-wide {
   letter-spacing: 0.025em;
+}
+
+.text-red-700 {
+  --tw-text-opacity: 1;
+  color: rgb(185 28 28 / var(--tw-text-opacity));
 }
 
 .text-white {
