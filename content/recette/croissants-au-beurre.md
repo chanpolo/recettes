@@ -96,7 +96,7 @@ difficulte:
 - Rouler en débutant par la fente et en poussant doucement vers l'extérieur
 - Continuer à rouler
 - Terminer en laissant la pointe vers le bas
-- *Une courte vidéo valant tous les discours :*
+- *Une courte vidéo valant tous les discours (surtout à partir de la seconde 27):*
 
 <div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
 {{< youtube TUewXjmra40 >}}*
@@ -114,7 +114,7 @@ difficulte:
 - En théorie, il faut faire une deuxième pousse de 100 à 150 minutes à 25/27°
 - En pratique, si on souhaite déguster les croissants pas trop tardivement dans la journée, ceci est peu réaliste
 - Le plus simple est d'avoir commencé ses croissants la veille dans l'après-midi
-- Puis de les laisser effectuer cette deuxième pousse dans le four éteint et fermé
+- Puis de les laisser effectuer cette deuxième pousse dans le four éteint et fermé pendant toute la nuit
 - Au matin, examiner la pousse des croissants
 - Si elle est insuffisante, allumer la lumière du four et laisser pousser le temps nécessaire
 ### Deuxième dorage
