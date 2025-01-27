@@ -12,7 +12,7 @@ short: >
 keywords: ""
 
 categories: "base"
-tags: ["recettes de base", "pâte", "sauce", "bouillon", "farce", "crème"]
+tags: ["recettes de base", "pâte", "sauce", "bouillon", "farce", "crème", "viennoiserie"]
 
 photo: "images/"
 alt: ""

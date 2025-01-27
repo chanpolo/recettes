@@ -15,7 +15,7 @@ short: >
 keywords: ""
 
 categories: ["base"]
-tags: ["croissant", "beurre", "levure de boulanger", "levée", "pétrissage"]
+tags: ["croissant", "beurre", "levure de boulanger", "levée", "pétrissage", "viennoiserie"]
 
 photo: "croissants-au-beurre.jpg"
 alt: "Un croissant au beurre"
@@ -46,7 +46,7 @@ difficulte:
 - 125 g de beurre froid (ces 125 g constituent le [beurre de tourage](https://www.laboitedufromager.com/quest-ce-que-le-beurre-de-tourage/#:~:text=Le%20beurre%20de%20Tourage%20est,l'appelle%20aussi%20beurre%20sec.))
 ## Préparation
 ### Vérifier la température du lait
-- En théorie, l'eau doit être à une température dépendant de celle de la farine et de la pièce de travail
+- En théorie, le lait doit être à une température dépendant de celle de la farine et de la pièce de travail
 - La température idéale du lait , en degré Celsius, est obtenu par la formule : <span class="text-red-700">*`52 - température de la pièce - température de la farine`*</span>
 - Avec une température de la pièce à 19° et une farine à la même température, le lait doit, en théorie, être à 14°
 - En fait, à 19° on peut tout à fait se contenter d'un lait qui est à température ambiante
