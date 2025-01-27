@@ -90,6 +90,15 @@ difficulte:
 - Dorer la galette à l'aide d'un pinceau
 - Avec la pointe fine d'un couteau, réaliser un dessin en prenant garde de ne pas traverser la pâte
 - ***Placer au réfrigérateur une heure minimum, pour permettre une meilleure cuisson de la galette***
+### Retournement
+- *Une video explicative de C.Lignac*
+
+<div  class="pt-6  mx-auto" loading="lazy">
+<video width=250 controls muted>
+<source src="/videos/RetournementGalette_CLignac.mp4" type="video/mp4" /></video>
+</div>
+
+
 ## Cuisson
 - Four à 175°, position sole/chaleur tournante
 - Enfourner pendant 40 minutes
