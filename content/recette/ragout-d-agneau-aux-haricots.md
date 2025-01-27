@@ -6,16 +6,19 @@ date: 2025-01-27T16:58:38+01:00
 draft: false
 
 description: >
+    Un ragoût simple mais efficace, qui reste toujours un plaisir à savourer.<br>
+    Les haricots en font un plat plutôt hivernal, mais ses qualités gustatives le font apprécier en toutes saisons.
 
 short: >
+    Une recette simple, mais très efficace
     
 keywords: ""
 
-categories: ["entrée", "plat", "dessert", "base", "apéritif"]
+categories: ["plat"]
 tags: ["agneau", "ragoût", "haricot sec", "concentré de tomates", "persil", "bouquet garni"]
 
-photo: "_default_image.jpg"
-alt: ""
+photo: "ragout-d-agneau-aux-haricots.jpg"
+alt: "Un plat en terre cuite rempli de ragoût d'agneau avec des haricots blancs"
 caption: ""
 source: ""
 
