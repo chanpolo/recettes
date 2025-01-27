@@ -98,9 +98,7 @@ difficulte:
 - Terminer en laissant la pointe vers le bas
 - *Une courte vidéo valant tous les discours (surtout à partir de la seconde 27):*
 
-<div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
-{{< youtube TUewXjmra40 >}}
-</div>
+<div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">{{< youtube TUewXjmra40 >}}</div>
 
 #### Dorage à l'&oelig;uf
 - Battre le jaune d'&oelig;uf dans un ramequin

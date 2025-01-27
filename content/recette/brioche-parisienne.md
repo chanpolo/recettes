@@ -78,6 +78,10 @@ difficulte:
 - Déposer le corps dans le fond du moule
 - Bouler la tête en lui donnant sur le dessous une forme effilée
 - Insérer la tête sur le corps en rentrant la partie effilée de la tête dans le creux du corps
+- *Une vidéo explicative (avec quelques variantes, notamment pour le dorage):*
+
+<div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">{{< youtube hqtiPbI3VGA >}}</div>
+
 ### Seconde pousse
 - Allumer la lumière du four
 - Placer le moule à l'intérieur
