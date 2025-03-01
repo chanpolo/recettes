@@ -106,10 +106,10 @@ difficulte:
 ## Les vidéos
 ### En triangles
 <div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
-{{< youtube ud34wKRnv28 >}}
+{{< youtube id=ud34wKRnv28 mute=true >}}
 </div>
 
 ### En cigares
 <div class="pt-8 md:w-3/4 mx-auto" loading="lazy">
-{{< youtube lEFqKA-2A4E >}}
+{{< youtube id=lEFqKA-2A4E mute=true >}}
 </div>
