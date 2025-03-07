@@ -131,3 +131,5 @@ difficulte:
 - Cuisson à 160° pendant 25 minutes
 #### Note
 - Cette recette n'a pas été testée
+### Brioche Nuage
+- Voir [la recette]({{<ref "/recette/brioche-nuage" >}})
