@@ -50,7 +50,7 @@ difficulte:
 - Ajouter le beurre froid par petites quantités
 - Bien incorporer et pétrir encore une dizaine de minutes
 - Verser le pâton dans un récipient légèrement fariné
-### Premmière pousse
+### Première pousse
 - Laisser pousser à température ambiante ou dans le four avec lumière allumée pendant une heure
 - Filmer le récipient au contact et laisser reposer une nuit dans le réfrigérateur
 ### Façonnage et deuxième pousse
