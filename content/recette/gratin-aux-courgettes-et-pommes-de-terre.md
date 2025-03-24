@@ -40,6 +40,7 @@ difficulte:
 - Cantal râpé
 - Aïl : 1 gousse *(non indispensable)*
 - Sel, poivre, épices au choix du Chef
+- Voir la [variante]({{<ref "#variante" >}}) 
 ## Préparation
 ### Les pommes de terre
 - Éplucher les pommes de terre
@@ -67,4 +68,19 @@ difficulte:
 - La cuisson va durer entre 2H30 et 3 heures
 - Surveiller régulièrement et, si besoin, baisser le four ou couvrir d'un papier aluminium
 - Environ 30 minutes avant la fin de la cuisson, parsemer de Cantal râpé pour que le dessus prenne un aspect gratiné
-
+## Variante
+### Les proportions
+- 1 courgette
+- 4 pommes de terre
+- <sup>1</sup>/<sub>2</sub> à 1 oignon
+- Crème fraîche liquide ou au Mascarpone *(environ 30 cl)*
+- Cantal râpé
+- Aïl : 1 gousse *(non indispensable)*
+- Sel, poivre, épices au choix du Chef
+### Commentaire
+- La proportion de courgettes est notablement diminuée
+- La présence d'oignon donne un goût et une texture particuliers
+- On n'ajoute pas de lait
+- Il y a peu de liquide dans le plat, donc le gratin sera plus sec, moins noyé dans le liquide
+- Ne pas hésiter à couvrir le plat avec un papier sulfurisé pour éviter le dessèchement
+- Le reste de la recette est inchangé
