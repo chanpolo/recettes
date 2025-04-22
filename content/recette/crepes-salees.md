@@ -44,7 +44,7 @@ difficulte:
 - Faire fondre le beurre (au micro-ondes par exemple)
 - Faire tiédir le lait
 - Tamiser la farine dans une jatte de bonne contenancce
-- Ajouter le sel et le sucre
+- Ajouter le sel
 - Ajouter les oeufs : bien remuer au fouet ou à la cuiller en bois pour homogénéiser l'ensemble
 - Ajouter le beurre fondu
 - Ajouter le lait tiédi très progressivement en fouettant, de manière à éviter les grumeaux
