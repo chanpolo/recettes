@@ -53,6 +53,7 @@ difficulte:
 - Verser l'eau et le lait
 ### Le pétrissage
 - Battre doucement avec le crochet du robot pour mélanger les ingrédients
+- Verser progressivement le beurre fondu dans la cuve
 - Lorsque les ingrédients sont mélangés, augmenter la vitesse du robot en passant à vitesse moyenne
 - Pétrir environ 10 minutes
 ### La première pousse
