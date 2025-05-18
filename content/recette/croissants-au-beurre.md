@@ -107,12 +107,12 @@ difficulte:
 ## Deuxième pousse et cuisson
 ### Deuxième pousse
 - En théorie, il faut faire une deuxième pousse de 100 à 150 minutes à 25/27°
-- En pratique, si on souhaite déguster les croissants pas trop tardivement dans la journée, ceci est peu réaliste
-    - Le plus simple est d'avoir commencé ses croissants la veille dans l'après-midi
-    - Les déposer, une fois façonnés, sur une planche à découper de taille *ad hoc*
-    - Recouvrir les croissants avec un linge propre humide
-    - Laisser reposer toute la nuit
-    - Au matin, effectuer la deuxième pousse dans le four avec lampe allumée pendant 2h30 à 3 heures
+- En pratique, si on souhaite déguster les croissants pas trop tardivement dans la journée, ceci est peu réaliste  
+- Le plus simple est d'avoir commencé ses croissants la veille dans l'après-midi  
+    &nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;Les déposer, une fois façonnés, sur une planche à découper de taille *ad hoc*  
+    &nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;Recouvrir les croissants avec un linge propre humide  
+    &nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;  Laisser reposer toute la nuit  
+    &nbsp;&nbsp;&nbsp;&nbsp; *&nbsp;&nbsp;  Au matin, effectuer la deuxième pousse dans le four avec lampe allumée pendant 2h30 à 3 heures  
 
 #### Dorage à l'&oelig;uf
 - Peser un jaune d'&oelig;uf
