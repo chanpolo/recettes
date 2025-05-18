@@ -62,6 +62,7 @@ difficulte:
 - La fraiser en lui donnant quelques coups
 - La tourner pour lui donner la forme d'une boule
 - Faire deux entailles sur le dessus
+- Poser le pâton dans un récipient suffisamment grand, recouvert d'un linge humide
 - Laisser le pâton lever pendant 50 minutes à 24°
 - **Le plus simple pour laisser lever la pâte est de la mettre dans le four en allumant juste la lumière de celui-ci**
 - ***Bien sûr cette règle est fonction de la température ambiante de la pièce***
@@ -90,8 +91,10 @@ difficulte:
 - *Le principe est simple : découper la pâte en triangles de taille ad hoc et rouler ceux-ci sur eux-mêmes pour obtenir un croissant*
 - Abaisser la pâte en lui donnant la forme d'un rectangle de 24 cm de large environ sur 48 cm de large
 - *L'épaisseur de la pâte doit alors être d'environ 4 mm*
-- Détailler la bande ainsi obtenue en 8 triangles dont la base fait 12 cm et la hauteur 24 cm
+- Réserver dans le réfrigérateur pendant 30 minutes (pour éviter la rétraction de la pâte)
+
 #### Façonner les croissants
+- Détailler la bande ainsi obtenue en 8 triangles dont la base fait 12 cm et la hauteur 24 cm
 - Faire une encoche au milieu de la base de chaque triangle
 - Rouler en débutant par la fente et en poussant doucement vers l'extérieur
 - Continuer à rouler
@@ -100,29 +103,31 @@ difficulte:
 
 <div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">{{< youtube id=TUewXjmra40 mute=true >}}</div>
 
-#### Dorage à l'&oelig;uf
-- Battre le jaune d'&oelig;uf dans un ramequin
-- Avec un pinceau, étaler précautionneusement le jaune d'&oelig;uf sur les croissants
-- **En veillant surtout à ne pas déborder sur le tranchant de la pâte, pour ne pas empêcher celle-ci de lever**
 - *À ce stade, les croissants peuvent être congelés pour une dégustation ultérieure*
-- Garder le restant de jaune d'&oelig;uf pour un deuxième dorage
-- Disposer les croissants sur une plaque de four recouverte de papier cuisson
 ## Deuxième pousse et cuisson
 ### Deuxième pousse
 - En théorie, il faut faire une deuxième pousse de 100 à 150 minutes à 25/27°
 - En pratique, si on souhaite déguster les croissants pas trop tardivement dans la journée, ceci est peu réaliste
-- Le plus simple est d'avoir commencé ses croissants la veille dans l'après-midi
-- Puis de les laisser effectuer cette deuxième pousse dans le four éteint et fermé pendant toute la nuit
-- Au matin, examiner la pousse des croissants
-- Si elle est insuffisante, allumer la lumière du four et laisser pousser le temps nécessaire
-### Deuxième dorage
-- Dorer, toujours précautionneusement, à nouveau les croissants qui ont effectué leur deuxième pousse
+    - Le plus simple est d'avoir commencé ses croissants la veille dans l'après-midi
+    - Les déposer, une fois façonnés, sur une planche à découper de taille *ad hoc*
+    - Recouvrir les croissants avec un linge propre humide
+    - Laisser reposer toute la nuit
+    - Au matin, effectuer la deuxième pousse dans le four avec lampe allumée pendant 2h30 à 3 heures
+
+#### Dorage à l'&oelig;uf
+- Peser un jaune d'&oelig;uf
+- Peser la même quantité de crème fraîche à 35% de matières grasses
+- Mixer ensemble au mixer plongeant le jaune d'&oelig;uf et la crème
+- Avec un pinceau, étaler précautionneusement le mélange sur les croissants
+- **En veillant surtout à ne pas déborder sur le tranchant de la pâte, pour ne pas empêcher celle-ci de lever**
+
+
 ### Cuisson
 - Four en chaleur tournante
-- 190 à 210°
-- Enfourner au milieu du four pendant 20 minutes environ
+- 170°
+- Enfourner au milieu du four pendant 15 à 20 minutes environ
 - Surveiller la cuisson
-- Au besoin, si les croissants sont volumineux, cuire plus longtemps à température un peu plus basse
+- Au besoin, si les croissants sont volumineux, cuire plus longtemps
 - Défourner et poser sur une grille
 - Laisser tiédir à l'air ambiant
 
