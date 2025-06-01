@@ -49,6 +49,8 @@ difficulte:
 ### Faire tremper le riz
 - *Cette étape n'est pas indispensable, mais elle permet de rendre le riz moins collant*
 - *Le trempage dure environ 4 heures !*
+
+- ***Dans le cas où le riz a été trempé pendant plusieurs heures, il faut le cuire moins longtemps que normalement***
 - Verser le riz dans un récipient rempli d'eau froide
 - Laisser tremper pendant une heure environ
 - Égoutter le riz en jetant l'eau de trempage, puis le rincer sous l'eau froide

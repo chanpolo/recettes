@@ -34,7 +34,7 @@ difficulte:
 ## Ingrédients
 - 1 filet mignon de porc de 500 grammes environ
 - 2 à 3 courgettes
-- 1 à 2 carotte
+- 1 à 2 carottes
 - 1 navet blanc
 - 1 oignon
 - 2 échalotes
