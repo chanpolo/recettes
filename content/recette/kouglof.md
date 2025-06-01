@@ -14,7 +14,7 @@ short: >
 keywords: ""
 
 categories: ["dessert"]
-tags: ["kouglof", "kouglehopf", "kouglehof","brioche", "beurre", "farine", "raisins secs", "amandes", "sucre glace"]
+tags: ["kouglof", "kouglehopf", "kouglehof", "kuglfo", "brioche", "beurre", "farine", "raisins secs", "amandes", "sucre glace"]
 
 photo: "kouglof.jpg"
 alt: "Un kouglof entier et un kouglof coupé en deux"
@@ -99,3 +99,7 @@ difficulte:
 ## Commentaire
 - Les amandes et le sucre glace ne sont pas indispensables
 - Ils ont surtout un rôle de décoration
+
+## Variante
+- La variante sans raisins et sans amandes équivaut à une brioche très moelleuse, la recette étant très proche de celle de la [brioche parisienne](({{<ref "/recette/brioche-parisienne" >}}))
+- Le fait que le moule soit celui d'un kouglof diminue le temps de cuisson par rapport à un moule à brioche standard
