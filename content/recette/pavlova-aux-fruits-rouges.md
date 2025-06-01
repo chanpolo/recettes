@@ -67,6 +67,8 @@ difficulte:
 #### Préparation
 - Préchauffer le four en chaleur tourante à 85° (ou chaleur tourante + sole)
 - Sur un papier cuisson, tracer un cercle de 24 cm de diamètre (s'aider d'un cercle à pâtisserie au besoin)
+- Faire fondre un peu de beurre *(au micro-ondes par exemple)*
+- Passer le beurre fondu au pinceau sur le papier cuisson
 #### Monter la meringue
 - Mélanger et tamiser les sucres
 - Dans le robot verser les blancs d'&oelig;uf et la pincée de sel
