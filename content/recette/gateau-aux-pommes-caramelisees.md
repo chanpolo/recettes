@@ -62,6 +62,10 @@ difficulte:
 - 50 g de beurre
 - 18 g de poudre d'amande
 - 18 g de poudre de noisette
+- 5<sup>1</sup>/<sub>2</sub> g de levure chimique (soit <sup>1</sup>/<sub>2</sub> sachet)
+- 2 &oelig;ufs
+### Sans caramel ?
+- Pour un gâteau plus diététique, on peut se passer du nappage caramel
 ## Préparation
 ### La pâte
 - Faire fondre le beurre (micro-ondes ou plaque à induction)
@@ -87,6 +91,7 @@ difficulte:
 - Verser la pâte dans le moule ainsi préparé
 - Enfoncer les morceaux de pommes dans la pâte
 ## Cuisson
+### Recette initiale
 - Chauffer le four à 180° en chaleur statique voûte/sole
 - Enfourner le gâteau (position basse ou médiane)
 - Laisser cuire 20 minutes
@@ -98,4 +103,10 @@ difficulte:
 - Laisser caraméliser pendant 5 minutes supplémentaire
 - **En surveillant bien la cuisson pour ne pas brûler le gâteau**
 - Démouler dès que possible et laisser reposer le gâteau sur une grille
+### Recette avec plus de pomme et sans caramel
+- La cuisson peut être plus lente
+- 180° pendant 30 minutes
+- 160° pendant 30 à 40 minutes supplémentaires
+- En fonction du four
+- Surveiller
 
