@@ -52,6 +52,16 @@ difficulte:
 ### Préparation du moule
 - Beurre
 - Sucre roux
+### Plus de pommes, moins de pâte ?
+- Essayer d'inverser la proportion pâte / pommes
+- 5 pommes coupées en morceaux de taille plus réduite
+- 70 g de farine
+- 20 g de maïzena
+- 30 g de sucre roux
+- 80 g de crème au mascarpone
+- 50 g de beurre
+- 18 g de poudre d'amande
+- 18 g de poudre de noisette
 ## Préparation
 ### La pâte
 - Faire fondre le beurre (micro-ondes ou plaque à induction)
@@ -61,6 +71,8 @@ difficulte:
 - Ajouter le beurre fondu et continuer à mélanger
 - Verser, en le passant au tamis, le mélange farines et poudres
 - Continuer à mélanger le tout, d'abord au fouet puis à la cuiller
+- Ajouter la crème au mascarpone
+- Continuer à mélanger le tout pour bien homogénéiser la pâte
 ### Les pommes
 - Peler les pommes
 - Les détailler en quartiers (ou en gros morceaux) 

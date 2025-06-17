@@ -38,19 +38,20 @@ difficulte:
 
 ## Ingrédients
 ### La meringue
-- 200 g de blanc d'&oelig;uf
+- 240 g de blanc d'&oelig;uf
 - 1 pincée de sel
-- 100 g de sucre semoule
-- 100 g de sucre glace
-- 8 à 10 g de [maïzena](https://www.maizena.fr/p/fleur-de-ma%C3%AFs-400g.html/08712100338694)
+- 120 g de sucre semoule
+- 120 g de sucre glace
+- 9 à 10 g de [maïzena](https://www.maizena.fr/p/fleur-de-ma%C3%AFs-400g.html/08712100338694)
 - 1 càc de vinaigre de cidre (ou de jus de citron)
 ### La compotée de fruits rouges
-- 300 g de framboises (surgelées au besoin)
-- 100 g de chair de cerises (surgelées au besoin)
+- 400 g de framboises (surgelées au besoin)
+- 150 g de chair de cerises (surgelées au besoin)
 - *On peut choisir d'autres fruits rouges, à convenance*
 - 10 g de sucre roux
 - le jus d'<sup>1</sup>/<sub>2</sub> citron
-- 1g d'[agar-agar](https://fr.wikipedia.org/wiki/Agar-agar) (ou 3<sup>1</sup>/<sub>2</sub>g de [pectine NH](https://lafrenchpatissiere.com/tout-savoir-sur-la-pectine-nh))
+- 1,2 g d'[agar-agar](https://fr.wikipedia.org/wiki/Agar-agar) (ou 4 g de [pectine NH](https://lafrenchpatissiere.com/tout-savoir-sur-la-pectine-nh))
+- *La quantité standard d'agar-agar est de 4 g pour un kilo de purée*
 ### La crème fouettée
 - 500 à 600 g de [crème au mascarpone](https://www.elle-et-vire.com/fr/fr/creme/produits/la-creme-au-mascarpone/) *( environ deux pots de 33cl)*
 - Poudre de vanille *(facultatif)*
@@ -108,7 +109,7 @@ difficulte:
 - Laisser bouillir brièvement
 - Mixer
 - Passer au chinois
-- On récupère ainsi environ 250 g de purée de fruits
+- On récupère ainsi environ 300 à 320 g de purée de fruits
 #### Gélifier
 - Verser la purée filtrée dans la casserole
 - Amener à ébullition
