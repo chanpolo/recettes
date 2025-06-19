@@ -8,7 +8,7 @@ draft: false
 description: >
     Un gâteau aux abricots, fondant et moelleux.<br>
     Une variante du gâteau aux pommes caramélisées.<br>
-    L'acicité des abricots est compensée par le croustillant du caramel.
+    L'acidité des abricots est compensée par le croustillant du caramel.
 
 short: >
    Un gâteau aux pommes fondant et moelleux
@@ -23,7 +23,7 @@ caption: ""
 source: ""
 
 remarque: >
-    Une variante du [gâteau aux pommes caramélisées]({{<ref "/recette/gateau-aux-pommes-caramelisees" >}}), avec diminution de la quantité de sucre<br>
+    Une variante du <a href="/recette/gateau-aux-pommes-caramelisees">gâteau aux pommes caramélisées</a>, avec diminution de la quantité de sucre<br>
     Pour un [moule à manqué](https://www.mathon.fr/collections/moule-a-manque) de 22 cm de diamètre
 
 preparation: 
