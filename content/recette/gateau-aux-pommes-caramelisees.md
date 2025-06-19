@@ -24,7 +24,8 @@ caption: ""
 source: ""
 
 remarque: >
-    Une recette inspirée par <a href="https://www.julieandrieu.com/recettes/gateau-aux-pommes-caramelise-dantoinette">Julie Andrieu</a>
+    Une recette inspirée par <a href="https://www.julieandrieu.com/recettes/gateau-aux-pommes-caramelise-dantoinette">Julie Andrieu</a><br>
+    Pour un [moule à manqué](https://www.mathon.fr/collections/moule-a-manque) de 22 cm de diamètre
 
 preparation: 
 cuisson: 
@@ -103,6 +104,7 @@ difficulte:
 - Laisser caraméliser pendant 5 minutes supplémentaire
 - **En surveillant bien la cuisson pour ne pas brûler le gâteau**
 - Démouler dès que possible et laisser reposer le gâteau sur une grille
+- *Il n'est pas évident de démouler le gâteau ; dans ce cas le laisser dans le moule
 ### Recette avec plus de pomme et sans caramel
 - La cuisson peut être plus lente
 - 180° pendant 30 minutes
