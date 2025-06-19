@@ -34,7 +34,7 @@ difficulte:
 
 
 ## Ingrédients
-- 8 abricots de taille standard
+- 10 abricots de taille standard
 - 70 g de farine
 - 20 g de maïzena
 - 15 g de sucre roux
@@ -44,7 +44,7 @@ difficulte:
 - 18 g de poudre d'amande
 - 18 g de poudre de noisette
 - 2 &oelig;ufs
-## Préparation*
+## Préparation
 ### Les abricots
 - *Les précuire dans le four, comme pour une [tarte aux abricots]({{<ref "/recette/tarte-aux-abricots.md#les-abricots-version-2-plus-goûteuse" >}})*
 - Disposer les abricots coupés en deux sur du papier sulfurisé, face creuse vers le haut, bombée vers le bas
