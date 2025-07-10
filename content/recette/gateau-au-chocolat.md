@@ -24,7 +24,8 @@ caption: ""
 source: ""
 
 remarque: >
-    Plus le chocolat sera corsé, plus le gâteau aura un goût prononcé
+    Plus le chocolat sera corsé, plus le gâteau aura un goût prononcé<br>
+    La recette actuelle est nettement moins sucrée que la recette originale : 60 g contre 125 à 150 g initialement
 
 preparation: 
 cuisson: 
@@ -35,7 +36,7 @@ difficulte:
 ## Ingrédients
 - 200 g de chocolat à cuisiner *(choisir la teneur en cacao en fonction de la force du gâteau escomptée)*
 - 125 g de beurre
-- 125 à 150 g de sucre en poudre
+- 60 g de sucre : 40 g de sucre semoule et 20 g de sucre cassonade
 - 3 à 4 &oelig;ufs
 - 1 pincée de sel
 - 1 sachet de levure chimique *(11 grammes ; facultatif)*
