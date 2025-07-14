@@ -37,7 +37,7 @@ difficulte:
 ## Ingrédients
 ### Biscuit breton (de <a href="https://philippeconticini.fr/">Philippe Conticini</a>)
 - 300 g de farine 
-- 240 g de sucre semoule 
+- 120 g de sucre semoule *(la recette initiale prévoit 240 g !!!)*
 - 1 pincée de levure chimique 
 - 240 g de beurre demi-sel très mou 
 - 3 jaunes d’œufs 
