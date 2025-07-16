@@ -11,7 +11,7 @@ description: >
     L'acidité des abricots est compensée par le croustillant du caramel.
 
 short: >
-   Un gâteau aux pommes fondant et moelleux
+   Un gâteau aux abricots fondant et moelleux
 keywords: ""
 
 categories: ["dessert"]
