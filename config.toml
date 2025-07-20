@@ -60,6 +60,12 @@ pagerSize = 12
     parent = "auteurs"
     weight = 10
   [[menu.main]]
+    identifier = "recette-abuela-abuelo"
+    name = "Abuela y Abuelo"
+    url = "/auteur-abuela-y-abuelo"
+    parent = "auteurs"
+    weight = 15  
+  [[menu.main]]
     identifier = "recette-jean"
     name = "Jean"
     url = "/auteur-jean"

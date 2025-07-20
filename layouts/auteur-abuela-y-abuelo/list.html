@@ -1,0 +1,12 @@
+{{ define "main" }}
+<main >
+    <header>
+        {{ partial "header/header_main.html" .}}
+        {{.Content}}
+    </header>
+
+    {{$type := .Page.Scratch}}
+    {{$type.Set "type" "Abuela & Abuelo"}}
+    
+    {{ partial "body/paginationAuteurs.html" . }}
+  {{ end }} 
