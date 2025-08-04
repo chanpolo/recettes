@@ -35,7 +35,7 @@ difficulte:
 
 ## Ingrédients
 - 180 g de riz (riz thaï ou basmati)
-- 150 g de jambon d'épaisseur 5 mm
+- 150 g de jambon d'épaisseur 5 mm *(ou de poulet : voir la [variante]({{<ref "#variante-au-poulet">}}))*
 - 4 gambas non décortiquées (à défaut, crevettes)
 - 1 oignon
 - 120 g de petits pois (éventuellement surgelés)
@@ -110,3 +110,15 @@ difficulte:
 - Verser les lanières d'omelette
 - Laisser chauffer quelques instants, tout en remuant
 - Servir chaud
+## Variante au poulet
+- 150 à 200 g de filet de poulet
+- Couper le filet de poulet en lanières de taille *ad hoc*
+- Dans un récipient, déposer les lanières
+- Ajouter de la sauce soja ou [Teriyaki](https://fr.wikipedia.org/wiki/Teriyaki)
+- Ajouter un peu d'huile (olive ou sésame)
+- Laisser mariner quelques heures
+- Récupérer les lanières de poulet dans la marinade
+- Les saisir rapidement dans une poêle chaude
+- Couper en dés de taille adéquate
+- Mélanger au riz lors de la cuisson finale
+- Ajouter le jus de la marinade dans le riz
