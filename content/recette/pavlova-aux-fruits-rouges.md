@@ -97,6 +97,14 @@ difficulte:
 - Arrêter la cuisson en laissant la meringue dans le four
 - *On peut conserver la meringue jusqu'au lendemain dans le four porte fermée* 
 - *Le but est d'éviter qu'elle ne ramolisse au contact d'un air humide*
+#### Variante de cuisson
+- *À tester et à valider*
+- *D'après une [recette de Christophe Felder](https://elchatgourmet.com/2025/07/vacherin-glace-de-christophe-felder.html)*
+- Préchauffer le four à 150°
+- Enfourner 8 minutes à 150°
+- Puis baisser à 90°
+- Laisser cuire environ 2 heures
+- *La meringue est prête lorsqu'elle se détache facilement de la feuille de papier sulfurisé et est sèche à l'intérieur*
 
 ### La compotée de fruits rouges
 #### Préparer le réceptacle
