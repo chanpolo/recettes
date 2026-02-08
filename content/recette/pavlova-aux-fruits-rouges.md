@@ -105,6 +105,12 @@ difficulte:
 - Puis baisser à 90°
 - Laisser cuire environ 2 heures
 - *La meringue est prête lorsqu'elle se détache facilement de la feuille de papier sulfurisé et est sèche à l'intérieur*
+#### Autres conseils de cuisson
+- Cuire à 85°
+- Laisser pendant environ 3 heures
+- À ce moment-là, retourner la meringue : la retourner sur un nouveau papier sulfurisé et enlever délicatement le papier qui était initialement sur la face inférieure *(opération pas simple, la meringue étant collante)*
+- Poursuivre la cuisson, jusqu'à ce que le centre de la face supérieure de la meringue (qui était initialement l'inférieure) commence à durcir
+- La cuisson totale peut durer 6 à 7 heures !!!
 
 ### La compotée de fruits rouges
 #### Préparer le réceptacle
@@ -130,6 +136,9 @@ difficulte:
 - Enlever le cercle à pâtisserie
 - Puis réserver dans le réfrigérateur
 - Une fois la purée prise, la recouvrir d'une autre feuille de papier cuisson
+#### Utile ou inutile ?
+- Cet ajout de gelée n'est pas nécessairement utile
+- Il est même gênant pour certains
 ### La crème fouettée
 - Verser la crème fluide dans le robot
 - Commencer à battre à petite vitesse
@@ -165,3 +174,20 @@ difficulte:
 ### Service
 - Maintenir au frais jusqu'au service
 - Prendre garde à éviter les phénomènes de condensation qui pourraient amollir la meringue
+
+## Variantes aux agrumes
+### Ingrédients
+- 1 à 2 pomelos
+- 3 clémentines
+- 5 à 6 oranges, dont au moins 2 sanguines
+- 1 à 2 kiwis verts
+### Préparation
+- À faire la veille, car la préparation est longue
+- Lever les suprêmes des agrumes
+<div class="pt-8 md:w-3/4 mx-auto" loading="lazy">
+{{< youtube id=lrlqS1mg6-o mute=true >}}
+
+- Laisser les agrumes égoutter
+### Présentation
+- Disposer comme pour des fruits rouges
+- Attention aux pomelos qui peuvent donner de l'acidité

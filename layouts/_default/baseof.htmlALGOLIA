@@ -1,0 +1,82 @@
+
+
+<!DOCTYPE html>
+<html lang="{{.Site.LanguageCode}}">
+  {{ block "head" .}}
+ 
+  {{ partial "head/head_main.html" .}}
+  {{ end }}
+  <body>
+    
+    {{- partial "nav/nav.html" . -}}
+
+    <div id="search"></div>
+
+
+    <!-- test pour algolia ; voir chatGPT -->
+
+    <!-- Champ de recherche -->
+<div class="max-w-xl mx-auto my-6">
+  <input
+    id="searchbox"
+    type="text"
+    placeholder="Rechercher..."
+    class="w-full px-4 py-2 border rounded-lg focus:outline-none focus:ring focus:border-blue-400"
+  />
+</div>
+
+<!-- Résultats -->
+<div id="hits" class="max-w-2xl mx-auto grid gap-4"></div>
+
+<!-- Lib Algolia -->
+<script src="https://cdn.jsdelivr.net/npm/algoliasearch@4/dist/algoliasearch-lite.umd.js"></script>
+<script>
+  const client = algoliasearch('G1CLP4891G', '6786f5d4d6ec0f3ddc9fa6683d4bc2c4');
+  const index = client.initIndex('chanpolo_2025-08');
+
+  async function search(query) {
+    const container = document.querySelector('#hits');
+    if (!query) {
+      container.innerHTML = '';
+      return;
+    }
+
+    const { hits } = await index.search(query, { hitsPerPage: 10 });
+
+    container.innerHTML = hits
+      .map(
+        (hit) => `
+          <div class="p-4 bg-white rounded-lg shadow hover:shadow-md transition">
+            <h3 class="text-lg font-semibold text-gray-800">
+              ${hit.titleshort || hit.Title}
+            </h3>
+            <p class="text-gray-600 text-sm mt-1">
+              ${hit.short || hit.description || ''}
+            </p>
+            <a href="${hit.url}" class="text-blue-600 text-sm font-medium mt-2 inline-block">
+              Voir plus →
+            </a>
+          </div>
+        `
+      )
+      .join('');
+  }
+
+  document.querySelector('#searchbox').addEventListener('input', (e) => {
+    search(e.target.value);
+  });
+</script>
+
+
+    <!-- fin du test algolia -->
+
+    {{ block "main" . }}
+
+    {{ end }}
+    
+    {{ block "footer" . }}
+  
+   {{ partial "footer/footer_main.html" . }}
+    {{ end }}
+  </body>
+</html>
