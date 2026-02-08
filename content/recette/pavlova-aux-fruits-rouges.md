@@ -184,9 +184,10 @@ difficulte:
 ### Préparation
 - À faire la veille, car la préparation est longue
 - Lever les suprêmes des agrumes
+
 <div class="pt-8 md:w-3/4 mx-auto" loading="lazy">
 {{< youtube id=lrlqS1mg6-o mute=true >}}
-
+</div>
 - Laisser les agrumes égoutter
 ### Présentation
 - Disposer comme pour des fruits rouges
