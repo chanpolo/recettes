@@ -40,7 +40,7 @@ difficulte:
 - 15 g de lait
 - 150 g d'&oelig;ufs
 - 210 g de beurre
-- 1 jaune d'&oelig;uf pour la dorure
+- 1 jaune d'&oelig;uf pour la dorure  
 **Si possible tous les ingrédients doivent être froids : au besoin les laisser quelques heures dans le réfrigérateur**
 ## Préparation la veille
 ### Mise en place
