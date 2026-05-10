@@ -17,8 +17,8 @@ keywords: ""
 categories: ["dessert"]
 tags: ["tarte", "poire", "sirop", "bourdaloue", "amandine", "amandes", "pâte sablée", "crème d'amandes", "crème pâtissière", "crème frangipane", "rhum", "oeuf", "poudre d'amandes"]
 
-photo: "_default_image.jpg"
-alt: ""
+photo: "tarte-bourdaloue-facon-lenotre.jpg"
+alt: "une tarte bourdaloue ou amandine, à base de pate sablée, de frangipane et de poires pochées"
 caption: ""
 source: ""
 
