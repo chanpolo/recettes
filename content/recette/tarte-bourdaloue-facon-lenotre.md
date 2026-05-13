@@ -74,7 +74,7 @@ difficulte:
 - 60 g de jaunes d'&oelig;ufs
 - Vanille en poudre ou en gousse
 - 20 g de [maizena](https://www.maizena.fr/p/fleur-de-ma%C3%AFs-400g.html/08712100338694)
-- *On n'utilisera que la moitié de la crème, mais sa réalisation est plus difficile si on divise les proportions par 2*
+- *On n'utilisera qu'un peu plus de la moitié de la crème, mais sa réalisation est plus difficile si on divise les proportions par 2*
 ## Préparation
 ### La pâte sablée
 - *À faire manuellement ou au robot*
