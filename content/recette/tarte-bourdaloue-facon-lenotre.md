@@ -35,15 +35,25 @@ difficulte:
 
 ## Ingrédients
 ### Pâte sablée
+#### Proportions initiales
 - 240 g de beurre pommade
 - 4 g de sel fin
 - 180 g de sucre glace
 - 60 g de poudre d'amandes *(ou de mélange à proportions variables amande/noisette)*
-- 100 g d'&oelig;ufs entiers *(environ 2&oelig;ufs)*
+- 100 g d'&oelig;ufs entiers *(environ 2 &oelig;ufs)*
 - 120 g de farine T55
 - 350 g de farine T45
+- ***Avec ces quantités, on obtient plus d'un kilogramme de pâte ; on a besoin d'un peu moins de 600 grammes ; prendre les proportions pondérées***
+#### Proportions pondérées
+- 140 g de beurre pommade
+- 2,3 g de sel fin
+- 100 g de sucre glace
+- 35 g de poudre d'amandes *(ou de mélange à proportions variables amande/noisette)*
+- 55 à 60 g d'&oelig;ufs entiers *(environ 1 gros &oelig;uf)*
+- 70 g de farine T55
+- 200 g de farine T45
 ### Poires
-- 6 à 7 poires
+- 5 à 6 poires
 - 1<sup>1</sup>/<sub>2</sub> litres d'eau
 - 300 g de sucre semoule
 - Vanille en poudre ou en gousse
@@ -52,9 +62,9 @@ difficulte:
 - Cardamone
 - Poivre en grains
 ### Crème d'amandes
-- 100 g de beurre pommade
-- 75 g de sucre glace
-- 125 g de poudre d'amandes *(ou de mélange à proportions variables amande/noisette)*
+- 120 g de beurre pommade
+- 90 g de sucre glace
+- 150 g de poudre d'amandes *(ou de mélange à proportions variables amande/noisette)*
 - 1 &oelig;uf
 - 2 à 3 cuillères à soupe de rhum
 - Extrait d'amandes amères (quelques gouttes)
@@ -110,13 +120,15 @@ difficulte:
 - Une fois la pâte disposée, couper le bord supérieur au ras du disque à pâtisserie
 - *Les proportions sont généreuses et a priori il y aura du restant de pâte ; éventuelleemnt faire des aablés avec*
 ### Déposer la frangipane
-- Prélerver 175 g de crème pâtissière
+- Prélerver 210 g de crème pâtissière
 - Mélanger avec la crème d'amandes pour obtenir une frangipane
-- Ètaler ce mélange sur le fond de tarte en une couche régulière, d'environ 1<sup>1</sup>/<sub>2</sub> à 2 cm
+- Ètaler environ 80% de ce mélange sur le fond de tarte en une couche régulière, d'environ 1<sup>1</sup>/<sub>2</sub> à 2 cm
 ### Ajouter les poires
 - Découper chaque quartier de poire en quelques lanières (3 à 5 selon la taille des quartiers)
 - Déposer chaque lanière dans la frangipane, en l'enfonçant légèrement
-- Avec le restant des poires, former une rosace au centre de la tarte
+### Déposer le restant de frangipane
+- Ètaler délicatement sur les poires le restant de frangipane
+- Avec le restant des poires, former une rosace au centre de la tarte en décoration
 ## Cuisson
 - Mettre la tarte au frais : dans la mesure où il ne s'agit pas d'un moule à tarte mais d'un disque sans fond, il est important que la pâte soit froide pour ne pas couler sous le disque
 - *Si la tôle de cuisson n'est pas bien plane (lèche-frite par exemple), sceller le bord extérieur du disque à la tôle avec du restant de pâte et éventuellement un ajout de papier aluminium*
