@@ -132,8 +132,8 @@ difficulte:
 ## Cuisson
 - Mettre la tarte au frais : dans la mesure où il ne s'agit pas d'un moule à tarte mais d'un disque sans fond, il est important que la pâte soit froide pour ne pas couler sous le disque
 - *Si la tôle de cuisson n'est pas bien plane (lèche-frite par exemple), sceller le bord extérieur du disque à la tôle avec du restant de pâte et éventuellement un ajout de papier aluminium*
-- Four préchauffé à 170/180° (chaleur tournante + sole)
-- Cuisson entre 30 et 45 minutes : à surveiller en fonction du four
+- Four préchauffé à 170/180° (chaleur tournante + sole), avec préchauffage de la tôle de cuisson *(choc thermique pour saisir la pâte et éviter qu'elle s'étale)*
+- Cuisson entre 30 et 45 minutes : à surveiller en fonction du four *(plutôt 45 mn, éventuellement baisser en fin de cuisson à 160)*
 - À la sortie du four, déposer sur une grille
 - Enlever le cercle au moment opportun
 ## Conseils divers
