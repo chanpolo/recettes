@@ -17,14 +17,15 @@ keywords: ""
 categories: ["plat"]
 tags: ["oeuf", "omelette", "pomme de terre", "oignon", "huile d'olive"]
 
-photo: "_default_image.jpg"
-alt: ""
+photo: "tortilla-de-patatas.jpg"
+alt: "Une tortilla de patatas sur son assiette, avec une part déjà coupée"
 caption: ""
 source: ""
 
 remarque: >
     La recette est donnée pour trois personnes environ<br>
-    Adapter en fonction du nombre de convives <b>en respectant les proportions</b>
+    Adapter en fonction du nombre de convives <b>en respectant les proportions</b><br>
+    Une recette inspirée par <em>Abuela y Abuelo</em> et par <a href="https://www.youtube.com/@FoodisLove">Food is Love</a>
 
 preparation: 
 cuisson: 
@@ -44,7 +45,7 @@ difficulte:
 - 400 grammes d'oignons jaunes
 - 200 grammes d'huile d'olive
 - 6 &oelig;ufs 
--*Utiliser soit une soit deux poêles : c'est la place prise par les oignons qui détermine ce choix*
+- *Utiliser soit une soit deux poêles : c'est la place prise par les oignons qui détermine ce choix*
 ## Préparation
 ### Les oignons
 #### Préparation
@@ -92,7 +93,7 @@ difficulte:
 - Ajouter les pommes de terre et mélanger
 #### Cuisson
 - Dans la poêle (24 cm pour 3, 28 cm pour 6), verser **une partie** de l'huile récupérée
-- Chauffer *(niveau 8 sur l'induction)
+- Chauffer *(niveau 8 sur l'induction)*
 - Verser la préparation
 - Égaliser à la spatule pour bien répartir oignons et pommes de terre
 - De temps à autre, décoller les bords à la spatule, donner des mouvements de va-et-vient pour faire glisser la tortilla dans le fond, un peu comme une crêpe
@@ -106,6 +107,16 @@ difficulte:
 #### Service
 - Découper selon le nombre de convives
 - Accompagner d'un peu de salade (histoire d'alléger le plat, même si il ne donne pas l'impression de gras à la dégustation)
+## Vidéos explicatives
+### Food is Love
+<div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
+{{< youtube id=lE0A-S2iSN0 mute=true >}}
+</div>
 
+### [Woogy's](https://www.youtube.com/@Whoogys)
+
+<div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
+{{< youtube id=4vieIzm8l-o mute=true >}}
+</div>
 
 
