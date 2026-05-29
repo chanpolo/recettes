@@ -45,8 +45,10 @@ difficulte:
 - *Anchois supplémentaires et tomates confites (facultatif)*
 - Parmesan ou feta, *ad libitum*
 - 45 à 50 g d'huile d'olive *(soit 5 cl)*
+
 ## Préparation
-### Cuisson des aulx confits
+### Cuisson des aulx confits
+
 - Peler les aulx
 - Dans une poêle ou une casserole de petite dimension, faire chauffer doucement l'huile
 - Chauffer à 140°
