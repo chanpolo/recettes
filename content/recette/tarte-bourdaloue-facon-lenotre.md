@@ -86,6 +86,7 @@ difficulte:
 - Étaler entre deux [toiles de cuisson](https://boutique.guydemarle.com/toiles-et-tapis-de-cuisson/4508-toile-de-cuisson-en-silicone-40-x-30-cm.html) de taille adaptée
 - Réserver au frais quelques heures
 ### Les poires
+#### Recette originelle
 - Peler les poires
 - Les couper en quartiers et les évider
 - Dans un récipient de bonne contenance, faire chauffer l'eau, le sucre et les épices
@@ -95,6 +96,9 @@ difficulte:
 - *En fonction de la maturité des poires, prolonger éventuellement la cuisson*
 - Prélever les poires, les égoutter et les réserver
 - *Il est possible de conserver quelques jours le sirop ainsi parfumé, pour d'autres préparations. On peut également le réduire fortement, de manière à obtenir un mélange concentré, proche de la confiture ; c'est une opération assez longue et plutôt énergivore.*
+#### Variante moins sucrée
+- ***Les poires confites dans le sirop de sucre sont, finalement, très sucrées. Pour pallier cela, le mieux est de les pocher comme dans la recette des*** **Poires confites au vin**
+- Voir la recette [Poires confites au vin]({{<ref "/recette/poires-confites-au-vin" >}})
 ### La crème d'amandes
 - Mettre le beurre pommade dans un récipient
 - Ajouter le sucre et mélanger
