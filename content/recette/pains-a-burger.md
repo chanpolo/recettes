@@ -32,15 +32,25 @@ difficulte:
 
 
 ## Ingrédients
+### Recette initiale
 - 250 g de farine *(mi T45, mi T55)*
 - 10 g de levure fraîche
 - 125 g de lait
 - 10 g de sucre en poudre
+- 2,5 g de sel
 - 20 g de beurre pommade
 - 1 &oelig;uf de petite taille
 - Graines de sésame ou de cumin *(facultatif)*
 - *Pour 8 pains, soit le double de farine, on pourra prenre un &oelig;uf de bon poids*
 - 1 jaune d'&oelig;uf pour la dorure
+### Recette de F.R. Gaudry
+- 450 g de farine
+- 15 g de levure fraîche
+- 200 g d'eau
+- 80 g de lait
+- 30 g de beurre
+- 30 g de sucre
+- 5 g de sel 
 ## Préparation
 ### Pétrissage de la pâte
 - Dans un récipient, verser le lait tempéré
@@ -85,3 +95,7 @@ difficulte:
 - *Façonnant les pains*
 - *Laissant les pains reposer la nuit à température ambiante*
 - *Au besoin, en les mettant dans le four la lumière allumée une heure le matin*
+## La recette de [François-Régis Gaudry](https://www.youtube.com/playlist?list=PL43OynbWaTMJDLQiEt2-omu3EbekinzcD)
+<div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
+{{< youtube id=nMbjh1AGGGw mute=true >}}
+</div>
