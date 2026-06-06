@@ -44,6 +44,7 @@ difficulte:
 - *Pour 8 pains, soit le double de farine, on pourra prenre un &oelig;uf de bon poids*
 - 1 jaune d'&oelig;uf pour la dorure
 ### Recette de F.R. Gaudry
+- *Voir la vidéo en fin de page*
 - 450 g de farine
 - 15 g de levure fraîche
 - 200 g d'eau
@@ -63,7 +64,7 @@ difficulte:
 - Pétrir en ajoutant progressivement le mélange lait/levure
 - Une fois tout le liquide versé, ajouter l'&oelig;uf battu
 - Une fois l'&oelig;uf absorbé, ajouter le beurre par petits morceaux
-- Pétrir à bitesse rapide pendant 5 minutes
+- Pétrir à vitesse rapide pendant 5 minutes
 - La pâte est prête lorsqu'elle se décolle du bord de la cuve
 - *Au besoin, pétrir un peu plus longtemps*
 - *Si la pâte ne se décolle pas franchement, cesser de pétrir au bout de 10 miniutes*
@@ -95,6 +96,7 @@ difficulte:
 - *Façonnant les pains*
 - *Laissant les pains reposer la nuit à température ambiante*
 - *Au besoin, en les mettant dans le four la lumière allumée une heure le matin*
+- Il est également possible de faire la première pousse à froid (pousse lente une nuit au réfrigérateur)
 ## La recette de [François-Régis Gaudry](https://www.youtube.com/playlist?list=PL43OynbWaTMJDLQiEt2-omu3EbekinzcD)
 <div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
 {{< youtube id=nMbjh1AGGGw mute=true >}}
