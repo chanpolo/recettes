@@ -17,8 +17,8 @@ keywords: ""
 categories: ["plat"]
 tags: ["brandade", "cabillaud", "morue", "arlettes", "pâte feuilletée", "ail", "parmesan", "olives de lucques", "thym"]
 
-photo: "_default_image.jpg"
-alt: ""
+photo: "brandade-nimoise-facon-michel-sarran.jpg"
+alt: "une assiette de brandade nimoise"
 caption: ""
 source: ""
 
@@ -128,9 +128,8 @@ difficulte:
 - Le plus simple est de déposer la brandade sur l'assiette, de disposer quelques arlettes, ajouter quelques brins de persil ou autes éléments de décoration
 - Le mieux est de finaliser la cuisson de la brandade (brandage) au moment de servir
 ### Vidéo explicative
-Attente d'autorisation de M6
 
-<!-- <video controls autoplay muted playsinline width="800">
+<video controls autoplay muted playsinline width="800">
   <source src="/videos/Brandade_Sarran_MeilleureBoulangerie.mp4" type="video/mp4">
-</video> -->
+</video>
 
