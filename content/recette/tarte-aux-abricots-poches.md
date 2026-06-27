@@ -6,7 +6,7 @@ date: 2024-08-07T08:05:03+02:00
 draft: false
 
 description: >
-    Une tarte aux abricots sur un lit de pâte sablée, avec un parfum d'estragon.<br>
+    Une tarte aux abricots sur un lit de pâte sablée, avec un parfum de romarin.<br>
     Le pochage des abricots dans un sirop de sucre atténue l'acicité de la tarte traditionnelle.<br>
     Un must des tartes estivales !
 
@@ -103,3 +103,7 @@ difficulte:
 - Enfourner pendant 50 minutes
 - *Au défournage, imbiber à nouveau les abricots avec le beurre clarifié aromatisé (facultatif)*
 - Déguster tiède
+## En vidéo
+<div  class="pt-8 md:w-3/4 mx-auto" loading="lazy">
+{{< youtube id=J4Gwkq6AiEo mute=true >}}
+</div>

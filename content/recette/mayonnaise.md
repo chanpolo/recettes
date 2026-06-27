@@ -38,6 +38,7 @@ difficulte:
 - sel
 - poivre
 - 10 cl d'huile neutre (colza par exemple), soit environ 110 grammes
+- ***En fait avec 60 g d'huile, la mayonnaise commence à prendre et être consommable***
 - *Vinaigre ou jus de citron : un filet (facultatif)*
 ## Préparation
 - Laisser les ingrédients reposer à température ambiante
