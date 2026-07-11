@@ -97,7 +97,7 @@ difficulte:
 - Baisser la température du four à 160°
 - Poursuivre la cuisson entre 10 et 20 minutes en surveillant : c'est la coloration blond/brun qui est un indicateur de l'arrêt
 - Laisser refroidir sur une grille
-- *Si la tarte est cuite la veille, la laisser à l'air libre, éventuellement en la couvrant légèrement. Ne pas la mettre au réfrigérateur
+- *Si la tarte est cuite la veille, la laisser à l'air libre, éventuellement en la couvrant légèrement. Ne pas la mettre au réfrigérateur*
 ### L'appareil au citron
 #### Préparation
 - Préparer le beurre pour qu'il soit à température ambiante
@@ -105,7 +105,7 @@ difficulte:
 - Mélanger le sucre et les zestes de citron
 - Laisser infuser une dizaine de minutes
 - Mixer le sucre et les zestes au [robot Valentin](https://www.seb.fr/Pr%C3%A9paration-des-aliments/H%C3%A2choir--mixeur--batteur/VALENTIN-2-en-1-compact-Blanc/p/1500855306) pour rendre les zestes le plus fin possible
-- Presser le jus des citrons pour obtenir environ 12 cl (120 g)
+- Presser le jus des citrons pour obtenir environ 24 cl (240 g)
 - Filtrer le jus de citron
 
 #### Cuisson
