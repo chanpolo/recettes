@@ -25,7 +25,8 @@ source: ""
 remarque: >
     La recette est donnée pour trois personnes environ<br>
     Adapter en fonction du nombre de convives <b>en respectant les proportions</b><br>
-    Une recette inspirée par <em>Abuela y Abuelo</em> et par <a href="https://www.youtube.com/@FoodisLove">Food is Love</a>
+    Une recette inspirée par <em>Abuela y Abuelo</em> et par <a href="https://www.youtube.com/@FoodisLove">Food is Love</a><br>
+    Une version de Marcus et d'Abuela est disponible en bas de page
 
 preparation: 
 cuisson: 
@@ -119,4 +120,22 @@ difficulte:
 {{< youtube id=4vieIzm8l-o mute=true >}}
 </div>
 
+## Version d'Abuela et de Marcus
+- Pas d'oignon (ou, à la limite <sup>1</sup>/<sub>4</sub> d'oignon pour 4 pommes de terre)
+- Proportions : un &oelig;uf pour une pomme de terre
+- Huile : *ad libitum*, au jugé
+- Couper les pommes de terre en rondelles fines
+- Dans une bonne quantité d'huile chaude, dispoer les pommes de terre  ; saler et poivrer
+- Laisser cuire à feu plutôt vif jusqu'à ce que les pommes de terre commencent à ramollir
+- *Tourner régulièrement pour éviter que cela ne brunisse*
+- Lorsque les pommes de terre commencent à ramollir, baisser le feu et couvrir
+- Remuer régulièrement, mais sans écraser les pommes de terre ni leur donner l'aspect écrasé de la recette initiale
+- Battre les &oelig;ufs dans un saladier, saler et poivrer
+- Une fois cuites, passer les pommes de terre en récupérant l'huile
+- Jeter les pommes de terre **chaudes** dans les &oelig;ufs battus
+- Utiliser l'huile de cuisson des pommes de terre pour cuire la tortilla
+- Cuire la première face (6 minutes ?) en remuant régulièrement la poêle par des petits mouvements du poignet et en décollant délicatement les bords
+- Couvrir pour permettre au dessus de commencer à coaguler, ce qui devrait favoriser le retournement
+- Retourner ; l'idéal est d'utiliser une planche à découper suffisament large (le problème d'un plat avec un bord est que la tortilla glissera mal ensuite dans la poêle)
+- Poursuivre la cuisson (3 à 4 minutes ?)
 
