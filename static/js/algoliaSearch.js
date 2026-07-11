@@ -1,8 +1,8 @@
 algoliasearchNetlify({
-    appId: 'G1CLP4891G',
-    apiKey: '6786f5d4d6ec0f3ddc9fa6683d4bc2c4',
+    appId: 'WHDCHPS7CO',
+    apiKey: 'a6b7b279627ed8de1ecf64109b8964d6',
     siteId: 'c441371c-c790-4a40-993c-bdf9cd973932',
     branch: 'main',
     selector: 'div#search',
-    indexName: 'chanpolo_2025-08',
+    indexName: 'chanpolo_2026-07',
     })
