@@ -16,15 +16,16 @@ keywords: ""
 categories: ["dessert"]
 tags: ["tarte", "pâte sablée sucrée", "praliné", "citron", "jus de citron", "crème au beurre"]
 
-photo: "_default_image.jpg"
-alt: ""
+photo: "tarte-au-citron-simple.jpg"
+alt: "Une tarte au citron sur son plat de service"
 caption: ""
 source: ""
 
 remarque: >
     Une recette inspirée par [Mercotte](https://www.mercotte.fr/2010/06/16/simplissime-tarte-au-citron/)<br>
     Pour un disque de 22 cm de diamètre<br>
-    Le fond de tarte et l'appareil au citron peuvent être réalisés la veille, avec un montage définitif le jour même
+    Le fond de tarte et l'appareil au citron peuvent être réalisés la veille, avec un montage définitif le jour même<br>
+    Si on veut une pâte très fine, le mieux est de faire des tartelettes individuelles, pour éviter les problèmes de découpe
 
 preparation: 
 cuisson: 
