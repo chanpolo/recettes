@@ -4,5 +4,5 @@ algoliasearchNetlify({
     siteId: 'c441371c-c790-4a40-993c-bdf9cd973932',
     branch: 'main',
     selector: 'div#search',
-    indexName: 'chanpolo_2026-07',
+    indexName: 'search-20260711',
     })

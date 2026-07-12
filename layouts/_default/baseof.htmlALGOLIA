@@ -10,7 +10,7 @@
     
     {{- partial "nav/nav.html" . -}}
 
-    <div id="search"></div>
+ 
 
 
     <!-- test pour algolia ; voir chatGPT -->
