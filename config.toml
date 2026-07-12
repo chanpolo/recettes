@@ -161,8 +161,8 @@ mediaType = "application/json"
 notAlternative = true
 
 [params.algolia]
-vars = ["title", "titleshort", "summary", "date", "permalink"]
-params = ["categories", "tags", "description"]
+vars = ["title", "url", "description", "summary", "date", "section", "image"]
+params = ["categories", "tags", "author", "titleshort", "short", "alt"]
 
 [outputs]
 home = ["HTML", "RSS", "Algolia", "dessert", "entree", "plat", "genimages"]
